@@ -6,7 +6,7 @@ import re
 def extract_tables_from_pdf(pdf_path):
     # Read PDF and extract tables
     tables = tabula.read_pdf(pdf_path, pages='all',
-                             multiple_tables=True, stream=True)
+                             multiple_tables=True, stream=False)
 
     # Get the year from the PDF file name
     year = os.path.basename(pdf_path).split('.')[0]

@@ -1,0 +1,602 @@
+3M Company	St. Paul	MN	101	85.0	15.0	5.0	0.0	5.0		5.0	15.0	5.0	15.0	15.0	0.0	
+3M Company	St. Paul	MN	101.0	85	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+A.G. Edwards Inc.	St. Louis	MO	665	85.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	0.0	0.0
+A.G. Edwards Inc.	St. Louis	MO	665.0	85.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	0.0	0.0	
+ABN AMRO Holding N.V.	Chicago	IL		65.0	15.0	5.0	0.0	0.0		0.0	15.0	0.0	0	15.0	15.0	0.0	
+ABN AMRO Holding N.V.	Chicago	IL		65.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	
+ACNielsen	Schaumburg	IL		50.0	0.0	5.0	0.0	0.0		5.0	15.0	5.0	5	15.0	0.0	0.0	
+AEGON Insurance Group	Cedar Rapids	IA		35.0	0.0	5.0	0.0	0.0		5.0	15.0	5.0	5	0.0	0.0	0.0	22
+ALLTEL Corp	Little Rock	AR	251	30.0	15.0	5.0	0.0	0.0		5.0	0.0	0.0	5	0.0	0.0	0.0	
+ALLTEL Corp	Little Rock	AR	251.0	30.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	
+AMR Corp	Fort Worth	TX	105	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+APL Limited	Oakland	CA		30.0	15.0	0.0	0.0	0.0		0.0	15.0	0.0	0	0.0	0.0	0.0	
+APL Limited	Oakland	CA		30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0		
+AT&T Inc.	San Antonio	TX	39.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+AT&T Inc.	San Antonio	TX	39	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0
+Abbott Laboratories	Abbott Park	IL	93	50.0	15.0	5.0	0.0	0.0		0.0	15.0	0.0	0	0.0	15.0	0.0	
+Abbott Laboratories	Abbott Park	IL	93.0	50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	15.0	0.0
+Abercrombie & Fitch Co.	New Albany	OH	639	50.0	15.0	5.0	0.0	0.0		0.0	15.0	0.0	0	0.0	15.0	0.0	
+Abercrombie & Fitch Co.	New Albany	OH	639.0	50	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	15.0	0.0
+Accenture Ltd.	New York	NY		95.0	15.0	5.0	15.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+Adobe Systems Inc.	San Jose	CA	817	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	C
+Advanced Digital Information Corp.	Redmond	WA		15.0	15.0	0.0	0.0	0.0		0.0	0.0	0.0	0	0.0	0.0	0.0	
+Advanced Micro Devices	Sunnyvale	CA	367	80.0	15.0	5.0	15.0	5.0		5.0	15.0	0.0	5	0.0	15.0	0.0	
+Advanced Micro Devices	Sunnyvale	CA	367.0	80.0	15.0	5.0	15.0	5.0	5.0	15.0	0.0	5.0	0.0	15.0	0.0	
+Aetna Inc.	Hartford	CT	91	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+Aetna Inc.	Hartford	CT	91 100	15	5	15.1	5.1		5.2	15.2	5.3	5 15	15.3	0	5.4
+Affiliated Computer Services	Dallas	TX	471	75.0	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5	15.0	15.0	0.0	
+Agere Systems Inc.	Allentown	PA	904	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+Agere Systems Inc.	Allentown	PA	904	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0
+Agilent Technologies Inc.	Palo Alto	CA	319	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+Agilent Technologies Inc.	Palo Alto	CA	319.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Air Products & Chemicals Inc.	Allentown	PA	282	75.0	15.0	5.0	15.0	0.0		5.0	0.0	0.0	5	15.0	15.0	0.0	
+Air Products & Chemicals Inc.	Allentown	PA	282.0	75.0	15.0	5.0	15.0	0.0	5.0	0.0	0.0	5.0	15.0	15.0	0.0	
+Albertson's Inc.	Boise	ID	47	85.0	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+Albertson's Inc.	Boise	ID	47.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	6
+Allegheny Energy	Greensburg	PA	572	50.0	0.0	5.0	0.0	5.0		0.0	15.0	5.0	5	0.0	15.0	0.0	
+Allegheny Energy	Greensburg	PA	572 50	0.0	5.0	0.0	5.0		0.0	15.0	5.0	5 0	15.0	0.0	
+Alliant Energy Corp.	Madison	WI	549	60.0	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5	15.0	0.0	0.0	
+Alliant Energy Corp.	Madison	WI	549 60	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5 15	0.0	0.0	
+Alliant Techsystems	Edina	MN	638	65.0	15.0	5.0	15.0	0.0		5.0	15.0	5.0	5	0.0	0.0	0.0	
+Allianz Life Insurance Co. of North America	Minneapolis	MN		100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+Allstate Corp., The	Northbrook	IL	58	85.0	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+Alston & Bird LLP	Atlanta	GA	50	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+Amazon.com Inc.	Seattle	WA	272	65.0	15.0	5.0	0.0	5.0		0.0	15.0	5.0	5	15.0	0.0	0.0	
+Amazon.com Inc.	Seattle	WA	272.0		65.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	5.0	15.0	0.0	0.0	
+American Express Co.	New York	NY	69	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+American Express Co.	New York	NY	69 100	15	5	15.1	5.1	Unnamed: 0	5.2	15.2	5.3	5 15	15.3	0
+American Family Insurance Group	Madison	WI	323	75.0	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5	15.0	15.0	0.0	
+American International Group Inc.	New York	NY	9	30.0	15.0	0.0	0.0	0.0		0.0	15.0	0.0	0	0.0	0.0	0.0	
+American Power Conversion Corp	West Kingston	RI	815	58.0	15.0	5.0	0.0	5.0		0.0	15.0	5.0	5	7.5	0.0	0.0	
+American Power Conversion Corp	West Kingston	RI	815.0	58.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	5.0	7.5	0.0	0.0	
+Amgen Inc.	Thousand Oaks	CA	181	85.0	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+Amgen Inc.	Thousand Oaks	CA	181.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0
+Anheuser-Busch Companies Inc.	St. Louis	MO	146	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+Anheuser-Busch Companies Inc.	St. Louis	MO	146.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Aon Corp.	Chicago	IL	237	95.0	15.0	5.0	15.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+Apple Computer Inc.	Cupertino	CA	159.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Applebee's International Inc.	Overland Park	KS				80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Applebee's International Inc.	Overland Park	KS			80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Applied Materials Inc.	Santa Clara	CA	317.0			73.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+Applied Materials Inc.	Santa Clara	CA	317.0	73.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+Aquila	Kansas City	MO	760.0			35.0	15.0	0.0	15.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	
+Aquila	Kansas City	MO	760.0	35	15.0	0.0	15.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0
+Aramark Corp.	Philadelphia	PA	215.0			80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Aramark Corp.	Philadelphia	PA	215.0		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Archer Daniels Midland Co.	Decatur	IL	56.0			15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+Archer Daniels Midland Co.	Decatur	IL	56.0		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+Arnold & Porter	Washington	DC			39.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+AutoZone Inc.	Memphis	TN	378.0			25.0	15.0	5.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+AutoZone Inc.	Memphis	TN	378.0		25.0	15.0	5.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+Automatic Data Processing Inc.	Roseland	NJ	271.0			30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
+Automatic Data Processing Inc.	Roseland	NJ	271.0	30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0
+Avaya Inc.	Basking Ridge	NJ	434.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Avaya Inc.	Basking Ridge	NJ	434.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Aventis Pharmaceuticals Inc.	Bridgewater	NJ				80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Aventis Pharmaceuticals Inc.	Bridgewater	NJ		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0
+Avnet Inc.	Phoenix	AZ	212.0			30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
+Avon Products	New York	NY	281.0			30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
+Avon Products	New York	NY	281.0		30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
+BB&T Corp.	Winston-Salem	NC	292.0			25.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	
+BB&T Corp.	Winston-Salem	NC	292.0	25.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	
+BP America	Warrenville	IL				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Bain & Company Inc.(and Bridgespan Group)	Boston	MA				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Baldor Electric Co.	Fort Smith	AR				15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+Baldor Electric Co.	Fort Smith	AR		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Ball Corporation	Broomfield	CO	374.0			58.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	5.0	7.5	0.0	0.0	
+Ball Corporation	Broomfield	CO	374.0	58	15.0	5.0	0.0	5.0	5.0	15.0	0.0	5.0	7.5	0.0	0.0	
+Baltimore Gas & Electric Co.	Baltimore	MD				55.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	15.0	0.0	
+Baltimore Gas & Electric Co.	Baltimore	MD	55	15.0	0.0	0.0	0.0		0.0	15.0	5.0	5 0	15.0	0.0	
+Bank of America Corp.	Charlotte	NC	12.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Bank of America Corp.	Charlotte	NC	12 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Bank of New York Co.	New York	NY	278.0			85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Bank of New York Co.	New York	NY	278.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Barclays Capital	New York	NY				90.0	15.0	5.0	15.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Barclays Capital	New York	NY		90.0	15.0	5.0	15.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Barnes & Noble Inc.	New York	NY	422.0			60.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	15.0	0.0	
+Barnes & Noble Inc.	New York	NY	422.0		60.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	15.0	0.0	
+Bausch & Lomb Inc.	Rochester	NY				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Bausch & Lomb Inc.	Rochester	NY	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Baxter International Inc.	Deerfield	IL	240.0			73.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+Baxter International Inc.	Deerfield	IL	240.0	73.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+Bayer Corp.	Pittsburgh	PA				15.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
+Bayer Corp.	Pittsburgh	PA		15.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0
+BellSouth Corp.	Atlanta	GA	106.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+BellSouth Corp.	Atlanta	GA	106.0	100	15	5	15	5	5	15	5	5	15	15	0
+Ben and Jerry's Homemade Inc.	South Burlington	VT				50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	15.0	0.0	4
+Ben and Jerry's Homemade Inc.	South Burlington	VT			50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	15.0	0.0
+Best Buy Co. Inc.	Richfield	MN	76.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Bingham McCutchen	Boston	MA			26.0	80.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Biovail Pharmaceuticals Inc.	Bridgewater	NJ				40.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	0.0	0.0	0.0	0.0	6
+Biovail Pharmaceuticals Inc.	Bridgewater	NJ		40.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	0.0	0.0	0.0	0.0
+Blockbuster Inc.	Dallas	TX	366.0			60.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	15.0	0.0	
+Blockbuster Inc.	Dallas	TX	366.0	60.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	15.0	0.0	
+Boeing Co.	Chicago	IL	26.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Booz Allen Hamilton Inc.	McLean	VA		66.0		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Borders Group Inc.	Ann Arbor	MI	490.0			95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Borders Group Inc.	Ann Arbor	MI	490.0		95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Bridgestone Americas Holding Inc.	Nashville	TN				45.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	15.0	0.0	
+Bridgestone Americas Holding Inc.	Nashville	TN		45.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	15.0	0.0
+Bright Horizons Family
+Brinker International Inc.	Dallas	TX	504.0			85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Brinker International Inc.	Dallas	TX	504.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Bristol-Myers Squibb Co.	New York	NY	110.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Bristol-Myers Squibb Co.	New York	NY	110	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0
+Bryan Cave LLP	St. Louis	MO			55.0	75.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
+C&S Wholesale Grocers Inc.	Keene	NH		8.0		40.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	0.0	0.0	0.0	0.0	
+C&S Wholesale Grocers Inc.	Keene	NH		8.0	40.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	0.0	0.0	0.0	0.0		
+CBRL Group Inc.	Lebanon	TN	676		15	15.0	0.0	0.0	0.0		0.0	0.0	0.0	0	0.0	0.0	0.0
+CBRL Group Inc.	Lebanon	TN	676.0		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	37.0
+CDW Corporation	Vernon Hills	IL	343		58	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5	7.5	0.0	0.0
+CH2M HILL Companies, Ltd.	Englewood	CO	591	88.0	80	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+CH2M HILL Companies, Ltd.	Englewood	CO	591	88	80	15	5	0	0.1	5.1	15.1	5.2	5.3	15.2	15.3	0.2
+CIGNA Corp.	Philadelphia	PA	130		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+CIGNA Corp.	Philadelphia	PA	130 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+CMP Media LLC	Manhasset	NY			100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+CMP Media LLC	Manhasset	NY	100 15	5	15	5.1	Unnamed: 0	5.2	15.1	5.3	5 15	15.2	0
+CNA Insurance	Chicago	IL			100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+CSX Corp.	Jacksonville	FL	266.0	40.0	15.0	5.0	0.0	5.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	
+CSX Corp. 	Jacksonville	FL	266.0			40.0	15.0	5.0	0.0	5.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	
+CUNA Mutual Insuranceity Group 	Madison	WI	644.0			65.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	5.0	15.0	15.0	0.0	
+Cadwalader, Wickersham & Taft	New York	NY			46 95	15.0	5.0	15.0	5.0		0.0	15.0	5.0	5	15.0	15.0	0.0
+California State Automobile Association	San Francisco	CA			100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Calpine Corp.	San Jose	CA	275		63	15.0	0.0	0.0	0.0		0.0	15.0	5.0	5	7.5	15.0	0.0	
+Calpine Corp.	San Jose	CA	275 63	15.0	0.0	0.0	0.0		0.0	15.0	5.0	5 7.5	15.0	0.0	
+Campbell Soup Co.	Camden	NJ	302		80	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Campbell Soup Co.	Camden	NJ	302.0		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Capital One Financial Corp.	McLean	VA	187		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Capital One Financial Corp.	McLean	VA	187 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Caremark RX	Nashville	TN	60		55	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	0.0	0.0	0.0
+Caremark RX	Nashville	TN	60 55	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5 0	0.0	0.0	
+Cargill Inc.	Wayzata	MN		1.0	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+Cargill Inc.	Wayzata	MN		1.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Carlson Companies Inc.	Minnetonka	MN		82.0	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Carlson Companies Inc.	Minnetonka	MN	Unnamed: 0	82	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0
+Caterpillar Inc.	Peoria	IL	55		35	15.0	5.0	0.0	0.0		0.0	0.0	0.0	0	15.0	0.0	0.0
+Caterpillar Inc.	Peoria	IL	55.0	35	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	
+Cendant Corp.	New York	NY	114		75	15.0	5.0	0.0	5.0		0.0	15.0	0.0	5	15.0	15.0	0.0
+Cendant Corp.	New York	NY	114.0	75.0	15.0	5.0	0.0	5.0	0.0	15.0	0.0	5.0	15.0	15.0	0.0
+Cerner Corp.	Kansas City	MO			45	15.0	5.0	15.0	5.0		0.0	0.0	0.0	5	0.0	0.0	0.0
+Chamberlin Edmonds & Associates Inc	Atlanta	GA			68	15.0	0.0	0.0	0.0		5.0	15.0	5.0	5	7.5	15.0	0.0
+Chamberlin Edmonds & Associates Inc	Atlanta	GA		68.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+Charles Schwab Corp., The	San Francisco	CA	418		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	23.0	
+Charles Schwab Corp., The	San Francisco	CA	418 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Chevron Corp.	San Ramon	CA	4		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Chevron Corp.	San Ramon	CA	4	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0
+ChoicePoint Inc.	Alpharetta	GA			100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+ChoicePoint Inc.	Alpharetta	GA	Unnamed: 0	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0
+Chubb Corp.	Warren	NJ	156		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+Cingular Wireless	Atlanta	GA			85	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Cingular Wireless	Atlanta	GA		85	15	5	0	5	5	15	5	5	15	15	0
+Circuit City Stores Inc.	Richmond	VA	226		55	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	0.0	0.0	0.0
+Circuit City Stores Inc.	Richmond	VA	226.0		55.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	0.0	0.0	0.0	
+Cisco Systems Inc.	San Jose	CA	83		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+Cisco Systems Inc.	San Jose	CA	83.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Citigroup Inc.	New York	NY	8		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Citigroup Inc.	New York	NY	8 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	5
+Clear Channel Communications Inc.	San Antonio	TX	252		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Clear Channel Communications Inc.	San Antonio	TX	252.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Clorox Company	Oakland	CA	460		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Clorox Company	Oakland	CA	460.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Coca-Cola Company	Atlanta	GA	89		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Coca-Cola Company	Atlanta	GA	89.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Coca-Cola Enterprises	Atlanta	GA	120		65	15.0	5.0	0.0	5.0		0.0	15.0	5.0	5	15.0	0.0	0.0
+Coca-Cola Enterprises	Atlanta	GA	120.0		65.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	5.0	15.0	0.0	0.0
+Colgate-Palmolive Co.	New York	NY	204		78	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	7.5	15.0	0.0										C O R P O R A T E  E Q U A L I T Y  I N D E X  2 0 0 6			
+Colgate-Palmolive Co.	New York	NY	204.0		78.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+Comcast Corp.	Philadelphia	PA	94		85	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Comcast Corp.	Philadelphia	PA	94.0	85	15	5	0	5	5	15	5	5	15	15	0
+Comerica Inc.	Detroit	MI	524		80	15.0	5.0	0.0	5.0		5.0	15.0	0.0	5	15.0	15.0	0.0
+Comerica Inc.	Detroit	MI	524.0	80.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+Compass Group North America	Charlotte	NC			65	15.0	5.0	0.0	5.0		0.0	15.0	5.0	5	0.0	15.0	0.0
+Compass Group North America	Charlotte	NC			65.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	5.0	0.0	15.0	0.0
+ConocoPhillips	Houston	TX	6		78	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	7.5	15.0	0.0
+ConocoPhillips	Houston	TX	6.0	78	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0
+Consolidated Edison Co.	New York	NY	199		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Consolidated Edison Co.	New York	NY	199 100	15	5	15.1	5.1	Unnamed: 0	5.2	15.2	5.3	5 15	15.3	0
+Continental Airlines	Houston	TX	207		75	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5	15.0	15.0	0.0
+Cooper Tire & Rubber	Findlay	OH	770		33	0.0	5.0	15.0	5.0		0.0	0.0	0.0	0	7.5	0.0	0.0
+Cooper Tire & Rubber	Findlay	OH	770.0	33	0.0	5.0	15.0	5.0	0.0	0.0	0.0	0.0	7.5	0.0	0.0	
+Coors Brewing Company	Golden	CO	373		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Coors Brewing Company	Golden	CO	373.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Corbis Corporation	Seattle	WA			65	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5	0.0	15.0	0.0
+Corbis Corporation	Seattle	WA		65.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	0.0	15.0	0.0	
+Corning Inc.	Corning	NY	456		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Corning Inc.	Corning	NY	456.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Costco Wholesale Corp.	Issaquah	WA	28.0		93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+Costco Wholesale Corp. Issaquah		WA	28.0			93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+Countrywide Financial Corp.	Calabasas	CA	122.0	80.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	0.0	15.0	0.0	
+Countrywide Financial Corp. 	Calabasas	CA	122.0			80.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	0.0	15.0	0.0	
+Cox Communications Inc.	Atlanta	GA	316.0	95	15	5	15	5	0	15	5	5	15	15	0
+Cox Communications Inc. 	Atlanta	GA	316.0			95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Credit Suisse Securities (USA) LLC	New York	NY	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Credit Suisse Securities (USA) LLC 	New York	NY				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Cummins Inc.	Columbus	IN	238	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0	5.5
+Cummins Inc. 	Columbus	IN	238.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+DPR Construction	Redwood City	CA				50.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	0.0	0.0	15.0	0.0	
+DPR Construction	Redwood City	CA			50	15.0	0.0	0.0	0.0	0.0	15.0	5.0	0.0	0.0	15.0	0.0
+DTE Energy Co.	Detroit	MI	259.0			80.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+DTE Energy Co.	Detroit	MI	259 80	15.0	5.0	0.0	5.0		5.0	15.0	0.0	5 15	15.0	0.0	
+DaimlerChrysler Corp.	Auburn Hills	MI	Unnamed: 0	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0
+DaimlerChrysler Corp. 	Auburn Hills	MI				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Dana Corp.	Toledo	OH	234.0	35.0	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0		
+Dana Corp. 	Toledo	OH	234.0			35.0	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0	
+Darden Restaurants	Orlando	FL	409.0		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Darden Restaurants 	Orlando	FL	409.0			80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0
+Dean Foods Co.	Dallas	TX	216.0		73.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+Dean Foods Co. 	Dallas	TX	216.0			73.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+Deere & Co.	Moline	IL	96.0	48	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	7.5	15.0	0.0	
+Deere & Co. 	Moline	IL	96.0			48.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	7.5	15.0	0.0	
+Dell Inc. 	Round Rock	TX	25.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Deloitte & Touche USA LLP 	New York	NY				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Delphi Corp.	Troy	MI	77.0	60.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0
+Delphi Corp. 	Troy	MI	77.0			60.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	
+Delta Air Lines Inc. 	Atlanta	GA	135.0			85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Deluxe Corp.	Shoreview	MN	873.0		60.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	
+Deluxe Corp. 	Shoreview	MN	873.0			60.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	
+Deutsche Bank	New York	NY	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Deutsche Bank 	New York	NY				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Dole Food Co. Inc.	Westlake Village	CA	365.0		60.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	0.0	0.0	15.0	0.0
+Dole Food Co. Inc. 	Westlake Village	CA	365.0			60.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	0.0	0.0	15.0	0.0	
+Dominion Resources Inc.	Richmond	VA	123 95	15.0	5.0	15.0	5.0		5.0	15.0	0.0	5 15	15.0	0.0	4
+Dominion Resources Inc. 	Richmond	VA	123.0			95.0	15.0	5.0	15.0	5.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+Domino's Pizza Inc.	Ann Arbor	MI	966.0		45.0	0.0	5.0	0.0	0.0	5.0	0.0	0.0	5.0	15.0	15.0	0.0
+Domino's Pizza Inc. 	Ann Arbor	MI	966.0			45.0	0.0	5.0	0.0	0.0	5.0	0.0	0.0	5.0	15.0	15.0	0.0	
+Donna Karan	New York	NY		45	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	15.0	0.0
+Donna Karan 	New York	NY				45.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	15.0	0.0	
+Dorsey & Whitney 	Minneapolis	MN			65.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Dow Chemical Co.	Midland	MI	36	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0	
+Dow Chemical Co. 	Midland	MI	36.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Dow Jones & Co. Inc.	New York	NY	867.0			30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
+Dow Jones & Co. Inc.	New York	NY	867 30 15	0.0	0.0	0.0		0.0	15.0	0.0	0 0	0.0	0.0
+DuPont (E. I. du Pont de Nemours)	Wilmington	DE	73.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+DuPont (E. I. du Pont de Nemours)	Wilmington	DE	73.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	4.0
+Duke Energy Corp.	Charlotte	NC	117.0			65.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	5.0	15.0	15.0	0.0	4
+Duke Energy Corp.	Charlotte	NC	117 65	15.0	5.0	0.0	5.0		5.0	0.0	0.0	5 15	15.0	0.0	
+E*TRADE Financial Corporation	New York	NY	679.0	73.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	5.0	7.5	15.0	0.0	
+E*TRADE Financial Corporation 	New York	NY	679.0			73.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	5.0	7.5	15.0	0.0	
+EMC Corp. 	Hopkinton	MA	249.0			45.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	0.0	0.0	
+EarthLink Inc.	Atlanta	GA		63.0	15.0	0.0	0.0	0.0	5.0	15.0	0.0	5.0	7.5	15.0	0.0	
+EarthLink Inc. 	Atlanta	GA				63.0	15.0	0.0	0.0	0.0	5.0	15.0	0.0	5.0	7.5	15.0	0.0	
+Eastman Kodak Co.	Rochester	NY	155.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Eastman Kodak Co. 	Rochester	NY	155.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Edison International	Rosemead	CA	194.0	35	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0
+Edison International 	Rosemead	CA	194.0			35.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
+Electronic Arts Inc. 	Redwood City	CA	594.0			88.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	7.5	15.0	0.0	
+Electronic Data Systems Corp.	Plano	TX	108.0	70.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	5.0	15.0	15.0	0.0
+Electronic Data Systems Corp. 	Plano	TX	108.0			70.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	5.0	15.0	15.0	0.0	
+Eli Lilly & Co.	Indianapolis	IN	148.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0
+Eli Lilly & Co. 	Indianapolis	IN	148.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Emerson Electric Co.	St. Louis	MO	126.0	45.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	0.0	0.0	15.0	0.0	
+Emerson Electric Co. 	St. Louis	MO	126.0			45.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	0.0	0.0	15.0	0.0	
+Entergy Corp.	New Orleans	LA	218.0	13	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	7.5	0.0	-15.0							
+Entergy Corp. 	New Orleans	LA	218.0			13.0	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	7.5	0.0	-15.0	
+Ernst & Young LLP 	New York	NY		7.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Estee Lauder Companies	New York	NY	340.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Estee Lauder Companies 	New York		NY	340.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Exelon Corp.	Chicago	IL	144		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5	15.0	15.0	0.0
+Exelon Corp.	Chicago	IL	144 80	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Exxon Mobil Corp.	Irving	TX	1		0.0	0.0	5.0	0.0	5.0	0.0	0.0	0.0	0	0.0	0.0	-15.0
+Exxon Mobil Corp.	Irving	TX	1.0	0	0.0	5.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	-15.0
+Faegre & Benson	Minneapolis	MN		99.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0
+Fannie Mae	Washington	DC			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0
+Fannie Mae	Washington	DC	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+FedEx Corp.	Memphis	TN	70		55.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0	15.0	15.0	0.0
+FedEx Corp.	Memphis	TN	70.0	55.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	15.0	15.0	0.0	
+Federated Department Stores	Cincinnati	OH	87		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5	15.0	15.0	0.0
+Fifth Third Bancorp	Cincinnati	OH	308		65.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	5	15.0	15.0	0.0
+Fifth Third Bancorp	Cincinnati	OH	308.0	65.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	5.0	15.0	15.0	0.0	
+Fish & Richardson	Boston	MA		87.0	75.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	5	15.0	15.0	0.0
+Fisher Scientific International	Hampton	NH	389		40.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	0	0.0	0.0	0.0
+Fisher Scientific International	Hampton	NH	389.0	40.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	0.0	0.0	0.0	0.0	
+Foley & Lardner	Milwaukee	WI		28.0	95.0	15.0	5.0	15.0	5.0	5.0	15.0	0.0	5	15.0	15.0	0.0
+Foley Hoag LLP	Boston	MA			80.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5	0.0	15.0	0.0
+Food Lion, LLC	Salisbury	NC			75.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5	15.0	15.0	0.0
+Food Lion, LLC	Salisbury	NC			75.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Ford Motor Co.	Dearborn	MI	5		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
+Ford Motor Co.	Dearborn	MI	5.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0
+Franklin Templeton Investments	San Mateo	CA			60.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5	0.0	15.0	0.0		C
+Franklin Templeton Investments	San Mateo	CA		60.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5.0	0.0	15.0	0.0	
+Freddie Mac	McLean	VA			85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0
+Freddie Mac	McLean	VA		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Freescale Semiconductor Inc.	Austin	TX	368		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0
+Freescale Semiconductor Inc.	Austin	TX	368.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Fulbright & Jaworski LLP	Houston	TX		32.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
+Gallup Organization	Washington	DC			30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0	0.0	0.0	0.0	25.0	
+GameStop Corp.	Grapevine	TX	601		63.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	0	7.5	15.0	0.0
+GameStop Corp.	Grapevine	TX	601.0		63.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	0.0	7.5	15.0	0.0	
+Gannett Co. Inc.	McLean	VA	296		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5	15.0	15.0	0.0
+Gannett Co. Inc.	McLean	VA	296 80 15	5.0	0.0	0.0		5.0	15.0	5.0	5 15	15.0	0.0
+Gap Inc.	San Francisco	CA	139		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
+Gateway Inc.	Irvine	CA	508		65.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5	0.0	15.0	0.0
+Genentech Inc.	S. San Francisco	CA			80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5	15.0	15.0	0.0
+Genentech Inc.	South San Francisco	CA		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+General Dynamics Corp.	Falls Church	VA	100		55.0	15.0	5.0	15.0	5.0	0.0	0.0	0.0	0	0.0	15.0	0.0		
+General Electric Co.	Fairfield	CT	7		75.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	0	15.0	15.0	0.0
+General Electric Co.	Fairfield	CT	7.0	75.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	0.0	15.0	15.0	0.0	
+General Mills Inc.	Minneapolis	MN	206		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0
+General Mills Inc.	Minneapolis	MN	206.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+General Motors Corp.	Detroit	MI	3		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0
+General Motors Corp.	Detroit	MI	3.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0
+Genuine Parts Co.	Atlanta	GA	245		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0		5
+Genuine Parts Co.	Atlanta	GA	245.0	15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Giant Food LLC	Quincy	MA			78.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	7.5	0.0	0.0
+Giant Food LLC	Quincy	MA			78.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	0.0	0.0	
+GlaxoSmithKline plc	Philadelphia	PA			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0
+GlaxoSmithKline plc	Philadelphia	PA		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Global Hyatt Corp.	Chicago	IL		89.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0
+Global Hyatt Corp.	Chicago	IL		89.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	4.0
+Golden West Financial Corp.	Oakland	CA	326		40.0	15.0	5.0	0.0	5.0	0.0	15.0	0.0	0	0.0	0.0	0.0
+Golden West Financial Corp.	Oakland	CA	326.0	40.0	15.0	5.0	0.0	5.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
+Goldman Sachs Group Inc., The	New York	NY	41		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0
+Goldman Sachs Group Inc., The	New York	NY	41 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Google Inc.	Mountain View	CA	353.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Guidant Corp.	Indianapolis	IN	535		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5	15.0	15.0	0.0
+H. E. Butt Grocery Co.	San Antonio	TX		11.0	40.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0	0.0	15.0	0.0
+H. E. Butt Grocery Co.	San Antonio	TX		11.0	40.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	15.0	0.0	
+H. J. Heinz Co.	Pittsburgh	PA	262		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0
+H. J. Heinz Co.	Pittsburgh	PA	262.0		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+HSBC USA Inc.	Prospect Heights	IL			95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
+HSBC USA Inc.	Prospect Heights	IL	95	15.0	5.0	15.0	5.0		0.0	15.0	5.0	5 15	15.0	0.0	
+Hain Celestial Group Inc.	Melville	NY			30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0	0.0	0.0	0.0
+Hain Celestial Group Inc.	Melville	NY			30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0
+Hallmark Cards Inc.	Kansas City	MO		41.0	75.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	5	15.0	15.0	0.0
+Hallmark Cards Inc.	Kansas City	MO		41.0	75.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Hannaford Brothers	Portland	ME			65.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0	15.0	15.0	0.0
+Hannaford Brothers	Portland	ME			65.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0
+Harrah's Entertainment Inc.	Las Vegas	NV	309		95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5	15.0	15.0	0.0
+Harrah's Entertainment Inc.	Las Vegas	NV	309.0		95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Harris Bankcorp Inc.	Chicago	IL			75.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5	15.0	15.0	0.0
+Harris Bankcorp Inc.	Chicago	IL		75.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+Harry & David Holdings Inc.	Medford	OR			58.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	0	7.5	15.0	0.0
+Harry & David Holdings Inc.	Medford	OR			58.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	0.0	7.5	15.0	0.0	
+Hartford Financial Services Co.	Hartford	CT	78		75.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5	15.0	15.0	0.0
+Harvard Pilgrim Health Care Inc.	Wellesley	MA			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Harvard Pilgrim Health Care Inc.	Wellesley	MA	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Hasbro Inc.	Pawtucket	RI	602.0		65.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	
+Hasbro Inc.	Pawtucket	RI	602.0		65.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	
+Health Net Inc.	Woodland Hills	CA	191.0		93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+Health Net Inc.	Woodland Hills	CA	191 93	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 7.5	15.0	0.0	
+Heller Ehrman LLP	San Francisco	CA		35.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Hershey Company, The	Hershey	PA	442.0		50.0	15.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	15.0	15.0	0.0	
+Hershey Company, The	Hershey	PA	442.0		50.0	15.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	15.0	15.0	0.0
+Hewitt Associates	Lincolnshire	IL	633.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Hewlett-Packard Co.	Palo Alto	CA	11.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Hilton Hotels Corp.	Beverly Hills	CA	464.0		95.0	15.0	5.0	15.0	5.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+Hilton Hotels Corp.	Beverly Hills	CA	464.0		95.0	15.0	5.0	15.0	5.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+Hoffmann-La Roche Inc.	Nutley	NJ			80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Hoffmann-La Roche Inc.	Nutley	NJ		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
+Holland & Knight LLP	New York	NY		27.0	75.0	15.0	5.0	0.0	5.0	0.0	15.0	0.0	5.0	15.0	15.0	0.0	
+Home Depot Inc.	Atlanta	GA	14.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Home Depot Inc.	Atlanta	GA	14.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Honeywell International Inc.	Morristown	NJ	71.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Hospira Inc.	Lake Forest	IL	660.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Hospira Inc.	Lake Forest	IL	660.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Host Hotels & Resorts	Bethesda	MD	502.0		45.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	0.0	0.0	0.0	0.0	
+Host Hotels & Resorts	Bethesda	MD	502.0		45.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	0.0	0.0	0.0	0.0	
+Hotels.com, L.P.	Dallas	TX			85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Hotels.com, L.P.	Dallas	TX		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0
+Howard & Howard Attorneys PC	Kalamazoo	MI			48.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	5.0	7.5	0.0	0.0	
+Humana Inc.	Louisville	KY	150.0		40.0	15.0	5.0	0.0	5.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	
+Humana Inc.	Louisville	KY	150 40	15.0	5.0	0.0	5.0		0.0	0.0	0.0	0 15	0.0	0.0	
+ING North America Insurance Corp.	Atlanta	GA			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+ITT Industries Inc.	White Plains	NY	291.0		95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	5
+ITT Industries Inc.	White Plains	NY	291.0	95	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Illinois Tool Works Inc.	Glenview	IL	173.0		53.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	0.0	7.5	15.0	0.0	
+Illinois Tool Works Inc.	Glenview	IL	173.0	53	15.0	5.0	0.0	5.0	5.0	0.0	0.0	0.0	7.5	15.0	0.0	
+Imation Corp.	Oakdale	MN			93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+Industry Average				70.0										
+Industry Average				81.0											
+Intel Corp.	Santa Clara	CA	49.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Intel Corp.	Santa Clara	CA	49.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+International Business Machines Corp.	Armonk	NY	10.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+International Business Machines Corp.	Armonk	NY	10.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0
+International Paper Co.	Stamford	CT	82.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+International Paper Co.	Stamford	CT	82.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Interpublic Group of Companies Inc.	New York	NY	348.0		75.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+Intuit Inc.	Mountain View	CA	779.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	4
+J. C. Penney Company Inc.	Plano	TX	118.0		50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	0.0	0.0	
+J. C. Penney Company Inc.	Plano	TX	118.0	50	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	0.0	0.0
+J.P. Morgan Chase & Co.	New York	NY	17.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+J.P. Morgan Chase & Co.	New York	NY	17 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Jenner & Block LLP	Chicago	IL		74.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+John Hancock Financial Services Inc.	Boston	MA			93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+Johnson & Johnson	New Brunswick	NJ	32.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Johnson & Johnson	New Brunswick	NJ	32.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0
+KB Home	Los Angeles	CA	254.0		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+KB Home	Los Angeles	CA	254.0		15	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+KLA-Tencor	San Jose	CA	780			73 15	5.0	0.0	5.0		0.0	15.0	5.0	5	7.5	15.0	0.0
+KLA-Tencor	San Jose	CA	780.0	73.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	5.0	7.5	15.0	0.0	C
+KPMG LLP	New York	NY				100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Kaiser Permanente	Oakland	CA			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Kaiser Permanente	Oakland	CA	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Keane Inc.	Boston	MA			50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	0.0	0.0	
+Keane Inc.	Boston	MA		50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	0.0	0.0
+Kellogg Co.	Battle Creek	MI	233.0		50.0	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	15.0	0.0	
+Kellogg Co.	Battle Creek	MI	233.0		50.0	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	15.0	0.0
+KeyCorp	Cleveland	OH	325.0		75.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+KeyCorp	Cleveland	OH	325.0	75.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+Keyspan Corp	Brooklyn	NY	295.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Keyspan Corp	Brooklyn	NY	295 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Kilpatrick Stockton LLP	Atlanta	GA		80.0	63.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	5.0	7.5	15.0	0.0	
+Kimberly-Clark Corporation	Irving	TX	140.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Kimberly-Clark Corporation	Irving	TX	140.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Kimpton Hotel & Restaurant Group Inc.	San Francisco	CA				100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Kimpton Hotel & Restaurant Group, Inc.	San Francisco	CA			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	5.0
+Kraft Foods Inc.	Northfield	IL				100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+Kraft Foods Inc.	Northfield	IL			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Kroger Co., The	Cincinnati	OH	21			35 15	5.0	0.0	0.0		0.0	0.0	0.0	0	0.0	15.0	0.0
+Kroger Co., The	Cincinnati	OH	21.0		35.0	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0
+L.L. Bean Inc.	Freeport	ME				73 15	5.0	15.0	5.0		5.0	15.0	0.0	5	7.5	0.0	0.0
+Land O'Lakes	Arden Hills	MN	301			53 15	0.0	0.0	0.0		5.0	15.0	5.0	5	7.5	0.0	0.0
+Land O'Lakes	Arden Hills	MN	301.0		53.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	0.0	0.0
+Lauren Manufacturing Co.	New Philadelphia	OH				5 0	5.0	0.0	0.0		0.0	0.0	0.0	0	0.0	0.0	0.0
+Lauren Manufacturing Co.	New Philadelphia	OH		5	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+Lear Corp.	Southfield	MI	127			20 15	5.0	0.0	0.0		0.0	0.0	0.0	0	0.0	0.0	0.0
+Lear Corp.	Southfield	MI	127.0	20.0	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Lehman Brothers Holdings	New York	NY	62			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Levi Strauss & Co.	San Francisco	CA	484	44.0		100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Lexmark International Inc.	Lexington	KY	415			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+Lillian Vernon Corp.	White Plains	NY				55 15	5.0	0.0	0.0		0.0	15.0	0.0	5	0.0	15.0	0.0
+Lillian Vernon Corp.	White Plains	NY	Unnamed: 0	55	15	5	0	0.1	0.2	15.1	0.3	5.1	0.4	15.2	0.5
+Limited Brands Inc.	Columbus	OH	246			70 15	5.0	0.0	5.0		0.0	15.0	0.0	0	15.0	15.0	0.0
+Lincoln National Corp.	Philadelphia	PA	396			95 15	5.0	15.0	5.0		0.0	15.0	5.0	5	15.0	15.0	0.0
+Liz Claiborne Inc.	North Bergen	NJ	440			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Lockheed Martin Corp.	Bethesda	MD	52			80 15	5.0	0.0	5.0		0.0	15.0	5.0	5	15.0	15.0	0.0
+Lucent Technologies Inc.	Murray Hill	NJ	255			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Lucent Technologies Inc.	Murray Hill	NJ	255.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+MGM Mirage	Las Vegas	NV	334			85 15	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+MGM Mirage	Las Vegas	NV	334.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Marriott International	Washington	DC	203			75 15	5.0	0.0	0.0		5.0	15.0	0.0	5	15.0	15.0	0.0
+Marriott International	Washington	DC	203.0		75.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+Marsh & McLennan Companies Inc.	New York	NY	186			30 15	0.0	0.0	0.0		0.0	15.0	0.0	0	0.0	0.0	0.0
+Massachusetts Mutual Life Insurance Company	Springfield	MA	92			93 15	5.0	15.0	5.0		5.0	15.0	5.0	5	7.5	15.0	0.0
+MasterCard Inc.	Purchase	NY	627			80 15	5.0	0.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+MasterCard Inc.	Purchase	NY	627.0	80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Mattel Inc.	El Segundo	CA	416			88 15	5.0	15.0	0.0		5.0	15.0	5.0	5	7.5	15.0	0.0	
+Mattel Inc.	El Segundo	CA	416.0		88.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+McDermott Will & Emery LLP	Chicago	IL			13.0	100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		4
+McDonald's Corp.	Oak Brook	IL	109			85 15	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+McDonald's Corp.	Oak Brook	IL	109.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+McGraw-Hill Companies Inc., The	New York	NY	359			75 15	5.0	0.0	0.0		5.0	15.0	5.0	0	15.0	15.0	0.0		6
+McGraw-Hill Companies Inc., The	New York	NY	359 75 15	5.0	0.0	0.0		5.0	15.0	5.0	0 15	15.0	0.0
+McKinsey & Co. Inc.	New York	NY		72.0		100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+MeadWestvaco Corp.	Stamford	CT	322			80 15	5.0	0.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+MeadWestvaco Corp.	Stamford	CT	322.0	80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Medtronic Inc.	Minneapolis	MN	235			75 15	5.0	0.0	0.0		0.0	15.0	5.0	5	15.0	15.0	0.0
+Medtronic Inc.	Minneapolis	MN	235 75	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5 15	15.0	0.0	
+Meijer	Grand Rapids	MI		10.0		0 0	0.0	0.0	0.0		0.0	0.0	0.0	0	0.0	0.0	0.0
+Meijer	Grand Rapids	MI		10.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+Mellon Financial Corp.	Pittsburgh	PA	377			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Mellon Financial Corp.	Pittsburgh	PA	377 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Men's Wearhouse Inc., The	Houston	TX	887			35 15	5.0	0.0	0.0		0.0	15.0	0.0	0	0.0	0.0	0.0
+Men's Wearhouse Inc., The	Houston	TX	887.0	35	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0
+Merck & Co. Inc.	Whitehouse Station	NJ	95			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Merck & Co. Inc.	Whitehouse Stn.	NJ	95.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0
+Merrill Lynch & Co.	New York	NY	34			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Merrill Lynch & Co.	New York	NY	34 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+MetLife Inc.	New York	NY	35			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Microsoft Corp.	Redmond	WA	48			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0
+Miller Brewing Co.	Milwaukee	WI				90 15	5.0	15.0	5.0		0.0	15.0	0.0	5	15.0	15.0	0.0
+Miller Brewing Co.	Milwaukee	WI			90.0	15.0	5.0	15.0	5.0	0.0	15.0	0.0	5.0	15.0	15.0	0.0	
+Mintz, Levin, Cohn, Ferris, Glovsky & Popeo	Boston	MA			91.0	95 15	5.0	15.0	5.0		0.0	15.0	5.0	5	15.0	15.0	0.0
+Mirant Corporation	Atlanta	GA	479			45 15	5.0	0.0	0.0		0.0	15.0	5.0	5	0.0	0.0	0.0
+Mirant Corporation	Atlanta	GA	479.0	45	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	0.0	0.0
+Mitchell Gold + Bob Williams	Taylorsville	NC			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Mohawk Industries Inc.	Calhoun	GA	327.0	65	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	0.0	15.0	0.0	
+Morgan Stanley	New York	NY	30 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Morningstar Inc.	Chicago	IL	40 0	0.0	0.0	0.0		0.0	15.0	5.0	5 0	15.0	0.0
+Motorola Inc.	Schaumburg	IL	54.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+National City Corporation	Cleveland	OH	213.0	58.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	5.0	7.5	15.0	0.0	
+National Grid USA	Westborough	MA	75	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5 15	15.0	0.0	
+Navistar International Corp.	Warrenville	IL	201.0	30.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	33.0
+Nestle Purina PetCare Co.	St. Louis	MO			15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		
+New York Times Co.	New York	NY	557 100 15	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0
+Newell Rubbermaid Inc.	Atlanta	GA	332.0		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+Nissan North America	Gardena	CA		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		
+Nokia	Irving	TX		50.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	5.0	0.0	0.0	0.0	
+Northeast Utilities System	Berlin	CT	304 80	15.0	5.0	0.0	5.0		5.0	15.0	0.0	5 15	15.0	0.0	
+Northern Trust Corp.	Chicago	IL	533 95	15.0	5.0	15.0	0.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Novartis Pharmaceutical Corp.	East Hanover	NJ		95.0	15.0	5.0	15.0	5.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0		
+Office Depot Inc.	Delray Beach	FL	154.0		60.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	15.0	0.0	
+Owens & Minor	Mechanicsville	VA	443 70	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 0	0.0	0.0	
+Owens Corning	Toledo	OH	341.0	100	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	6.0
+PG&E Corp.	San Francisco	CA	200 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+PNC Financial Services Group Inc.	Pittsburgh	PA	290.0	73.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+PNM Resources Inc.	Albuquerque	NM	785.0	43	15.0	5.0	15.0	0.0	0.0	0.0	0.0	0.0	7.5	0.0	0.0
+PPG Industries	Pittsburgh	PA	232.0	60.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	0.0	15.0	15.0	0.0	6.0
+PPL Corp.	Allentown	PA	350 55	15.0	5.0	0.0	0.0		5.0	0.0	0.0	0 15	15.0	0.0	
+PacifiCare Health Systems	Cypress	CA	68	15.0	0.0	15.0	0.0		5.0	15.0	5.0	5 7.5	0.0	0.0	
+PacifiCorp	Portland	OR	85	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	6
+Pathmark Stores Inc.	Carteret	NJ	497.0		53.0	15.0	5.0	15.0	5.0	0.0	0.0	0.0	5.0	7.5	0.0	0.0
+PepsiCo Inc.	Purchase	NY	61.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Perkins & Will	Chicago	IL			70	15.0	0.0	0.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0
+Pfizer Inc.	New York	NY	31.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
+Polaroid Corp.	Waltham	MA		60.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	15.0	0.0	0.0	
+Praxair Inc.	Danbury	CT	297.0	25.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	
+Procter & Gamble Co.	Cincinnati	OH	24.0		65.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	
+Progress Energy Inc.	Raleigh	NC	222 53	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5 7.5	0.0	0.0	
+QUALCOMM Inc.	San Diego	CA	381.0	95.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Quest Diagnostics Incorporated	Lyndhurst	NJ	392 80	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Qwest Communications International Inc.	Denver	CO	160.0	70.0	15.0	5.0	0.0	5.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	City
+R.R. Donnelley & Sons Co.	Chicago	IL	265 20 15	5.0	0.0	0.0		0.0	0.0	0.0	0 0	0.0	0.0
+RadioShack Corp.	Fort Worth	TX	423.0		40.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	0.0	0.0	
+Reliant Energy Inc.	Houston	TX	220	50	15	5	0	5.1	5.2	0.1	0.2	5.3	15.1	0.3	0.4
+Replacements Ltd.	McLeansville	NC			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Reuters America Holdings Inc.	New York	NY		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Reynolds American Inc.	Winston-Salem	NC	280.0	90	15.0	5.0	15.0	0.0	5.0	15.0	5.0	0.0	15.0	15.0	0.0	
+Rite Aid Corp.	Camp Hill	PA	129.0		70.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	0.0	0.0	
+Rohm and Haas Company	Philadelphia	PA	286.0	53.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	0.0	7.5	15.0	0.0	
+Royal Caribbean Cruises Ltd	Miami	FL		55.0	15.0	5.0	0.0	5.0	0.0	0.0	0.0	0.0	15.0	15.0	0.0		
+Ryder System Inc.	Miami	FL	375.0	93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0
+S.C. Johnson & Son Inc.	Racine	WI			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+SLM Corp.	Reston	VA	331.0	75.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
+SRA International Inc.	Fairfax	VA		75.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0
+Safeway Inc.	Pleasanton	CA	50.0		70.0	15.0	5.0	0.0	5.0	5.0	0.0	5.0	5.0	15.0	15.0	0.0	
+Sara Lee Corp.	Chicago	IL	111.0		70.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	0.0	15.0	15.0	0.0
+Schering-Plough Corp.	Kenilworth	NJ	250.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0
+Scholastic Corp.	New York	NY	782 50 15	5.0	0.0	0.0		0.0	15.0	0.0	0 15	0.0	0.0
+Sears Holdings Corporation	Hoffman Estates	IL	33.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Sempra Energy	San Diego	CA	197 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Severn Trent Services Inc.	Fort Washington	PA	65	15.0	5.0	15.0	0.0		5.0	15.0	5.0	5 0	0.0	0.0	
+Shell Oil Co.	Houston	TX		85	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0
+Siemens Energy & Automation Inc.	Alpharetta	GA		60.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	0.0	15.0	0.0	0.0	
+Sierra Health Services Inc.	Las Vegas	NV	88	15.0	5.0	15.0	5.0		0.0	15.0	5.0	5 7.5	15.0	0.0	
+Sodexho Inc.	Gaithersburg	MD			95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	4
+Solutions Inc.	Watertown	MA				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Solutions Inc.	Watertown	MA		100	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Southern California Edison Company	Rosemead	CA	95	15.0	5.0	15.0	5.0		5.0	15.0	0.0	5 15	15.0	0.0	5
+Sprint Nextel Corp	Reston	VA	59.0	100	15	5	15	5	5	15	5	5	15	15	0
+Staples Inc.	Framingham	MA	137.0		93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+Starbucks Corp.	Seattle	WA	338.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Starwood Hotels & Resorts Worldwide	White Plains	NY	360.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+State Street Corp.	Boston	MA	307 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Subaru of America Inc.	Cherry Hill	NJ		70.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	0.0	15.0	0.0		C
+SunTrust Banks Inc.	Atlanta	GA	217 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Supervalu Inc.	Eden Prairie	MN	113.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+TAP Pharmaceutical Products Inc.	Lake Forest	IL		50.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	5.0	0.0	0.0	0.0	
+Target Corp.	Minneapolis	MN	29.0		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Texas Instruments Inc.	Dallas	TX	167.0	80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+The Dun & Bradstreet Corporation	Short Hills	NJ		35.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	0.0	0.0	0.0	0.0
+The Olivia Companies LLC	San Francisco	CA			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Time Warner Inc.	New York	NY	40.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Toyota Motor Sales USA Inc.	Torrance	CA		90.0	15.0	5.0	15.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0		
+Toys ‘R' Us Inc.	Wayne	NJ	208.0	13.0	45.0	15.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	
+Travelport Inc.	Chicago	IL	Unnamed: 0	95	15	5	15.1	5.1	5.2	15.2	0	5.3	15.3	15.4	0.1	
+U.S. Bancorp	Minneapolis	MN	131.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+U.S. Foodservice Inc	Columbia	MD			50.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	0.0	0.0	0.0
+UBS AG	Stamford	CT		95.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Union Pacific Corporation	Omaha	NE	164.0	58.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	7.5	15.0	0.0	
+Unisys Corp.	Blue Bell	PA	372.0	90.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	0.0	15.0	15.0	0.0
+United Parcel Service Inc.	Atlanta	GA	44	80	15	5	0	0.1	5.1	15.1	5.2	5.3	15.2	15.3	0.2	
+United Technologies Corp.	Hartford	CT	43.0	40	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	
+University Hospitals of Cleveland	Cleveland	OH	65	15.0	5.0	0.0	5.0		0.0	15.0	5.0	5 0	15.0	0.0	
+Verio Inc.	Englewood	CO		50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	0.0	0.0	
+Verizon Communications Inc.	Basking Ridge	NJ	18.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Viacom Inc.	New York	NY	241.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Visa International	Foster City	CA	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Vision Service Plan	Rancho Cordova	CA	80	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Visteon Corp.	Van Buren Township	MI	128.0	95.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0
+Vivendi	New York	NY		50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	15.0	0.0	
+Volkswagen of America Inc.	Auburn Hills	MI		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0
+Wachovia Corp.	Charlotte	NC	57 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Wal-Mart Stores Inc.	Bentonville	AR	2.0		65.0	15.0	5.0	0.0	0.0	5.0	0.0	5.0	5.0	15.0	15.0	0.0	
+Walgreens Co.	Deerfield	IL	45.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Walt Disney Co.	Burbank	CA	63.0	95.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Washington Mutual Inc.	Seattle	WA	99.0	90.0	15.0	5.0	15.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+Waste Management Inc.	Houston	TX	170.0	85	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+WellPoint Inc.	Indianapolis	IN	80	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Wells Fargo & Co.	San Francisco	CA	46 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+Weyerhaeuser Co.	Federal Way	WA	90.0	60.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	0.0	15.0	0.0	0.0	
+Whirlpool Corp.	Benton Harbor	MI	152.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+Whole Foods Market Inc.	Austin	TX	449.0		95.0	15.0	5.0	15.0	5.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+Williams Companies Inc.	Tulsa	OK	180.0	65	15.0	5.0	0.0	5.0	5.0	0.0	0.0	5.0	15.0	15.0	0.0
+Wisconsin Energy Corporation	Milwaukee	WI	510 55	15.0	5.0	0.0	0.0		5.0	0.0	0.0	0 15	15.0	0.0	
+Working Assets Funding Service Inc.	San Francisco	CA		83.0	15.0	0.0	15.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+Worldspan Technologies Inc.	Atlanta	GA		90.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	0.0	15.0	15.0	0.0	
+Wyeth	Madison	NJ	119.0	65.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	0.0	0.0		4
+Wyndham International Inc.	Dallas	TX			90.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	0.0	15.0	15.0	0.0	
+XM Satellite Radio Holdings Inc.	Washington	DC		88.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+Xcel Energy	Minneapolis	MN	247 75	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5 15	15.0	0.0	
+Yahoo! Inc.	Sunnyvale	CA	412.0	90.0	15.0	5.0	15.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+Zurich North America	Schaumburg	IL		50.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	0.0	0.0	0.0	

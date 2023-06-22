@@ -1,38 +1,46 @@
 company_name	location	cei_2004	cei_2005	forbes_1000
-Companies With 100 Percent in 2004	Unnamed: 0	Unnamed: 1	Unnamed: 2
-Fortune	Fortune		
-Rank Company	Rank	Company	
-108 Aetna Inc.**	274	Keyspan*	
-305 Agilent Technologies Inc.*	n/a	Kimpton Hotels & Restaurant Group Inc.*	
-110 American Airlines (AMR Corp.)**	n/a	Kraft Foods Inc.*	
-69 American Express Co.*	113	Lehman Brothers Holdings Inc.	
-301 Apple Computer Inc.**	422	Levi Strauss & Co.	
-40 AT&T Corp.*	243	Lucent Technologies Inc.**	
-401 Avaya Inc.**	36	MetLife Inc.	
-n/a Bausch & Lomb Inc.	n/a	Miller Brewing Co.*	
-78 Best Buy Co. Inc.*	n/a	Mitchell Gold Co.	
-452 Borders Group Inc.*	n/a	Morrison & Foerster LLP	
-200 Capital One Financial Corp.	61	Motorola Inc.*	
-n/a Cargill Inc.	118	Nationwide*	
-402 The Charles Schwab Corp.*	322	NCR Corp.**	
-n/a ChoicePoint Inc.	499	New York Times Co.*	
-174 Chubb Corp.*	184	Nike Inc.**	
-100 Cisco Systems Inc.*	350	Owens Corning*	
-8 Citigroup Inc.*	62	PepsiCo Inc.*	
-430 Coors Brewing Co.*	25	Pfizer Inc.*	
-31 Dell Inc.*	179	PG&E Corp.	
-n/a Deutsche Bank	57	Prudential Financial Inc.	
-149 Eastman Kodak Co.**	n/a	Replacements Ltd.**	
-n/a Faegre & Benson*	n/a	SC Johnson & Son Inc.	
-4 Ford Motor Co.*	n/a	Southern California Edison Co.*	
-74 The Goldman Sachs Group Inc.*	n/a	UBS Financial Services Inc.*	
-11 Hewlett-Packard Co.	49	Wells Fargo & Co.*	
-9 IBM Corp.	161	Whirlpool Corp.*	
-53 Intel Corp.**	n/a	Worldspan Technologies Inc.**	
-26 J.P. Morgan Chase & Co.**	130	Xerox Corp.**	
-*Achieved 100 percent for the first time in 2004.			
-**Has scored 100 percent all three years the index has existed			
-n/a means “not applicable”			5.0
+Unnamed: 0	Unnamed: 1
+	
+	
+Unnamed: 0
+""
+""
+Unnamed: 0
+""
+Unnamed: 0
+""
+Unnamed: 0
+Unnamed: 0	Unnamed: 1	Unnamed: 2
+	Companies With 100 Percent in 2004	
+"FortuneRankCompany"	"FortuneRankCompany"	
+108Aetna Inc.**	274Keyspan*	
+305Agilent Technologies Inc.*	n/aKimpton Hotels & Restaurant Group Inc.*	
+110American Airlines (AMR Corp.)**	n/aKraft Foods Inc.*	
+69American Express Co.*	113Lehman Brothers Holdings Inc.	
+301Apple Computer Inc.**	422Levi Strauss & Co.	
+40AT&T Corp.*	243Lucent Technologies Inc.**	
+401Avaya Inc.**	36MetLife Inc.	
+n/aBausch & Lomb Inc.	n/aMiller Brewing Co.*	
+78Best Buy Co. Inc.*	n/aMitchell Gold Co.	
+452Borders Group Inc.*	n/aMorrison & Foerster LLP	
+200Capital One Financial Corp.	61Motorola Inc.*	
+n/aCargill Inc.	118Nationwide*	
+402The Charles Schwab Corp.*	322NCR Corp.**	
+n/aChoicePoint Inc.	499New York Times Co.*	
+174Chubb Corp.*	184Nike Inc.**	
+100Cisco Systems Inc.*	350Owens Corning*	
+8Citigroup Inc.*	62PepsiCo Inc.*	
+430Coors Brewing Co.*	25Pfizer Inc.*	
+31Dell Inc.*	179PG&E Corp.	
+n/aDeutsche Bank	57Prudential Financial Inc.	
+149Eastman Kodak Co.**	n/aReplacements Ltd.**	
+n/aFaegre & Benson*	n/aSC Johnson & Son Inc.	
+4Ford Motor Co.*	n/aSouthern California Edison Co.*	
+74The Goldman Sachs Group Inc.*	n/aUBS Financial Services Inc.*	
+11Hewlett-Packard Co.	49Wells Fargo & Co.*	
+9IBM Corp.	161Whirlpool Corp.*	
+53Intel Corp.**	n/aWorldspan Technologies Inc.**	
+"26J.P. Morgan Chase & Co.***Achieved 100 percent for the first time in 2004.**Has scored 100 percent all three years the index has existedn/a means “not applicable”"	130Xerox Corp.**	
 Change Over Time In Companies	Unnamed: 0	company added sexual orientation to its non-dis-
 With Low Scores		crimination policy, domestic partner benefits,
 		diversity training and other policies.
@@ -52,46 +60,93 @@ National Gypsum n/r 14	14.0
 Perot Systems Corp. 14 14	14.0	More than one-third of the rated companies have
 Shaw Industries Inc. 14 14	14.0	stayed firmly in the middle, with scores ranging
 Wal-Mart Stores Inc. 14 43	43.0	from 29 percent to 71 percent. Notably, there are
-Employers that Offer Spousal Equivalency Benefits to Same-Sex Partners	Unnamed: 0	Unnamed: 1
-Fortune Index	Fortune	Index
-Name Rank Score Name	Rank	Score
-Agilent Technologies Inc. 305 100 Intel Corp.	53	100
-Amgen Inc. 246 71 J.P. Morgan Chase & Co.	26	100
-Anheuser-Busch 142 79 John Hancock Financial	192	79
-Apple Computer Inc. 301 100 Johnson & Johnson	30	86
-Applebee’s International Inc. n/r 86 KPMG LLP	n/r	86
-AT&T Wireless Services 120 50 Lehman Brothers Holdings	113	100
-Bank of America Corp. 24 86 Lexmark International Inc.	364	86
-Bausch & Lomb Inc. n/r 100 Lincoln National Corp.	339	86
-Borders Group Inc. 452 100 McKinsey & Co. Inc.	n/r	86
-Campbell Soup Co. 280 71 MetLife	36	100
-Charles Schwab 402 100 Morgan Stanley	39	86
-ChevronTexaco Corp. 6 86 Motorola Inc.	61	100
-Chubb Corp. 174 100 Nike Inc.	184	100
-Cigna Corp. 101 86 Nordstrom Inc.	286	86
-Cingular Wireless n/r 86 Northern Trust Corp.	n/r	86
-Cisco Systems 100 100 PacifiCorp	n/r	86
-Citigroup Inc. 8 100 Pennzoil-Quaker State Co.	n/r	43
-Continental Airlines 231 86 PepsiCo Inc.	62	100
-Credit Suisse First Boston n/r 86 Pfizer Inc.	25	100
-Dell Inc. 31 100 PG&E Corp.	179	100
-Deloitte & Touche n/r 86 Prudential Financial Inc.	57	100
-Dow Chemical Co. 44 86 QUALCOMM Inc.	434	71
-Eastman Kodak Co. 149 100 SBC Communications Inc.	33	86
-Fannie Mae 20 71 SC Johnson & Son Inc.	n/r	100
-FleetBoston Financial Corp. 140 86 Shell Oil Co.	n/r	86
-Gap Inc. 124 86 Staples Inc.	152	86
-Gateway Inc. 484 71 Sun Microsystems	173	86
-Genentech n/r 86 SunTrust Banks Inc.	272	86
-General Mills Inc. 186 86 Time Warner Inc.	27	86
-General Motors Corp. 3 86 Toyota	n/r	86
-Gillette Co. 215 86 Verizon Communications	12	86
-Goldman Sachs 74 100 Viacom Inc.	64	86
-Hartford Financial Services Co. 102 86 Vision Service Plan	n/r	86
-Heller, Ehrman, White & McAuliffe n/r 86 Wachovia Corp.	73	86
-Hewitt Associates n/r 86 Wells Fargo & Co.	49	100
-Hewlett-Packard Co. 11 100 Xcel Energy	254	86
-IBM 9 100 Xerox Corp.	130	100
+Unnamed: 0
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+	Bank of America Corp.2486
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+	Charles Schwab402100
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+	Credit Suisse First Bostonn/r86
+Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3
+	Employers that Offer Spousal Equivalency Benefits to Same-Sex Partners		
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"			
+	Agilent Technologies Inc.305100	Intel Corp.53100	
+	Anheuser-Busch14279	John Hancock Financial19279	
+	Applebee’s International Inc.n/r86	KPMG LLPn/r86	
+	Bank of America Corp.2486	Lexmark International Inc.36486	
+	Borders Group Inc.452100	McKinsey & Co. Inc.n/r86	
+	Charles Schwab402100	Morgan Stanley3986	
+	Chubb Corp.174100	Nike Inc.184100	
+	Cingular Wirelessn/r86	Northern Trust Corp.n/r86	
+	Citigroup Inc.8100	Pennzoil-Quaker State Co.n/r43	
+	Credit Suisse First Bostonn/r86	Pfizer Inc.25100	
+	Deloitte & Touchen/r86	Prudential Financial Inc.57100	
+	Eastman Kodak Co.149100	SBC Communications Inc.3386	
+	FleetBoston Financial Corp.14086	Shell Oil Co.n/r86	
+	Gateway Inc.48471	Sun Microsystems17386	
+	General Mills Inc.18686	Time Warner Inc.2786	
+	Gillette Co.21586	Verizon Communications1286	
+	Hartford Financial Services Co.10286	Vision Service Plann/r86	
+	Hewitt Associatesn/r86	Wells Fargo & Co.49100	
+	IBM9100	Xerox Corp.130100	
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+	Borders Group Inc.452100
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+	Cingular Wirelessn/r86
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+	Chubb Corp.174100
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+	Citigroup Inc.8100
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+	Anheuser-Busch14279
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+	Applebee’s International Inc.n/r86
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+	Agilent Technologies Inc.305100
+Unnamed: 0	"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"
+	IBM9100
+	
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+	Eastman Kodak Co.149100
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+	Gillette Co.21586
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+	Deloitte & Touchen/r86
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+	FleetBoston Financial Corp.14086
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+	General Mills Inc.18686
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+	Gateway Inc.48471
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+	Hewitt Associatesn/r86
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+	Hartford Financial Services Co.10286
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+Xerox Corp.130100	
+	
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+Vision Service Plann/r86	
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+John Hancock Financial19279	
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+KPMG LLPn/r86	
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+Sun Microsystems17386	
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+Prudential Financial Inc.57100	
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+Shell Oil Co.n/r86	
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+SBC Communications Inc.3386	
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+Verizon Communications1286	
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+Wells Fargo & Co.49100	
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+Time Warner Inc.2786	
+"FortuneIndexFortuneIndexNameRankScoreNameRankScoreAgilent Technologies Inc.305100Intel Corp.53100Amgen Inc.24671J.P. Morgan Chase & Co.26100Anheuser-Busch14279John Hancock Financial19279Apple Computer Inc.301100Johnson & Johnson3086Applebee’s International Inc.n/r86KPMG LLPn/r86AT&T Wireless Services12050Lehman Brothers Holdings113100Bank of America Corp.2486Lexmark International Inc.36486Bausch & Lomb Inc.n/r100Lincoln National Corp.33986Borders Group Inc.452100McKinsey & Co. Inc.n/r86Campbell Soup Co.28071MetLife36100Charles Schwab402100Morgan Stanley3986ChevronTexaco Corp.686Motorola Inc.61100Chubb Corp.174100Nike Inc.184100Cigna Corp.10186Nordstrom Inc.28686Cingular Wirelessn/r86Northern Trust Corp.n/r86Cisco Systems100100PacifiCorpn/r86Citigroup Inc.8100Pennzoil-Quaker State Co.n/r43Continental Airlines23186PepsiCo Inc.62100Credit Suisse First Bostonn/r86Pfizer Inc.25100Dell Inc.31100PG&E Corp.179100Deloitte & Touchen/r86Prudential Financial Inc.57100Dow Chemical Co.4486QUALCOMM Inc.43471Eastman Kodak Co.149100SBC Communications Inc.3386Fannie Mae2071SC Johnson & Son Inc.n/r100FleetBoston Financial Corp.14086Shell Oil Co.n/r86Gap Inc.12486Staples Inc.15286Gateway Inc.48471Sun Microsystems17386Genentechn/r86SunTrust Banks Inc.27286General Mills Inc.18686Time Warner Inc.2786General Motors Corp.386Toyotan/r86Gillette Co.21586Verizon Communications1286Goldman Sachs74100Viacom Inc.6486Hartford Financial Services Co.10286Vision Service Plann/r86Heller, Ehrman, White & McAuliffen/r86Wachovia Corp.7386Hewitt Associatesn/r86Wells Fargo & Co.49100Hewlett-Packard Co.11100Xcel Energy25486IBM9100Xerox Corp.130100"	Unnamed: 0
+Intel Corp.53100	
 Keyspan	100	274
 Morgan Stanley	86	39
 PacifiCorp	86	n/r
@@ -108,45 +163,129 @@ Disability	j	j	j	j	j
 Race/Etnicity	j	j	j	j	j
 Gender	j	j	j	j	j
 Other (please describe)	j	j	j	j	j
-EMPLOYER NAME	CITY	STATE	CEI SCORE
-Motorola Inc.	Schaumburg	IL	100
-Nationwide	Columbus	OH	100
-NCR Corp.	Dayton	OH	100
-New York Times Co.	New York	NY	100
-Nike Inc.	Beaverton	OR	100
-Owens Corning	Toledo	OH	100
-PepsiCo Inc.	Purchase	NY	100
-Pfizer Inc.	New York	NY	100
-PG&E Corp.	San Francisco	CA	100
-Prudential Financial Inc.	Newark	NJ	100
-Replacements Ltd.	Greensboro	NC	100
-SC Johnson & Son Inc.	Racine	WI	100
-Southern California Edison	Rosemead	CA	100
-UBS	New York	NY	100
-Wells Fargo & Co.	San Francisco	CA	100
-Whirlpool Corp.	Benton Harbor	MI	100
-Worldspan Technologies Inc.	Atlanta	GA	100
-Xerox Corp.	Stamford	CT	100
-Electronic Arts	Redwood City	CA	93
-ABN AMRO	Chicago	IL	86
-Accenture	Chicago	IL	86
-Adobe Systems Inc.	San Jose	CA	86
-Affiliated Computer Services	Dallas	TX	86
-Allstate (The Allstate Corp.)	Northbrook	IL	86
-Anthem Inc.	Indianapolis	IN	86
-Applebee’s International Inc.	Overland Park	KS	86
-Aramark Corp.	Philadelphia	PA	86
-Aventis Pharmaceuticals Inc.	Bridgewater	NJ	86
-Bank of America Corp.	Charlotte	NC	86
-Bank of New York Co.	New York	NY	86
-BellSouth Corp.	Atlanta	GA	86
-Boeing (The Boeing Co.)	Seattle	WA	86
-Booz Allen Hamilton Inc.	McLean	VA	86
-BP America	Chicago	IL	86
-Bristol-Myers Squibb Co.	New York	NY	86
-Cendant Corp.	New York	NY	86
-ChevronTexaco Corp.	San Ramon	CA	86
-Cigna Corp.	Philadelphia	PA	86
+Unnamed: 0
+Unnamed: 0	EMPLOYER NAMECITYSTATECEI SCORE	Unnamed: 1
+		
+	Aetna Inc.HartfordCT100	
+	Agilent Technologies Inc.Palo AltoCA100	
+	American Airlines (AMR Corp.)Dallas-Fort Worth AirportTX100	
+	American Express Co.New YorkNY100	
+	Apple Computer Inc.CupertinoCA100	
+	AT&T Corp.New YorkNY100	
+	Avaya Inc.Basking RidgeNJ100	
+	Bausch & Lomb Inc.RochesterNY100	
+	Best Buy Co. Inc.MinneapolisMN100	
+	Borders Group Inc.Ann ArborMI100	
+	Capital One Financial Corp.Falls ChurchVA100	
+	Cargill Inc.MinneapolisMN100	
+	Charles SchwabSan FranciscoCA100	
+	ChoicePoint Inc.AlpharettaGA100	
+	Chubb Corp.WarrenNJ100	
+	Cisco SystemsSan JoseCA100	
+	Citigroup Inc.New YorkNY100	
+	Coors BrewingGoldenCO100	
+	Dell Inc.AustinTX100	
+	Deutsche BankNew YorkNY100	
+	Eastman Kodak Co.RochesterNY100	
+	Faegre & BensonMinneapolisMN100	
+	Ford Motor Co.DearbornMI100	
+	Goldman SachsNew YorkNY100	
+	Hewlett-Packard Co.Palo AltoCA100	
+	IBMArmonkNY100	
+	Intel Corp.Santa ClaraCA100	
+	J.P. Morgan Chase & Co.New YorkNY100	
+	KeyspanBrooklynNY100	
+	Kimpton HotelsSan FranciscoCA100	
+	Kraft Foods Inc.NorthfieldIL100	
+	Lehman Brothers HoldingsNew YorkNY100	
+	Levi Strauss & Co.San FranciscoCA100	
+	Lucent Technologies Inc.Murray HillNJ100	
+	MetLifeNew YorkNY100	
+	Miller Brewing Co.MilwaukeeWI100	
+	Mitchell Gold Co.TaylorsvilleNC100	
+Morrison & FoersterSan FranciscoCA100		
+Unnamed: 0	Unnamed: 1	Unnamed: 2
+	EMPLOYER NAMECITYSTATECEI SCORE	
+		
+	Motorola Inc.SchaumburgIL100	
+	NationwideColumbusOH100	
+	NCR Corp.DaytonOH100	
+	New York Times Co.New YorkNY100	
+	Nike Inc.BeavertonOR100	
+	Owens CorningToledoOH100	
+	PepsiCo Inc.PurchaseNY100	
+	Pfizer Inc.New YorkNY100	
+	PG&E Corp.San FranciscoCA100	
+	Prudential Financial Inc.NewarkNJ100	
+	Replacements Ltd.GreensboroNC100	
+	SC Johnson & Son Inc.RacineWI100	
+	Southern California EdisonRosemeadCA100	
+	UBSNew YorkNY100	
+	Wells Fargo & Co.San FranciscoCA100	
+	Whirlpool Corp.Benton HarborMI100	
+	Worldspan Technologies Inc.AtlantaGA100	
+	Xerox Corp.StamfordCT100	
+	Electronic ArtsRedwood CityCA93	
+	ABN AMROChicagoIL86	
+	AccentureChicagoIL86	
+	Adobe Systems Inc.San JoseCA86	
+	Affiliated Computer ServicesDallasTX86	
+	Allstate (The Allstate Corp.)NorthbrookIL86	
+	Anthem Inc.IndianapolisIN86	
+	Applebee’s International Inc.Overland ParkKS86	
+	Aramark Corp.PhiladelphiaPA86	
+	Aventis Pharmaceuticals Inc.BridgewaterNJ86	
+	Bank of America Corp.CharlotteNC86	
+	Bank of New York Co.New YorkNY86	
+	BellSouth Corp.AtlantaGA86	
+	Boeing (The Boeing Co.)SeattleWA86	
+	Booz Allen Hamilton Inc.McLeanVA86	
+	BP AmericaChicagoIL86	
+	Bristol-Myers Squibb Co.New YorkNY86	
+	Cendant Corp.New YorkNY86	
+	ChevronTexaco Corp.San RamonCA86	
+	Cigna Corp.PhiladelphiaPA86	
+Unnamed: 0
+Unnamed: 0	EMPLOYER NAMECITYSTATECEI SCORE	Unnamed: 1	Unnamed: 2
+			
+Cingular WirelessAtlantaGA86			
+CMP Media LLPManhassetNY86			
+Continental AirlinesHoustonTX86			
+Cox Communications Inc.AtlantaGA86			
+Credit Suisse First BostonNew YorkNY86			
+Cummins Inc.ColumbusIN86			
+Daimler Chrysler Corp.Auburn HillsMI86			
+Darden RestaurantsOrlandoFL86			
+Deloitte & ToucheNew YorkNY86			
+Delta Airlines Inc.AtlantaGA86			
+Dow Chemical Co.MidlandMI86			
+DTE Energy Co.DetroitMI86			
+E*TRADE Group Inc.Menlo ParkCA86			
+EarthLink Inc.AtlantaGA86			
+Electronic Data Systems Corp. (EDS)PlanoTX86			
+Ernst & YoungNew YorkNY86			
+Federated Department StoresCincinnatiOH86			
+FleetBoston Financial Corp.BostonMA86			
+Gannett Co. Inc.McLeanVA86			
+Gap Inc.San FranciscoCA86			
+GenentechSan FranciscoCA86			
+General Electric Co.FairfieldCT86			
+General Mills Inc.MinneapolisMN86			
+General Motors Corp.DetroitMI86			
+Gillette Co., TheBostonMA86			
+GlaxoSmithKline Inc.Research Triangle ParkNC86			
+Hannaford BrothersScarboroughME86			
+Harris Bankcorp Inc.ChicagoIL86			
+Hartford Financial Services Co.HartfordCT86			
+Harvard Pilgrim Health Care Inc.WellesleyMA86			
+Hasbro Inc.PawtucketRI86			
+Heller, Ehrman, White & McAuliffeSan FranciscoCA86			
+Hewitt AssociatesLincolnshireIL86			
+Hoffmann-La Roche Inc.NutleyNJ86			
+Honeywell International Inc.MorristownNJ86			
+Hyatt Hotels Corp. (H Group Holding)ChicagoIL86			
+International Paper Co.PurchaseNY86			
+Jenner & BlockChicagoIL86			
 EMPLOYER NAME	CITY	STATE	CEI SCORE
 Johnson & Johnson	New Brunswick	NJ	86
 Kaiser Permanente Foundation Health Plan Inc.	Oakland	CA	86
@@ -186,83 +325,166 @@ Sempra Energy	San Diego	CA	86
 SGI (Silicon Graphics Inc.)	Mountain View	CA	86
 Shell Oil Co.	Houston	TX	86
 SLM Corp. (Sallie Mae)	Reston	VA	86
-EMPLOYER NAME	CITY	STATE	CEI SCORE
-Donna Karan	New York	NY	57
-DPR Construction	Redwood City	CA	57
-DuPont (E. I. du Pont de Nemours)	Wilmington	DE	57
-EMC Corp.	Hopkinton	MA	57
-Estee Lauder Companies	New York	NY	57
-FedEx Corp.	Memphis	TN	57
-Gallup Organization, The	Princeton	NJ	57
-General Dynamics Corp.	Falls Church	VA	57
-Hallmark Cards Inc.	Kansas City	MO	57
-Health Net Inc.	Woodland Hills	CA	57
-Hilton Hotels Corp.	Beverly Hills	CA	57
-Host Marriott	Bethesda	MD	57
-Instinet Group Inc.	New York	NY	57
-J.C. Penney Corp. Inc.	Plano	TX	57
-Kmart Corp.	Troy	MI	57
-Knight Ridder	San Jose	CA	57
-Kroger Co., The	Cincinnati	OH	57
-L.L. Bean Inc.	Freeport	ME	57
-Liz Claiborne Inc.	New York	NY	57
-Marimba Inc.	Mountain View	CA	57
-MassMutual Life Insurance	Springfield	MA	57
-Mattel Inc.	El Segundo	CA	57
-McDonald’s Corp.	Oakbrook	IL	57
-National City Corporation	Cleveland	OH	57
-Progressive (The Progressive Corp.)	Mayfield Village	OH	57
-Reuters America Holdings Inc.	New York	NY	57
-SAP America	Newton Square	PA	57
-Software House International	Somerset	NJ	57
-TAP Pharmaceutical Products Inc.	Lake Forest	IL	57
-Tech Data Corp.	Clearwater	FL	57
-TIAA-CREF	New York	NY	57
-Times Mirror Co.	Los Angeles	CA	57
-Whole Foods Market Inc.	Austin	TX	57
-WPP Group USA	New York	NY	57
-AT&T Wireless Services	Redmond	WA	50
-Domino’s Inc.	Ann Arbor	MI	50
-Howard & Howard Attorneys, PC	Bloomfield Hills	MI	50
-EMPLOYER NAME	CITY	STATE	CEI SCORE
-Pathmark Stores Inc.	Carteret	NJ	50
-A.G. Edwards Inc.	St. Louis	MO	43
-American President Lines	Oakland	CA	43
-AutoZone Inc.	Memphis	TN	43
-Avnet Inc.	Great Neck	NY	43
-Baltimore Gas & Electric Co.	Baltimore	MD	43
-Cambridge Technology Group	Cambridge	MA	43
-Carlson Companies Inc.	Minneapolis	MN	43
-Costco Wholesale Corp.	Issaquah	WA	43
-D&B (The Dun & Bradstreet Corp.)	Murray Hill	NJ	43
-Dana Corp.	Toledo	OH	43
-Dow Jones & Co. Inc.	New York	NY	43
-Fifth Third Bancorp	Cincinnati	OH	43
-H. E. Butt Grocery Co.	San Antonio	TX	43
-Hain Celestial Group, Inc (The)	Boulder	CO	43
-Humana Inc.	Louisville	KY	43
-KB Home	Los Angeles	CA	43
-Latrobe Brewing Co.	Latrobe	PA	43
-Lear Corp.	Southfield	MI	43
-Marsh & McLennan	New York	NY	43
-MBNA Corp.	Wilmington	DE	43
-Morningstar Inc.	Chicago	IL	43
-N. W. Ayer & Partners	New York	NY	43
-Navistar International Corp.	Warrenville	IL	43
-Northern Telecom Inc.	Nashville	TN	43
-Office Depot Inc.	Delray Beach	FL	43
-Omnicom Group	New York	NY	43
-Ortho-Neutrogena	Los Angeles	CA	43
-PacifiCare Health Systems	Santa Ana	CA	43
-Pennzoil-Quaker State Co.	Houston	TX	43
-Rockwell Collins	Pomona	CA	43
-Scudder Kemper Investments	New York	NY	43
-Southwest Airlines	Dallas	TX	43
-Toys “R” Us Inc.	Wayne	NJ	43
-Vertis	Baltimore	MD	43
-Wal-Mart Stores Inc.	Bentonville	AR	43
-Waste Management Inc.	Houston	TX	43
-Wyeth	Madison	NJ	43
+Unnamed: 0
+Unnamed: 0	EMPLOYER NAMECITYSTATECEI SCORE	Unnamed: 1	Unnamed: 2
+		St. Paul CompaniesSt. PaulMN86	
+	Staples Inc.FraminghamMA86		
+		Starbucks Corp.SeattleWA86	
+	Starwood Hotels & Resorts WorldwideWhite PlainsNY86		
+		Subaru of America Inc.Cherry HillNJ86	
+	Sun MicrosystemsPalo AltoCA86		
+		SunTrust Banks Inc.AtlantaGA86	
+	Target Corp.MinneapolisMN86		
+		Texas Instruments Inc.DallasTX86	
+	Time Warner Inc.New YorkNY86		
+		Toyota Motor Manufacturing North America Inc.ErlangerKY86	
+	Travelers Property Casualty Corp.HartfordCT86		
+		Unisys Corp.Blue BellPA86	
+	United Airlines (UAL Corp.)Elk GroveIL86		
+	United Parcel Service (UPS)AtlantaGA86		
+	US Airways GroupArlingtonVA86		
+		Verizon CommunicationsNew YorkNY86	
+	Viacom Inc.New YorkNY86		
+		Vision Service PlanRancho CordovaCA86	
+	Visteon Corp.DearbornMI86		
+		Volkswagen of America Inc.Auburn HillsMI86	
+	Wachovia Corp.CharlotteNC86		
+		Wainwright Bank & Trust Co.BostonMA86	
+	Walgreens Co.DeerfieldIL86		
+		Walt Disney Co.BurbankCA86	
+	Washington Mutual Savings BankSeattleWA86		
+		Wellpoint Health NetworksThousand OaksCA86	
+	Wyndham International Inc.DallasTX86		
+		Xcel EnergyMinneapolisMN86	
+	Anheuser-BuschSt. LouisMO79		
+		Calpine Corp.San JoseCA79	
+	Colgate-Palmolive Co.New YorkNY79		
+		Imation Corp.OakdaleMN79	
+	John Hancock Financial Services Inc.BostonMA79		
+		KLA-TencorSan JoseCA79	
+	Northrop Grumman Corp.Los AngelesCA79		
+	PNC Financial Services Group Inc.PittsburghPA79		
+Reebok InternationalStoughtonMA79			
+Unnamed: 0
+Unnamed: 0	EMPLOYER NAMECITYSTATECEI SCORE	Unnamed: 1
+		
+	Men’s Wearhouse Inc., TheHoustonTX71	
+	Nextel CommunicationsRestonVA71	
+	Nims Associates Inc.DecaturIL71	
+	Northwest Airlines Corp.EaganMN71	
+	Perkins & WillChicagoIL71	
+	Pitney Bowes Inc.StamfordCT71	
+	PPG IndustriesPittsburghPA71	
+	PPL Corp.AllentownPA71	
+	Principal Financial GroupDes MoinesIA71	
+	Providian Financial Corp.San FranciscoCA71	
+	QUALCOMM Inc.San DiegoCA71	
+	Safeway Inc.PleasantonCA71	
+	Sara Lee Corp.ChicagoIL71	
+	Siemens Energy & Automation Inc.AlpharettaGA71	
+	Sprint Corp.Overland ParkKS71	
+	State Farm GroupBloomingtonIL71	
+	SupervaluEden PrairieMN71	
+	University Hospitals of ClevelandClevelandOH71	
+	US BancorpMinneapolisMN71	
+	Verio Inc.EnglewoodCO71	
+	Visa InternationalFoster CityCA71	
+	Vivendi UniversalNew YorkNY71	
+	Williams Companies Inc.TulsaOK71	
+	Working Assets Funding ServiceSan FranciscoCA71	
+	Baxter International Inc.DeerfieldIL64	
+	Bear Creek Corp.MedfordOR64	
+	ConocoPhillipsHoustonTX64	
+	Deere & Co.MolineIL64	
+	Illinois Tool Works Inc.GlenviewIL64	
+	Allegheny EnergyHagerstownMD57	
+	ArhausColumbusOH57	
+	Avon ProductsNew YorkNY57	
+	Biovail Pharmaceuticals Inc.BridgewaterNJ57	
+	Bridgestone Americas Holding Inc. (Firestone)NashvilleTN57	
+	CaterpillarPeoriaIL57	
+	Clorox Co.OaklandCA57	
+	Coca-Cola EnterprisesAtlantaGA57	
+Digitaria Interactive Inc.San DiegoCA57		
+Unnamed: 0	EMPLOYER NAMECITYSTATECEI SCORE	Unnamed: 1
+	Donna KaranNew YorkNY57	
+	DPR ConstructionRedwood CityCA57	
+	DuPont (E. I. du Pont de Nemours)WilmingtonDE57	
+	EMC Corp.HopkintonMA57	
+	Estee Lauder CompaniesNew YorkNY57	
+	FedEx Corp.MemphisTN57	
+	Gallup Organization, ThePrincetonNJ57	
+	General Dynamics Corp.Falls ChurchVA57	
+	Hallmark Cards Inc.Kansas CityMO57	
+	Health Net Inc.Woodland HillsCA57	
+	Hilton Hotels Corp.Beverly HillsCA57	
+	Host MarriottBethesdaMD57	
+	Instinet Group Inc.New YorkNY57	
+	J.C. Penney Corp. Inc.PlanoTX57	
+	Kmart Corp.TroyMI57	
+	Knight RidderSan JoseCA57	
+	Kroger Co., TheCincinnatiOH57	
+	L.L. Bean Inc.FreeportME57	
+	Liz Claiborne Inc.New YorkNY57	
+	Marimba Inc.Mountain ViewCA57	
+	MassMutual Life InsuranceSpringfieldMA57	
+	Mattel Inc.El SegundoCA57	
+	McDonald’s Corp.OakbrookIL57	
+	National City CorporationClevelandOH57	
+	Progressive (The Progressive Corp.)Mayfield VillageOH57	
+	Reuters America Holdings Inc.New YorkNY57	
+	SAP AmericaNewton SquarePA57	
+	Software House InternationalSomersetNJ57	
+	TAP Pharmaceutical Products Inc.Lake ForestIL57	
+	Tech Data Corp.ClearwaterFL57	
+	TIAA-CREFNew YorkNY57	
+	Times Mirror Co.Los AngelesCA57	
+	Whole Foods Market Inc.AustinTX57	
+	WPP Group USANew YorkNY57	
+	AT&T Wireless ServicesRedmondWA50	
+	Domino’s Inc.Ann ArborMI50	
+	Howard & Howard Attorneys, PCBloomfield HillsMI50	
+	New York Life Insurance Co.New YorkNY50	
+Unnamed: 0
+Unnamed: 0	EMPLOYER NAMECITYSTATECEI SCORE	Unnamed: 1
+	Pathmark Stores Inc.CarteretNJ50	
+	A.G. Edwards Inc.St. LouisMO43	
+	American President LinesOaklandCA43	
+	AutoZone Inc.MemphisTN43	
+	Avnet Inc.Great NeckNY43	
+	Baltimore Gas & Electric Co.BaltimoreMD43	
+	Cambridge Technology GroupCambridgeMA43	
+	Carlson Companies Inc.MinneapolisMN43	
+	Costco Wholesale Corp.IssaquahWA43	
+	D&B (The Dun & Bradstreet Corp.)Murray HillNJ43	
+	Dana Corp.ToledoOH43	
+	Dow Jones & Co. Inc.New YorkNY43	
+	Fifth Third BancorpCincinnatiOH43	
+	H. E. Butt Grocery Co.San AntonioTX43	
+	Hain Celestial Group, Inc (The)BoulderCO43	
+	Humana Inc.LouisvilleKY43	
+	KB HomeLos AngelesCA43	
+	Latrobe Brewing Co.LatrobePA43	
+	Lear Corp.SouthfieldMI43	
+	Marsh & McLennanNew YorkNY43	
+	MBNA Corp.WilmingtonDE43	
+	Morningstar Inc.ChicagoIL43	
+	N. W. Ayer & PartnersNew YorkNY43	
+	Navistar International Corp.WarrenvilleIL43	
+	Northern Telecom Inc.NashvilleTN43	
+	Office Depot Inc.Delray BeachFL43	
+	Omnicom GroupNew YorkNY43	
+	Ortho-NeutrogenaLos AngelesCA43	
+	PacifiCare Health SystemsSanta AnaCA43	
+	Pennzoil-Quaker State Co.HoustonTX43	
+	Rockwell CollinsPomonaCA43	
+	Scudder Kemper InvestmentsNew YorkNY43	
+	Southwest AirlinesDallasTX43	
+	Toys “R” Us Inc.WayneNJ43	
+	VertisBaltimoreMD43	
+	Wal-Mart Stores Inc.BentonvilleAR43	
+	Waste Management Inc.HoustonTX43	
+WyethMadisonNJ43		
 EMPLOYER NAME	CITY	STATE	CEI SCORE
 Entergy Corp.	New Orleans	LA	36
 Advanced Digital Information Corp.	Redmond	WA	29

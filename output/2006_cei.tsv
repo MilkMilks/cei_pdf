@@ -1,1183 +1,2641 @@
-company_name	location	cei_2006	cei_2007	forbes_1000
-Unnamed: 0	Table 1. Companies Scoring 100 Percent on the 2006 Corporate Equality Index (continued)
-	Eli Lilly & Co. Indianapolis IN MetLife Inc. New York NY
-	Ernst & Young LLP New York NY Microsoft Corp. Redmond WA
-	Estée Lauder Companies New York NY Mitchell Gold + Bob Williams Taylorsville NC
-	Faegre & Benson Minneapolis MN Morgan Stanley New York NY
-	Fannie Mae Washington DC Morrison & Foerster LLP San Francisco CA
-	Ford Motor Co. Dearborn MI Motorola Inc. Schaumburg IL
-	Freescale Semiconductor Inc. Austin TX Nationwide Columbus OH
-	Gap Inc. San Francisco CA NCR Corp. Dayton OH
-	General Mills Inc. Minneapolis MN New York Times Co. New York NY
-	General Motors Corp. Detroit MI Nike Inc. Beaverton OR
-	GlaxoSmithKline PLC Philadelphia PA Nixon Peabody LLP Rochester NY
-	Global Hyatt Corp. Chicago IL Nordstrom Inc. Seattle WA
-	Goldman Sachs Group Northrop Grumman Corp. Los Angeles CA
-	Inc., The New York NY Orrick, Herrington & Sutcliffe San Francisco CA
-	Google Inc. Mountain View CA Owens Corning Toledo OH
-	Harvard Pilgrim Health PepsiCo Inc. Purchase NY
-	Care Inc. Wellesley MA Pfizer Inc. New York NY
-	Heller Ehrman LLP San Francisco CA PG&E Corp. San Francisco CA
-	Hewitt Associates Lincolnshire IL Pillsbury Winthrop Shaw
-	Hewlett-Packard Co. Palo Alto CA Pittman LLP San Francisco CA
-	Honeywell International Inc. Morristown NJ Powell Goldstein LLP Atlanta GA
-6.0	Hospira Inc. Lake Forest IL PricewaterhouseCoopers LLP New York NY
-	ING North America Prudential Financial Inc. Newark NJ
-	Insurance Corp. Atlanta GA Raytheon Co. Waltham MA
-	Intel Corp. Santa Clara CA Replacements Ltd. McLeansville NC
-	International Business S.C. Johnson & Son Inc. Racine WI
-	Machines Corp. Armonk NY Schering-Plough Corp. Kenilworth NJ
-	Intuit Inc. Mountain View CA Sears Holdings Corporation Hoffman Estates IL
-	J.P. Morgan Chase & Co. New York NY Sempra Energy San Diego CA
-	Jenner & Block LLP Chicago IL Sprint Nextel Corp. Reston VA
-	Johnson & Johnson New Brunswick NJ Starcom MediaVest Group Chicago IL
-	Kaiser Permanente Oakland CA Starwood Hotels &
-	Keyspan Corp Brooklyn NY Resorts Worldwide White Plains NY
-	Kimpton Hotel & State Street Corp. Boston MA
-	Restaurant Group Inc. San Francisco CA Sun Microsystems Inc. Santa Clara CA
-	KPMG LLP New York NY SunTrust Banks Inc. Atlanta GA
-	Kraft Foods Inc. Northfield IL Tech Data Corp. Clearwater FL
-	Lehman Brothers Holdings New York NY The Olivia Companies LLC San Francisco CA
-	Levi Strauss & Co. San Francisco CA US Airways Group Inc. Phoenix AZ
-	Lexmark International Inc. Lexington KY Viacom Inc. New York NY
-	Liz Claiborne Inc. North Bergen NJ Visa International Foster City CA
-	Lucent Technologies Inc. Murray Hill NJ Volkswagen of America Inc. Auburn Hills MI
-	McDermott Will & Emery LLP Chicago IL Wachovia Corp. Charlotte NC
-	McKinsey & Co. Inc. New York NY Walgreens Co. Deerfield IL
-	Mellon Financial Corp. Pittsburgh PA Wells Fargo & Co. San Francisco CA
-	Merck & Co. Inc. Whitehouse Whirlpool Corp. Benton Harbor MI
-	Station NJ Xerox Corp. Stamford CT
-	Merrill Lynch & Co. New York NY
-Table 2. Advances in All Policy Areas (Total Rated Companies: 446)	Unnamed: 0	Unnamed: 1
-* Denotes new criterion in 2006.		
-No. of No. of		
-Companies Companies		Percent
-Policy Area with Policy, 2006 with Policy, 2005		Change
-1a. Prohibits discrimination based on sexual orientation 436 385		+13%
-1b. Provides diversity training covering sexual orientation 391 328		+19
-2a. Prohibits discrimination based on		
-gender identity and/or expression 203 116		+75
-2b. Provides diversity training covering gender identity OR		
-has supportive gender transition guidelines in place* 261 194		+35
-2c. Offers at least one transgender wellness benefit* 303 185		+64
-3a. Offers domestic partner health insurance 388 330		+18
-3b. Offers domestic partners dental, vision,		
-COBRA and dependent coverage benefits* 315 235		+34
-3c. Offers at least three other “soft” benefits		
-for domestic partners* 344 249		+38
-4. Has company-supported employee resource		
-group OR firm-wide diversity council 361 300		+20
-5. Engages in appropriate and respectful		
-advertising, marketing or philanthropy 357 313		+14
-➜	Involve senior management to demonstrate	only U.S. company to have rolled back both benefits
-	support for the transitioning employee; and	eligibility for its employees’ domestic partners and a
-		non-discrimination policy inclusive of sexual orienta-
-➜	Prescribe diversity training for the employee’s	
-Unnamed: 0	Table 3. Performance by Industry (Average Across All Industries: 76 percent)	Unnamed: 1
-		Industry No. of Companies
-		Average Scoring
-	Industry	Score 100 Percent
-	Advertising and Marketing	61 1
-	Aerospace and Defense	85 4
-	Airlines	83 2
-	Apparel, Fashion, Textiles, Dept. Stores	74 5
-	Automotive	63 4
-	Banking and Financial Services	85 19
-	Chemicals and Biotechnology	70 2
-	Computer and Data Services	61 2
-	Computer Hardware and Office Equipment	79 8
-	Computer Software	80 3
-	Consulting, Business Services	89 7
-	Engineering and Construction	54 0
-	Entertainment and Electronic Media	83 3
-	Food, Beverages and Groceries	68 7
-	Forest and Paper Products	75 0
-	Health Care	81 5
-	High-Tech/Photo/Science Equipment	78 10
-	Hotels, Resorts and Casinos	89 5
-	Insurance	79 8
-	Law Firms	87 12
-10.0	Mail and Freight Delivery	58 0
-	Manufacturing	60 2
-	Oil and Gas	71 2
-	Pharmaceuticals	81 8
-	Publishing and Printing	62 2
-	Retail and Consumer Products	72 9
-	Telecommunications	79 3
-	Tobacco	90 0
-	Transportation and Travel	75 0
-	Utilities	67 4
-Unnamed: 0	Unnamed: 1	Points	Points.1
-	Corporate Equality Index: 2006 Scoring Mechanism	Awarded	Awarded
-		in 2005	in 2006
-1.0	a. Non-discrimination policy includes sexual orientation	14	15
-	b. Diversity training including sexual orientation offered	7‡	5
-2.0	a. Non-discrimination policy includes gender identity and/or expression	14	15
-	b.  Diversity training including gender identity offered OR supportive		
-	gender transition guidelines in place*	7‡	5
-	c. Parity in at least one transgender wellness benefit*		
-	(Including counseling by a mental health professional, pharmacy		
-	benefits covering hormone therapy, medical visits to monitor the		
-	effects of hormone therapy and other associated lab procedures,		
-	medically necessary surgical procedures such as hysterectomy		
-	or short-term disability leave for surgical procedures)		5
-Unnamed: 0	Unnamed: 1	Unnamed: 2	Points	Points.1
-			Awarded	Awarded
-			in 2005	in 2006
-3.0	a. Company-provided domestic partner health insurance		14	15
-	b. Parity in COBRA, dental, vision and domestic partners’ legal			
-	dependent coverage*			5
-	c. Parity in at least three other domestic partner benefits*			
-	(Including FMLA-like leave,† bereavement leave,† employer-provided			
-	supplemental life insurance for a partner, relocation/travel assistance,			
-	adoption assistance, qualified joint and survivor annuity for domestic			
-	partners, qualified pre-retirement survivor annuity for domestic partners,			
-	retiree health care benefits or employee discounts)			5
-4.0	Company-supported GLBT employee resource group or firm-wide			
-	diversity council that includes GLBT issues, or:		14	15
-	Company would support a GLBT employee resource group with company			
-	resources if employees expressed an interest (counts for half credit)			
-5.0	Engages in appropriate and respectful advertising and marketing or			
-	sponsors GLBT community events or organizations		14	15
-6.0	Engages in action that would undermine the goal of GLBT equality**			
-	Companies that did not engage in such activity previously received			
-	14 points for this category. In 2006, companies that do engage in			
-	such activity lose 15 points, with a minimum possible total score of 0.		14	-15
-how it calculates the Corporate Equality Index score.	Unnamed: 0
-The most significant change in this area is how HRC	In 2006, the Human Rights Campaign Foundation
-treats the sole negative criterion: whether companies	Workplace Project surveyed the Fortune 1000,
-engage in corporate actions that undermine the goal	Standard & Poor’s 500, Forbes’ list of the 200 largest
-of gay, lesbian, bisexual and transgender equal rights.	privately held firms, the American Lawyer 100 and
-Since the CEI’s launch in 2002, HRC has automati-	any other company with 500 or more employees that
-cally awarded companies points on this measure if it	requested a rating or for which HRC had sufficient
-found no evidence that the company had engaged in	data to derive a score. The 2006 survey was mailed
-Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	City
-3M Company	St. Paul	MN	101	85.0	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
-A.G. Edwards Inc.	St. Louis	MO	665	85.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	0.0	0.0	State
-Abbott Laboratories	Abbott Park	IL	93	50.0	15.0	5.0	0.0	0.0		0.0	15.0	0.0	0	0.0	15.0	0.0	
-Abercrombie & Fitch Co.	New Albany	OH	639	50.0	15.0	5.0	0.0	0.0		0.0	15.0	0.0	0	0.0	15.0	0.0	Fortune Rank
-ABN AMRO Holding N.V.	Chicago	IL		65.0	15.0	5.0	0.0	0.0		0.0	15.0	0.0	0	15.0	15.0	0.0	Forbes Rank
-Accenture Ltd.	New York	NY		95.0	15.0	5.0	15.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
-																	AmLaw Rank
-ACNielsen	Schaumburg	IL		50.0	0.0	5.0	0.0	0.0		5.0	15.0	5.0	5	15.0	0.0	0.0	
-Adobe Systems Inc.	San Jose	CA	817	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	CEI 2006
-Advanced Digital																	
-																	1a
-Information Corp.	Redmond	WA		15.0	15.0	0.0	0.0	0.0		0.0	0.0	0.0	0	0.0	0.0	0.0	
-Advanced Micro Devices	Sunnyvale	CA	367	80.0	15.0	5.0	15.0	5.0		5.0	15.0	0.0	5	0.0	15.0	0.0	1b
-AEGON Insurance Group	Cedar Rapids	IA		35.0	0.0	5.0	0.0	0.0		5.0	15.0	5.0	5	0.0	0.0	0.0	221a
-Aetna Inc.	Hartford	CT	91	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
-Affiliated Computer Services	Dallas	TX	471	75.0	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5	15.0	15.0	0.0	2b
-Agere Systems Inc.	Allentown	PA	904	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	2c
-Agilent Technologies Inc.	Palo Alto	CA	319	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
-																	3a
-Air Products & Chemicals Inc.	Allentown	PA	282	75.0	15.0	5.0	15.0	0.0		5.0	0.0	0.0	5	15.0	15.0	0.0	
-Albertson’s Inc.	Boise	ID	47	85.0	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	3b
-Allegheny Energy	Greensburg	PA	572	50.0	0.0	5.0	0.0	5.0		0.0	15.0	5.0	5	0.0	15.0	0.0	
-																	3c
-Alliant Energy Corp.	Madison	WI	549	60.0	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5	15.0	0.0	0.0	
-																	4
-Alliant Techsystems	Edina	MN	638	65.0	15.0	5.0	15.0	0.0		5.0	15.0	5.0	5	0.0	0.0	0.0	
-Allianz Life Insurance Co.																	5
-of North America	Minneapolis	MN		100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
-																	6
-Allstate Corp., The	Northbrook	IL	58	85.0	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
-ALLTEL Corp	Little Rock	AR	251	30.0	15.0	5.0	0.0	0.0		5.0	0.0	0.0	5	0.0	0.0	0.0	
-Alston & Bird LLP	Atlanta	GA	50	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
-Amazon.com Inc.	Seattle	WA	272	65.0	15.0	5.0	0.0	5.0		0.0	15.0	5.0	5	15.0	0.0	0.0	
-American Express Co.	New York	NY	69	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
-American Family Insurance			w w w . h r c . o r g / w o r k p l a c e										C O R P O R A T E  E Q U A L I T Y  I N D E X  2 0 0				
-Group	Madison	WI	323	75.0	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5	15.0	15.0	0.0	
-American International																	
-Group Inc.	New York	NY	9	30.0	15.0	0.0	0.0	0.0		0.0	15.0	0.0	0	0.0	0.0	0.0	
-American Power Conversion																	
-Corp	West Kingston	RI	815	58.0	15.0	5.0	0.0	5.0		0.0	15.0	5.0	5	7.5	0.0	0.0	
-Amgen Inc.	Thousand Oaks	CA	181	85.0	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
-AMR Corp	Fort Worth	TX	105	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
-Anheuser-Busch																	
-Companies Inc.	St. Louis	MO	146	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
-Aon Corp.	Chicago	IL	237	95.0	15.0	5.0	15.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
-APL Limited	Oakland	CA		30.0	15.0	0.0	0.0	0.0		0.0	15.0	0.0	0	0.0	0.0	0.0	
-Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	Unnamed: 17	Company
-Apple Computer Inc.	Cupertino	CA	159.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-																		Name
-Applebee’s International Inc.	Overland Park	KS				80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Applied Materials Inc.	Santa Clara	CA	317.0			73.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
-Aquila	Kansas City	MO	760.0			35.0	15.0	0.0	15.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	
-Aramark Corp.	Philadelphia	PA	215.0			80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Archer Daniels Midland Co.	Decatur	IL	56.0			15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
-Arnold & Porter	Washington	DC			39.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-																		City
-AT&T Inc.	San Antonio	TX	39.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Automatic Data																		
-Processing Inc.	Roseland	NJ	271.0			30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
-AutoZone Inc.	Memphis	TN	378.0			25.0	15.0	5.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
-																		State
-Avaya Inc.	Basking Ridge	NJ	434.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Aventis Pharmaceuticals Inc.	Bridgewater	NJ				80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-																		Fortune Ran
-Avnet Inc.	Phoenix	AZ	212.0			30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
-																		Forbes Rank
-Avon Products	New York	NY	281.0			30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
-Bain & Company Inc.																		AmLaw Rank
-(and Bridgespan Group)	Boston	MA				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-																		CEI 2006
-Baldor Electric Co.	Fort Smith	AR				15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
-Ball Corporation	Broomfield	CO	374.0			58.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	5.0	7.5	0.0	0.0	1a
-Baltimore Gas & Electric Co.	Baltimore	MD				55.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	15.0	0.0	
-																		1b
-Bank of America Corp.	Charlotte	NC	12.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Bank of New York Co.	New York	NY	278.0			85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	2a
-Barclays Capital	New York	NY				90.0	15.0	5.0	15.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	2b
-Barnes & Noble Inc.	New York	NY	422.0			60.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	15.0	0.0	
-																		2c
-Bausch & Lomb Inc.	Rochester	NY				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Baxter International Inc.	Deerfield	IL	240.0			73.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	3a
-Bayer Corp.	Pittsburgh	PA				15.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
-																		3b
-BB&T Corp.	Winston-Salem	NC	292.0			25.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	
-BellSouth Corp.	Atlanta	GA	106.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	3c
-Ben and Jerry’s Homemade Inc.	South Burlington	VT				50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	15.0	0.0	4
-Best Buy Co. Inc.	Richfield	MN	76.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-																		5
-Bingham McCutchen	Boston	MA			26.0	80.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Biovail Pharmaceuticals Inc.	Bridgewater	NJ				40.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	0.0	0.0	0.0	0.0	6
-Blockbuster Inc.	Dallas	TX	366.0			60.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	15.0	0.0	
-Boeing Co.	Chicago	IL	26.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Booz Allen Hamilton Inc.	McLean	VA		66.0		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Borders Group Inc.	Ann Arbor	MI	490.0			95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
-BP America	Warrenville	IL				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Bridgestone Americas																		
-Holding Inc.	Nashville	TN				45.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	15.0	0.0	
-Bright Horizons Family																		
-Solutions Inc.	Watertown	MA				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Brinker International Inc.	Dallas	TX	504.0			85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Bristol-Myers Squibb Co.	New York	NY	110.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Bryan Cave LLP	St. Louis	MO			55.0	75.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
-C&S Wholesale Grocers Inc.	Keene	NH		8.0		40.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	0.0	0.0	0.0	0.0	
-Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	Unnamed: 17	Unnamed: 18	Company
-																			Name
-Cadwalader, Wickersham																			
-& Taft	New York	NY			46 95	15.0	5.0	15.0	5.0		0.0	15.0	5.0	5	15.0	15.0	0.0		
-California State																			
-Automobile Association	San Francisco	CA			100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Calpine Corp.	San Jose	CA	275		63	15.0	0.0	0.0	0.0		0.0	15.0	5.0	5	7.5	15.0	0.0		City
-Campbell Soup Co.	Camden	NJ	302		80	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Capital One Financial Corp.	McLean	VA	187		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Caremark RX	Nashville	TN	60		55	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	0.0	0.0	0.0		
-Cargill Inc.	Wayzata	MN		1.0	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		State
-Carlson Companies Inc.	Minnetonka	MN		82.0	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-																			Fortune Rank
-Caterpillar Inc.	Peoria	IL	55		35	15.0	5.0	0.0	0.0		0.0	0.0	0.0	0	15.0	0.0	0.0		
-CBRL Group Inc.	Lebanon	TN	676		15	15.0	0.0	0.0	0.0		0.0	0.0	0.0	0	0.0	0.0	0.0		Forbes Rank
-CDW Corporation	Vernon Hills	IL	343		58	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5	7.5	0.0	0.0		
-																			AmLaw Rank
-Cendant Corp.	New York	NY	114		75	15.0	5.0	0.0	5.0		0.0	15.0	0.0	5	15.0	15.0	0.0		
-																			CEI 2006
-Cerner Corp.	Kansas City	MO			45	15.0	5.0	15.0	5.0		0.0	0.0	0.0	5	0.0	0.0	0.0		
-CH2M HILL Companies, Ltd.	Englewood	CO	591	88.0	80	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0		1a
-Chamberlin Edmonds																			
-																			1b
-& Associates Inc	Atlanta	GA			68	15.0	0.0	0.0	0.0		5.0	15.0	5.0	5	7.5	15.0	0.0		
-Charles Schwab Corp., The	San Francisco	CA	418		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	23.0	2a
-Chevron Corp.	San Ramon	CA	4		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-																			2b
-ChoicePoint Inc.	Alpharetta	GA			100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Chubb Corp.	Warren	NJ	156		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		2c
-CIGNA Corp.	Philadelphia	PA	130		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		3a
-Cingular Wireless	Atlanta	GA			85	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-																			3b
-Circuit City Stores Inc.	Richmond	VA	226		55	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	0.0	0.0	0.0		
-Cisco Systems Inc.	San Jose	CA	83		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		3c
-Citigroup Inc.	New York	NY	8		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-																			4
-Clear Channel																			
-Communications Inc.	San Antonio	TX	252		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		5
-Clorox Company	Oakland	CA	460		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-																			6
-CMP Media LLC	Manhasset	NY			100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-CNA Insurance	Chicago	IL			100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Coca-Cola Company	Atlanta	GA	89		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Coca-Cola Enterprises	Atlanta	GA	120		65	15.0	5.0	0.0	5.0		0.0	15.0	5.0	5	15.0	0.0	0.0		
-Colgate-Palmolive Co.	New York	NY	204		78	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	7.5	15.0	0.0		
-			w w w . h r c . o r g / w o r k p l a c e											C O R P O R A T E  E Q U A L I T Y  I N D E X  2 0 0 6					
-Comcast Corp.	Philadelphia	PA	94		85	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Comerica Inc.	Detroit	MI	524		80	15.0	5.0	0.0	5.0		5.0	15.0	0.0	5	15.0	15.0	0.0		
-Compass Group North																			
-America	Charlotte	NC			65	15.0	5.0	0.0	5.0		0.0	15.0	5.0	5	0.0	15.0	0.0		
-ConocoPhillips	Houston	TX	6		78	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	7.5	15.0	0.0		
-Consolidated Edison Co.	New York	NY	199		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Continental Airlines	Houston	TX	207		75	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5	15.0	15.0	0.0		
-Cooper Tire & Rubber	Findlay	OH	770		33	0.0	5.0	15.0	5.0		0.0	0.0	0.0	0	7.5	0.0	0.0		
-Coors Brewing Company	Golden	CO	373		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Corbis Corporation	Seattle	WA			65	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5	0.0	15.0	0.0		
-Corning Inc.	Corning	NY	456		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	Unnamed: 17	Company
-Costco Wholesale Corp. Issaquah		WA	28.0			93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
-																		Name
-Countrywide Financial Corp. Calabasas		CA	122.0			80.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	0.0	15.0	0.0	
-Cox Communications Inc. Atlanta		GA	316.0			95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Credit Suisse Securities																		
-(USA) LLC New York		NY				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-CSX Corp. Jacksonville		FL	266.0			40.0	15.0	5.0	0.0	5.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	
-Cummins Inc. Columbus		IN	238.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-CUNA Mutual Insurance																		City
-Group Madison		WI	644.0			65.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	5.0	15.0	15.0	0.0	
-DaimlerChrysler Corp. Auburn Hills		MI				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Dana Corp. Toledo		OH	234.0			35.0	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0	
-Darden Restaurants Orlando		FL	409.0			80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	State
-Dean Foods Co. Dallas		TX	216.0			73.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
-																		Fortune Rank
-Deere & Co. Moline		IL	96.0			48.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	7.5	15.0	0.0	
-Dell Inc. Round Rock		TX	25.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	Forbes Rank
-Deloitte & Touche USA LLP New York		NY				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-																		AmLaw Rank
-Delphi Corp. Troy		MI	77.0			60.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	
-																		CEI 2006
-Delta Air Lines Inc. Atlanta		GA	135.0			85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Deluxe Corp. Shoreview		MN	873.0			60.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	1a
-Deutsche Bank New York		NY				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-																		1b
-Dole Food Co. Inc. Westlake Village		CA	365.0			60.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	0.0	0.0	15.0	0.0	
-Dominion Resources Inc. Richmond		VA	123.0			95.0	15.0	5.0	15.0	5.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	2a
-Domino’s Pizza Inc. Ann Arbor		MI	966.0			45.0	0.0	5.0	0.0	0.0	5.0	0.0	0.0	5.0	15.0	15.0	0.0	2b
-Donna Karan New York		NY				45.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	15.0	0.0	
-																		2c
-Dorsey & Whitney Minneapolis		MN			65.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Dow Chemical Co. Midland		MI	36.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	3a
-Dow Jones & Co. Inc. New York		NY	867.0			30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
-																		3b
-DPR Construction Redwood City		CA				50.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	0.0	0.0	15.0	0.0	
-DTE Energy Co. Detroit		MI	259.0			80.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	3c
-Duke Energy Corp. Charlotte		NC	117.0			65.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	5.0	15.0	15.0	0.0	4
-DuPont (E. I. du Pont																		
-de Nemours) Wilmington		DE	73.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	5
-E*TRADE Financial																		6
-Corporation New York		NY	679.0			73.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	5.0	7.5	15.0	0.0	
-EarthLink Inc. Atlanta		GA				63.0	15.0	0.0	0.0	0.0	5.0	15.0	0.0	5.0	7.5	15.0	0.0	
-Eastman Kodak Co. Rochester		NY	155.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Edison International Rosemead		CA	194.0			35.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
-Electronic Arts Inc. Redwood City		CA	594.0			88.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	7.5	15.0	0.0	
-Electronic Data Systems Corp. Plano		TX	108.0			70.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	5.0	15.0	15.0	0.0	
-Eli Lilly & Co. Indianapolis		IN	148.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-EMC Corp. Hopkinton		MA	249.0			45.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	0.0	0.0	
-Emerson Electric Co. St. Louis		MO	126.0			45.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	0.0	0.0	15.0	0.0	
-Entergy Corp. New Orleans		LA	218.0			13.0	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	7.5	0.0	-15.0	
-Ernst & Young LLP New York		NY		7.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Estee Lauder Companies New York		NY	340.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	Unnamed: 17	Company
-																		Name
-Exelon Corp.	Chicago	IL	144		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
-Exxon Mobil Corp.	Irving	TX	1		0.0	0.0	5.0	0.0	5.0	0.0	0.0	0.0	0	0.0	0.0	-15.0		
-Faegre & Benson	Minneapolis	MN		99.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
-Fannie Mae	Washington	DC			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
-																		City
-Federated Department Stores	Cincinnati	OH	87		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
-FedEx Corp.	Memphis	TN	70		55.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0	15.0	15.0	0.0		
-Fifth Third Bancorp	Cincinnati	OH	308		65.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	5	15.0	15.0	0.0		
-Fish & Richardson	Boston	MA		87.0	75.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
-																		State
-Fisher Scientific International	Hampton	NH	389		40.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	0	0.0	0.0	0.0		
-Foley & Lardner	Milwaukee	WI		28.0	95.0	15.0	5.0	15.0	5.0	5.0	15.0	0.0	5	15.0	15.0	0.0		Fortune Rank
-Foley Hoag LLP	Boston	MA			80.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5	0.0	15.0	0.0		
-																		Forbes Rank
-Food Lion, LLC	Salisbury	NC			75.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5	15.0	15.0	0.0		
-Ford Motor Co.	Dearborn	MI	5		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		AmLaw Rank
-Franklin Templeton Investments	San Mateo	CA			60.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5	0.0	15.0	0.0		CEI 2006
-Freddie Mac	McLean	VA			85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
-																		1a
-Freescale Semiconductor Inc.	Austin	TX	368		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
-Fulbright & Jaworski LLP	Houston	TX		32.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		1b
-Gallup Organization	Washington	DC			30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0	0.0	0.0	0.0	25.0	2a
-GameStop Corp.	Grapevine	TX	601		63.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	0	7.5	15.0	0.0		
-2bGannett Co. Inc.	McLean	VA	296		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
-Gap Inc.	San Francisco	CA	139		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		2c
-Gateway Inc.	Irvine	CA	508		65.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5	0.0	15.0	0.0		
-																		3a
-Genentech Inc.	S. San Francisco	CA			80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
-General Dynamics Corp.	Falls Church	VA	100		55.0	15.0	5.0	15.0	5.0	0.0	0.0	0.0	0	0.0	15.0	0.0		3b
-General Electric Co.	Fairfield	CT	7		75.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	0	15.0	15.0	0.0		
-																		3c
-General Mills Inc.	Minneapolis	MN	206		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
-																		4
-General Motors Corp.	Detroit	MI	3		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
-Genuine Parts Co.	Atlanta	GA	245		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0		5
-Giant Food LLC	Quincy	MA			78.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	7.5	0.0	0.0		
-																		6
-GlaxoSmithKline plc	Philadelphia	PA			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
-Global Hyatt Corp.	Chicago	IL		89.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
-Golden West Financial Corp.	Oakland	CA	326		40.0	15.0	5.0	0.0	5.0	0.0	15.0	0.0	0	0.0	0.0	0.0		
-Goldman Sachs Group																		
-Inc., The	New York	NY	41		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
-Google Inc.	Mountain View	CA	w35w3 w . h r c . o10r0g /1w5o r k5 p1l 5a c e5							5.0	15.0	5.0	5C O15R P15O R0A T E  E Q U A L I T Y  I N D E X  2 0 0 6					
-Guidant Corp.	Indianapolis	IN	535		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
-H. E. Butt Grocery Co.	San Antonio	TX		11.0	40.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0	0.0	15.0	0.0		
-H. J. Heinz Co.	Pittsburgh	PA	262		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0		
-Hain Celestial Group Inc.	Melville	NY			30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0	0.0	0.0	0.0		
-Hallmark Cards Inc.	Kansas City	MO		41.0	75.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
-Hannaford Brothers	Portland	ME			65.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0	15.0	15.0	0.0		
-Harrah’s Entertainment Inc.	Las Vegas	NV	309		95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5	15.0	15.0	0.0		
-Harris Bankcorp Inc.	Chicago	IL			75.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5	15.0	15.0	0.0		
-Harry & David Holdings Inc.	Medford	OR			58.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	0	7.5	15.0	0.0		
-Hartford Financial Services Co.	Hartford	CT	78		75.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5	15.0	15.0	0.0		
-Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	Company
-Harvard Pilgrim Health																	
-																	Name
-Care Inc.	Wellesley	MA			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Hasbro Inc.	Pawtucket	RI	602.0		65.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	
-Health Net Inc.	Woodland Hills	CA	191.0		93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
-Heller Ehrman LLP	San Francisco	CA		35.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Hershey Company, The	Hershey	PA	442.0		50.0	15.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	15.0	15.0	0.0	
-Hewitt Associates	Lincolnshire	IL	633.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Hewlett-Packard Co.	Palo Alto	CA	11.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	City
-Hilton Hotels Corp.	Beverly Hills	CA	464.0		95.0	15.0	5.0	15.0	5.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
-Hoffmann-La Roche Inc.	Nutley	NJ			80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Holland & Knight LLP	New York	NY		27.0	75.0	15.0	5.0	0.0	5.0	0.0	15.0	0.0	5.0	15.0	15.0	0.0	
-																	State
-Home Depot Inc.	Atlanta	GA	14.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Honeywell International Inc.	Morristown	NJ	71.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-																	Fortune Rank
-Hospira Inc.	Lake Forest	IL	660.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-																	Forbes Rank
-Host Hotels & Resorts	Bethesda	MD	502.0		45.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	0.0	0.0	0.0	0.0	
-Hotels.com, L.P.	Dallas	TX			85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	AmLaw Rank
-Howard & Howard																	
-																	CEI 2006
-Attorneys PC	Kalamazoo	MI			48.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	5.0	7.5	0.0	0.0	
-HSBC USA Inc.	Prospect Heights	IL			95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	1a
-Humana Inc.	Louisville	KY	150.0		40.0	15.0	5.0	0.0	5.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	
-																	1b
-Illinois Tool Works Inc.	Glenview	IL	173.0		53.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	0.0	7.5	15.0	0.0	
-Imation Corp.	Oakdale	MN			93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	2a
-ING North America																	2b
-Insurance Corp.	Atlanta	GA			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Intel Corp.	Santa Clara	CA	49.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	2c
-International Business																	3a
-Machines Corp.	Armonk	NY	10.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-International Paper Co.	Stamford	CT	82.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	3b
-Interpublic Group of																	3c
-Companies Inc.	New York	NY	348.0		75.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
-Intuit Inc.	Mountain View	CA	779.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	4
-ITT Industries Inc.	White Plains	NY	291.0		95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	5
-J. C. Penney Company Inc.	Plano	TX	118.0		50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	0.0	0.0	
-																	6
-J.P. Morgan Chase & Co.	New York	NY	17.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Jenner & Block LLP	Chicago	IL		74.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-John Hancock Financial																	
-Services Inc.	Boston	MA			93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
-Johnson & Johnson	New Brunswick	NJ	32.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Kaiser Permanente	Oakland	CA			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-KB Home	Los Angeles	CA	254.0		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
-Keane Inc.	Boston	MA			50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	0.0	0.0	
-Kellogg Co.	Battle Creek	MI	233.0		50.0	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	15.0	0.0	
-KeyCorp	Cleveland	OH	325.0		75.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
-Keyspan Corp	Brooklyn	NY	295.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Kilpatrick Stockton LLP	Atlanta	GA		80.0	63.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	5.0	7.5	15.0	0.0	
-Kimberly-Clark Corporation	Irving	TX	140.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	Unnamed: 17	Unnamed: 18	Company
-																			Name
-Kimpton Hotel & Restaurant																			
-Group Inc.	San Francisco	CA				100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-KLA-Tencor	San Jose	CA	780			73 15	5.0	0.0	5.0		0.0	15.0	5.0	5	7.5	15.0	0.0		
-KPMG LLP	New York	NY				100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Kraft Foods Inc.	Northfield	IL				100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		City
-Kroger Co., The	Cincinnati	OH	21			35 15	5.0	0.0	0.0		0.0	0.0	0.0	0	0.0	15.0	0.0		
-L.L. Bean Inc.	Freeport	ME				73 15	5.0	15.0	5.0		5.0	15.0	0.0	5	7.5	0.0	0.0		
-Land O’Lakes	Arden Hills	MN	301			53 15	0.0	0.0	0.0		5.0	15.0	5.0	5	7.5	0.0	0.0		
-																			State
-Lauren Manufacturing Co.	New Philadelphia	OH				5 0	5.0	0.0	0.0		0.0	0.0	0.0	0	0.0	0.0	0.0		
-Lear Corp.	Southfield	MI	127			20 15	5.0	0.0	0.0		0.0	0.0	0.0	0	0.0	0.0	0.0		
-																			Fortune Rank
-Lehman Brothers Holdings	New York	NY	62			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-																			Forbes Rank
-Levi Strauss & Co.	San Francisco	CA	484	44.0		100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Lexmark International Inc.	Lexington	KY	415			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		AmLaw Rank
-Lillian Vernon Corp.	White Plains	NY				55 15	5.0	0.0	0.0		0.0	15.0	0.0	5	0.0	15.0	0.0		
-																			CEI 2006
-Limited Brands Inc.	Columbus	OH	246			70 15	5.0	0.0	5.0		0.0	15.0	0.0	0	15.0	15.0	0.0		
-Lincoln National Corp.	Philadelphia	PA	396			95 15	5.0	15.0	5.0		0.0	15.0	5.0	5	15.0	15.0	0.0		1a
-Liz Claiborne Inc.	North Bergen	NJ	440			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		1b
-Lockheed Martin Corp.	Bethesda	MD	52			80 15	5.0	0.0	5.0		0.0	15.0	5.0	5	15.0	15.0	0.0		
-																		27.0	2a
-Lucent Technologies Inc.	Murray Hill	NJ	255			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Marriott International	Washington	DC	203			75 15	5.0	0.0	0.0		5.0	15.0	0.0	5	15.0	15.0	0.0		2b
-Marsh & McLennan																			
-																			2c
-Companies Inc.	New York	NY	186			30 15	0.0	0.0	0.0		0.0	15.0	0.0	0	0.0	0.0	0.0		
-Massachusetts Mutual Life																			3a
-Insurance Company	Springfield	MA	92			93 15	5.0	15.0	5.0		5.0	15.0	5.0	5	7.5	15.0	0.0		
-																			3b
-MasterCard Inc.	Purchase	NY	627			80 15	5.0	0.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Mattel Inc.	El Segundo	CA	416			88 15	5.0	15.0	0.0		5.0	15.0	5.0	5	7.5	15.0	0.0		3c
-McDermott Will & Emery LLP	Chicago	IL			13.0	100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		4
-McDonald’s Corp.	Oak Brook	IL	109			85 15	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-																			5
-McGraw-Hill Companies																			
-Inc., The	New York	NY	359			75 15	5.0	0.0	0.0		5.0	15.0	5.0	0	15.0	15.0	0.0		6
-McKinsey & Co. Inc.	New York	NY		72.0		100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-MeadWestvaco Corp.	Stamford	CT	322			80 15	5.0	0.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Medtronic Inc.	Minneapolis	MN	235			75 15	5.0	0.0	0.0		0.0	15.0	5.0	5	15.0	15.0	0.0		
-Meijer	Grand Rapids	MI		10.0		0 0	0.0	0.0	0.0		0.0	0.0	0.0	0	0.0	0.0	0.0		
-Mellon Financial Corp.	Pittsburgh	PA	377			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-			w w w . h r c . o r g / w o r k p l a c e											C O R P O R A T E  E Q U A L I T Y  I N D E X  2 0 0 6					
-Men’s Wearhouse Inc., The	Houston	TX	887			35 15	5.0	0.0	0.0		0.0	15.0	0.0	0	0.0	0.0	0.0		
-Merck & Co. Inc.	Whitehouse																		
-	Station	NJ	95			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Merrill Lynch & Co.	New York	NY	34			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-MetLife Inc.	New York	NY	35			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-MGM Mirage	Las Vegas	NV	334			85 15	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Microsoft Corp.	Redmond	WA	48			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Miller Brewing Co.	Milwaukee	WI				90 15	5.0	15.0	5.0		0.0	15.0	0.0	5	15.0	15.0	0.0		
-Mintz, Levin, Cohn, Ferris,																			
-Glovsky & Popeo	Boston	MA			91.0	95 15	5.0	15.0	5.0		0.0	15.0	5.0	5	15.0	15.0	0.0		
-Mirant Corporation	Atlanta	GA	479			45 15	5.0	0.0	0.0		0.0	15.0	5.0	5	0.0	0.0	0.0		
+3M Company	St. Paul	MN	101	85.0	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+
+A.G. Edwards Inc.	St. Louis	MO	665	85.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	0.0	0.0	State
+
+Abbott Laboratories	Abbott Park	IL	93	50.0	15.0	5.0	0.0	0.0		0.0	15.0	0.0	0	0.0	15.0	0.0	
+
+Abercrombie & Fitch Co.	New Albany	OH	639	50.0	15.0	5.0	0.0	0.0		0.0	15.0	0.0	0	0.0	15.0	0.0	Fortune Rank
+
+ABN AMRO Holding N.V.	Chicago	IL		65.0	15.0	5.0	0.0	0.0		0.0	15.0	0.0	0	15.0	15.0	0.0	Forbes Rank
+
+Accenture Ltd.	New York	NY		95.0	15.0	5.0	15.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+
+ACNielsen	Schaumburg	IL		50.0	0.0	5.0	0.0	0.0		5.0	15.0	5.0	5	15.0	0.0	0.0	
+
+Adobe Systems Inc.	San Jose	CA	817	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	CEI 2006
+
+Advanced Digital Information Corp.	Redmond	WA		15.0	15.0	0.0	0.0	0.0		0.0	0.0	0.0	0	0.0	0.0	0.0	
+
+Advanced Micro Devices	Sunnyvale	CA	367	80.0	15.0	5.0	15.0	5.0		5.0	15.0	0.0	5	0.0	15.0	0.0	1b
+
+AEGON Insurance Group	Cedar Rapids	IA		35.0	0.0	5.0	0.0	0.0		5.0	15.0	5.0	5	0.0	0.0	0.0	221a
+
+Aetna Inc.	Hartford	CT	91	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+
+Affiliated Computer Services	Dallas	TX	471	75.0	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5	15.0	15.0	0.0	2b
+
+Agere Systems Inc.	Allentown	PA	904	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	2c
+
+Agilent Technologies Inc.	Palo Alto	CA	319	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+
+																	3a
+
+Air Products & Chemicals Inc.	Allentown	PA	282	75.0	15.0	5.0	15.0	0.0		5.0	0.0	0.0	5	15.0	15.0	0.0	
+
+Albertson’s Inc.	Boise	ID	47	85.0	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	3b
+
+Allegheny Energy	Greensburg	PA	572	50.0	0.0	5.0	0.0	5.0		0.0	15.0	5.0	5	0.0	15.0	0.0	
+
+																	3c
+
+Alliant Energy Corp.	Madison	WI	549	60.0	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5	15.0	0.0	0.0	
+
+																	4
+
+Alliant Techsystems	Edina	MN	638	65.0	15.0	5.0	15.0	0.0		5.0	15.0	5.0	5	0.0	0.0	0.0	
+
+Allianz Life Insurance Co.																	5
+
+of North America	Minneapolis	MN		100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+
+																	6
+
+Allstate Corp., The	Northbrook	IL	58	85.0	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+
+ALLTEL Corp	Little Rock	AR	251	30.0	15.0	5.0	0.0	0.0		5.0	0.0	0.0	5	0.0	0.0	0.0	
+
+Alston & Bird LLP	Atlanta	GA	50	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+
+Amazon.com Inc.	Seattle	WA	272	65.0	15.0	5.0	0.0	5.0		0.0	15.0	5.0	5	15.0	0.0	0.0	
+
+American Express Co.	New York	NY	69	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+
+American Family Insurance			w w w . h r c . o r g / w o r k p l a c e										C O R P O R A T E  E Q U A L I T Y  I N D E X  2 0 0				
+
+Group	Madison	WI	323	75.0	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5	15.0	15.0	0.0	
+
+American International																	
+
+Group Inc.	New York	NY	9	30.0	15.0	0.0	0.0	0.0		0.0	15.0	0.0	0	0.0	0.0	0.0	
+
+American Power Conversion																	
+
+Corp	West Kingston	RI	815	58.0	15.0	5.0	0.0	5.0		0.0	15.0	5.0	5	7.5	0.0	0.0	
+
+Amgen Inc.	Thousand Oaks	CA	181	85.0	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+
+AMR Corp	Fort Worth	TX	105	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+
+Anheuser-Busch																	
+
+Companies Inc.	St. Louis	MO	146	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+
+Aon Corp.	Chicago	IL	237	95.0	15.0	5.0	15.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0	
+
+APL Limited	Oakland	CA		30.0	15.0	0.0	0.0	0.0		0.0	15.0	0.0	0	0.0	0.0	0.0	
+
+Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	Unnamed: 17	Company
+
+Apple Computer Inc.	Cupertino	CA	159.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+																		Name
+
+Applebee’s International Inc.	Overland Park	KS				80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Applied Materials Inc.	Santa Clara	CA	317.0			73.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+
+Aquila	Kansas City	MO	760.0			35.0	15.0	0.0	15.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+Aramark Corp.	Philadelphia	PA	215.0			80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Archer Daniels Midland Co.	Decatur	IL	56.0			15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+Arnold & Porter	Washington	DC			39.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+																		City
+
+AT&T Inc.	San Antonio	TX	39.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Automatic Data																		
+
+Processing Inc.	Roseland	NJ	271.0			30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
+
+AutoZone Inc.	Memphis	TN	378.0			25.0	15.0	5.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+																		State
+
+Avaya Inc.	Basking Ridge	NJ	434.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Aventis Pharmaceuticals Inc.	Bridgewater	NJ				80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+																		Fortune Ran
+
+Avnet Inc.	Phoenix	AZ	212.0			30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
+
+																		Forbes Rank
+
+Avon Products	New York	NY	281.0			30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
+
+Bain & Company Inc.																		AmLaw Rank
+
+(and Bridgespan Group)	Boston	MA				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+																		CEI 2006
+
+Baldor Electric Co.	Fort Smith	AR				15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+Ball Corporation	Broomfield	CO	374.0			58.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	5.0	7.5	0.0	0.0	1a
+
+Baltimore Gas & Electric Co.	Baltimore	MD				55.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	15.0	0.0	
+
+																		1b
+
+Bank of America Corp.	Charlotte	NC	12.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Bank of New York Co.	New York	NY	278.0			85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	2a
+
+Barclays Capital	New York	NY				90.0	15.0	5.0	15.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	2b
+
+Barnes & Noble Inc.	New York	NY	422.0			60.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	15.0	0.0	
+
+																		2c
+
+Bausch & Lomb Inc.	Rochester	NY				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Baxter International Inc.	Deerfield	IL	240.0			73.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	3a
+
+Bayer Corp.	Pittsburgh	PA				15.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
+
+																		3b
+
+BB&T Corp.	Winston-Salem	NC	292.0			25.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+BellSouth Corp.	Atlanta	GA	106.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	3c
+
+Ben and Jerry’s Homemade Inc.	South Burlington	VT				50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	15.0	0.0	4
+
+Best Buy Co. Inc.	Richfield	MN	76.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+																		5
+
+Bingham McCutchen	Boston	MA			26.0	80.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Biovail Pharmaceuticals Inc.	Bridgewater	NJ				40.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	0.0	0.0	0.0	0.0	6
+
+Blockbuster Inc.	Dallas	TX	366.0			60.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	15.0	0.0	
+
+Boeing Co.	Chicago	IL	26.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Booz Allen Hamilton Inc.	McLean	VA		66.0		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Borders Group Inc.	Ann Arbor	MI	490.0			95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+BP America	Warrenville	IL				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Bridgestone Americas																		
+
+Holding Inc.	Nashville	TN				45.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	15.0	0.0	
+
+Bright Horizons Family																		
+
+Solutions Inc.	Watertown	MA				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Brinker International Inc.	Dallas	TX	504.0			85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Bristol-Myers Squibb Co.	New York	NY	110.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Bryan Cave LLP	St. Louis	MO			55.0	75.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+C&S Wholesale Grocers Inc.	Keene	NH		8.0		40.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	0.0	0.0	0.0	0.0	
+
+Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	Unnamed: 17	Unnamed: 18	Company
+
+																			Name
+
+Cadwalader, Wickersham																			
+
+& Taft	New York	NY			46 95	15.0	5.0	15.0	5.0		0.0	15.0	5.0	5	15.0	15.0	0.0		
+
+California State																			
+
+Automobile Association	San Francisco	CA			100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Calpine Corp.	San Jose	CA	275		63	15.0	0.0	0.0	0.0		0.0	15.0	5.0	5	7.5	15.0	0.0		City
+
+Campbell Soup Co.	Camden	NJ	302		80	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Capital One Financial Corp.	McLean	VA	187		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Caremark RX	Nashville	TN	60		55	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	0.0	0.0	0.0		
+
+Cargill Inc.	Wayzata	MN		1.0	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		State
+
+Carlson Companies Inc.	Minnetonka	MN		82.0	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+																			Fortune Rank
+
+Caterpillar Inc.	Peoria	IL	55		35	15.0	5.0	0.0	0.0		0.0	0.0	0.0	0	15.0	0.0	0.0		
+
+CBRL Group Inc.	Lebanon	TN	676		15	15.0	0.0	0.0	0.0		0.0	0.0	0.0	0	0.0	0.0	0.0		Forbes Rank
+
+CDW Corporation	Vernon Hills	IL	343		58	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5	7.5	0.0	0.0		
+
+																			AmLaw Rank
+
+Cendant Corp.	New York	NY	114		75	15.0	5.0	0.0	5.0		0.0	15.0	0.0	5	15.0	15.0	0.0		
+
+																			CEI 2006
+
+Cerner Corp.	Kansas City	MO			45	15.0	5.0	15.0	5.0		0.0	0.0	0.0	5	0.0	0.0	0.0		
+
+CH2M HILL Companies, Ltd.	Englewood	CO	591	88.0	80	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0		1a
+
+Chamberlin Edmonds																			
+
+																			1b
+
+& Associates Inc	Atlanta	GA			68	15.0	0.0	0.0	0.0		5.0	15.0	5.0	5	7.5	15.0	0.0		
+
+Charles Schwab Corp., The	San Francisco	CA	418		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0	23.0	2a
+
+Chevron Corp.	San Ramon	CA	4		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+																			2b
+
+ChoicePoint Inc.	Alpharetta	GA			100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Chubb Corp.	Warren	NJ	156		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		2c
+
+CIGNA Corp.	Philadelphia	PA	130		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		3a
+
+Cingular Wireless	Atlanta	GA			85	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+																			3b
+
+Circuit City Stores Inc.	Richmond	VA	226		55	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	0.0	0.0	0.0		
+
+Cisco Systems Inc.	San Jose	CA	83		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		3c
+
+Citigroup Inc.	New York	NY	8		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+																			4
+
+Clear Channel																			
+
+Communications Inc.	San Antonio	TX	252		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		5
+
+Clorox Company	Oakland	CA	460		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+																			6
+
+CMP Media LLC	Manhasset	NY			100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+CNA Insurance	Chicago	IL			100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Coca-Cola Company	Atlanta	GA	89		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Coca-Cola Enterprises	Atlanta	GA	120		65	15.0	5.0	0.0	5.0		0.0	15.0	5.0	5	15.0	0.0	0.0		
+
+Colgate-Palmolive Co.	New York	NY	204		78	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	7.5	15.0	0.0		
+
+			w w w . h r c . o r g / w o r k p l a c e											C O R P O R A T E  E Q U A L I T Y  I N D E X  2 0 0 6					
+
+Comcast Corp.	Philadelphia	PA	94		85	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Comerica Inc.	Detroit	MI	524		80	15.0	5.0	0.0	5.0		5.0	15.0	0.0	5	15.0	15.0	0.0		
+
+Compass Group North																			
+
+America	Charlotte	NC			65	15.0	5.0	0.0	5.0		0.0	15.0	5.0	5	0.0	15.0	0.0		
+
+ConocoPhillips	Houston	TX	6		78	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	7.5	15.0	0.0		
+
+Consolidated Edison Co.	New York	NY	199		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Continental Airlines	Houston	TX	207		75	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Cooper Tire & Rubber	Findlay	OH	770		33	0.0	5.0	15.0	5.0		0.0	0.0	0.0	0	7.5	0.0	0.0		
+
+Coors Brewing Company	Golden	CO	373		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Corbis Corporation	Seattle	WA			65	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5	0.0	15.0	0.0		
+
+Corning Inc.	Corning	NY	456		100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	Unnamed: 17	Company
+
+Costco Wholesale Corp. Issaquah		WA	28.0			93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+
+																		Name
+
+Countrywide Financial Corp. Calabasas		CA	122.0			80.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	0.0	15.0	0.0	
+
+Cox Communications Inc. Atlanta		GA	316.0			95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Credit Suisse Securities																		
+
+(USA) LLC New York		NY				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+CSX Corp. Jacksonville		FL	266.0			40.0	15.0	5.0	0.0	5.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	
+
+Cummins Inc. Columbus		IN	238.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+CUNA Mutual Insurance																		City
+
+Group Madison		WI	644.0			65.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	5.0	15.0	15.0	0.0	
+
+DaimlerChrysler Corp. Auburn Hills		MI				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Dana Corp. Toledo		OH	234.0			35.0	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0	
+
+Darden Restaurants Orlando		FL	409.0			80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	State
+
+Dean Foods Co. Dallas		TX	216.0			73.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+
+																		Fortune Rank
+
+Deere & Co. Moline		IL	96.0			48.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	7.5	15.0	0.0	
+
+Dell Inc. Round Rock		TX	25.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	Forbes Rank
+
+Deloitte & Touche USA LLP New York		NY				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+																		AmLaw Rank
+
+Delphi Corp. Troy		MI	77.0			60.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	
+
+																		CEI 2006
+
+Delta Air Lines Inc. Atlanta		GA	135.0			85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Deluxe Corp. Shoreview		MN	873.0			60.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	1a
+
+Deutsche Bank New York		NY				100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+																		1b
+
+Dole Food Co. Inc. Westlake Village		CA	365.0			60.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	0.0	0.0	15.0	0.0	
+
+Dominion Resources Inc. Richmond		VA	123.0			95.0	15.0	5.0	15.0	5.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	2a
+
+Domino’s Pizza Inc. Ann Arbor		MI	966.0			45.0	0.0	5.0	0.0	0.0	5.0	0.0	0.0	5.0	15.0	15.0	0.0	2b
+
+Donna Karan New York		NY				45.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	15.0	0.0	
+
+																		2c
+
+Dorsey & Whitney Minneapolis		MN			65.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Dow Chemical Co. Midland		MI	36.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	3a
+
+Dow Jones & Co. Inc. New York		NY	867.0			30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
+
+																		3b
+
+DPR Construction Redwood City		CA				50.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	0.0	0.0	15.0	0.0	
+
+DTE Energy Co. Detroit		MI	259.0			80.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	3c
+
+Duke Energy Corp. Charlotte		NC	117.0			65.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	5.0	15.0	15.0	0.0	4
+
+DuPont (E. I. du Pont																		
+
+de Nemours) Wilmington		DE	73.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	5
+
+E*TRADE Financial																		6
+
+Corporation New York		NY	679.0			73.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	5.0	7.5	15.0	0.0	
+
+EarthLink Inc. Atlanta		GA				63.0	15.0	0.0	0.0	0.0	5.0	15.0	0.0	5.0	7.5	15.0	0.0	
+
+Eastman Kodak Co. Rochester		NY	155.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Edison International Rosemead		CA	194.0			35.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
+
+Electronic Arts Inc. Redwood City		CA	594.0			88.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	7.5	15.0	0.0	
+
+Electronic Data Systems Corp. Plano		TX	108.0			70.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	5.0	15.0	15.0	0.0	
+
+Eli Lilly & Co. Indianapolis		IN	148.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+EMC Corp. Hopkinton		MA	249.0			45.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	0.0	0.0	
+
+Emerson Electric Co. St. Louis		MO	126.0			45.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	0.0	0.0	15.0	0.0	
+
+Entergy Corp. New Orleans		LA	218.0			13.0	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	7.5	0.0	-15.0	
+
+Ernst & Young LLP New York		NY		7.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Estee Lauder Companies New York		NY	340.0			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	Unnamed: 17	Company
+
+																		Name
+
+Exelon Corp.	Chicago	IL	144		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Exxon Mobil Corp.	Irving	TX	1		0.0	0.0	5.0	0.0	5.0	0.0	0.0	0.0	0	0.0	0.0	-15.0		
+
+Faegre & Benson	Minneapolis	MN		99.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Fannie Mae	Washington	DC			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+																		City
+
+Federated Department Stores	Cincinnati	OH	87		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+FedEx Corp.	Memphis	TN	70		55.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0	15.0	15.0	0.0		
+
+Fifth Third Bancorp	Cincinnati	OH	308		65.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	5	15.0	15.0	0.0		
+
+Fish & Richardson	Boston	MA		87.0	75.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+																		State
+
+Fisher Scientific International	Hampton	NH	389		40.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	0	0.0	0.0	0.0		
+
+Foley & Lardner	Milwaukee	WI		28.0	95.0	15.0	5.0	15.0	5.0	5.0	15.0	0.0	5	15.0	15.0	0.0		Fortune Rank
+
+Foley Hoag LLP	Boston	MA			80.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5	0.0	15.0	0.0		
+
+																		Forbes Rank
+
+Food Lion, LLC	Salisbury	NC			75.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Ford Motor Co.	Dearborn	MI	5		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		AmLaw Rank
+
+Franklin Templeton Investments	San Mateo	CA			60.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5	0.0	15.0	0.0		CEI 2006
+
+Freddie Mac	McLean	VA			85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+																		1a
+
+Freescale Semiconductor Inc.	Austin	TX	368		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Fulbright & Jaworski LLP	Houston	TX		32.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		1b
+
+Gallup Organization	Washington	DC			30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0	0.0	0.0	0.0	25.0	2a
+
+GameStop Corp.	Grapevine	TX	601		63.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	0	7.5	15.0	0.0		
+
+2bGannett Co. Inc.	McLean	VA	296		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Gap Inc.	San Francisco	CA	139		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		2c
+
+Gateway Inc.	Irvine	CA	508		65.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5	0.0	15.0	0.0		
+
+																		3a
+
+Genentech Inc.	S. San Francisco	CA			80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+General Dynamics Corp.	Falls Church	VA	100		55.0	15.0	5.0	15.0	5.0	0.0	0.0	0.0	0	0.0	15.0	0.0		3b
+
+General Electric Co.	Fairfield	CT	7		75.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	0	15.0	15.0	0.0		
+
+																		3c
+
+General Mills Inc.	Minneapolis	MN	206		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+																		4
+
+General Motors Corp.	Detroit	MI	3		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Genuine Parts Co.	Atlanta	GA	245		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0		5
+
+Giant Food LLC	Quincy	MA			78.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	7.5	0.0	0.0		
+
+																		6
+
+GlaxoSmithKline plc	Philadelphia	PA			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Global Hyatt Corp.	Chicago	IL		89.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Golden West Financial Corp.	Oakland	CA	326		40.0	15.0	5.0	0.0	5.0	0.0	15.0	0.0	0	0.0	0.0	0.0		
+
+Goldman Sachs Group																		
+
+Inc., The	New York	NY	41		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Google Inc.	Mountain View	CA	w35w3 w . h r c . o10r0g /1w5o r k5 p1l 5a c e5							5.0	15.0	5.0	5C O15R P15O R0A T E  E Q U A L I T Y  I N D E X  2 0 0 6					
+
+Guidant Corp.	Indianapolis	IN	535		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+H. E. Butt Grocery Co.	San Antonio	TX		11.0	40.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0	0.0	15.0	0.0		
+
+H. J. Heinz Co.	Pittsburgh	PA	262		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0		
+
+Hain Celestial Group Inc.	Melville	NY			30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0	0.0	0.0	0.0		
+
+Hallmark Cards Inc.	Kansas City	MO		41.0	75.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Hannaford Brothers	Portland	ME			65.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0	15.0	15.0	0.0		
+
+Harrah’s Entertainment Inc.	Las Vegas	NV	309		95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Harris Bankcorp Inc.	Chicago	IL			75.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5	15.0	15.0	0.0		
+
+Harry & David Holdings Inc.	Medford	OR			58.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	0	7.5	15.0	0.0		
+
+Hartford Financial Services Co.	Hartford	CT	78		75.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	Company
+
+Harvard Pilgrim Health																	
+
+																	Name
+
+Care Inc.	Wellesley	MA			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Hasbro Inc.	Pawtucket	RI	602.0		65.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	
+
+Health Net Inc.	Woodland Hills	CA	191.0		93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+
+Heller Ehrman LLP	San Francisco	CA		35.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Hershey Company, The	Hershey	PA	442.0		50.0	15.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	15.0	15.0	0.0	
+
+Hewitt Associates	Lincolnshire	IL	633.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Hewlett-Packard Co.	Palo Alto	CA	11.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	City
+
+Hilton Hotels Corp.	Beverly Hills	CA	464.0		95.0	15.0	5.0	15.0	5.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+
+Hoffmann-La Roche Inc.	Nutley	NJ			80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Holland & Knight LLP	New York	NY		27.0	75.0	15.0	5.0	0.0	5.0	0.0	15.0	0.0	5.0	15.0	15.0	0.0	
+
+																	State
+
+Home Depot Inc.	Atlanta	GA	14.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Honeywell International Inc.	Morristown	NJ	71.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+																	Fortune Rank
+
+Hospira Inc.	Lake Forest	IL	660.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+																	Forbes Rank
+
+Host Hotels & Resorts	Bethesda	MD	502.0		45.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	0.0	0.0	0.0	0.0	
+
+Hotels.com, L.P.	Dallas	TX			85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	AmLaw Rank
+
+Howard & Howard																	
+
+																	CEI 2006
+
+Attorneys PC	Kalamazoo	MI			48.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	5.0	7.5	0.0	0.0	
+
+HSBC USA Inc.	Prospect Heights	IL			95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	1a
+
+Humana Inc.	Louisville	KY	150.0		40.0	15.0	5.0	0.0	5.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	
+
+																	1b
+
+Illinois Tool Works Inc.	Glenview	IL	173.0		53.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	0.0	7.5	15.0	0.0	
+
+Imation Corp.	Oakdale	MN			93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	2a
+
+ING North America																	2b
+
+Insurance Corp.	Atlanta	GA			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Intel Corp.	Santa Clara	CA	49.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	2c
+
+International Business																	3a
+
+Machines Corp.	Armonk	NY	10.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+International Paper Co.	Stamford	CT	82.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	3b
+
+Interpublic Group of																	3c
+
+Companies Inc.	New York	NY	348.0		75.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+
+Intuit Inc.	Mountain View	CA	779.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	4
+
+ITT Industries Inc.	White Plains	NY	291.0		95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	5
+
+J. C. Penney Company Inc.	Plano	TX	118.0		50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	0.0	0.0	
+
+																	6
+
+J.P. Morgan Chase & Co.	New York	NY	17.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Jenner & Block LLP	Chicago	IL		74.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+John Hancock Financial																	
+
+Services Inc.	Boston	MA			93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+
+Johnson & Johnson	New Brunswick	NJ	32.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Kaiser Permanente	Oakland	CA			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+KB Home	Los Angeles	CA	254.0		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+Keane Inc.	Boston	MA			50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	0.0	0.0	
+
+Kellogg Co.	Battle Creek	MI	233.0		50.0	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	15.0	0.0	
+
+KeyCorp	Cleveland	OH	325.0		75.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+
+Keyspan Corp	Brooklyn	NY	295.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Kilpatrick Stockton LLP	Atlanta	GA		80.0	63.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	5.0	7.5	15.0	0.0	
+
+Kimberly-Clark Corporation	Irving	TX	140.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	Unnamed: 17	Unnamed: 18	Company
+
+																			Name
+
+Kimpton Hotel & Restaurant																			
+
+Group Inc.	San Francisco	CA				100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+KLA-Tencor	San Jose	CA	780			73 15	5.0	0.0	5.0		0.0	15.0	5.0	5	7.5	15.0	0.0		
+
+KPMG LLP	New York	NY				100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Kraft Foods Inc.	Northfield	IL				100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		City
+
+Kroger Co., The	Cincinnati	OH	21			35 15	5.0	0.0	0.0		0.0	0.0	0.0	0	0.0	15.0	0.0		
+
+L.L. Bean Inc.	Freeport	ME				73 15	5.0	15.0	5.0		5.0	15.0	0.0	5	7.5	0.0	0.0		
+
+Land O’Lakes	Arden Hills	MN	301			53 15	0.0	0.0	0.0		5.0	15.0	5.0	5	7.5	0.0	0.0		
+
+																			State
+
+Lauren Manufacturing Co.	New Philadelphia	OH				5 0	5.0	0.0	0.0		0.0	0.0	0.0	0	0.0	0.0	0.0		
+
+Lear Corp.	Southfield	MI	127			20 15	5.0	0.0	0.0		0.0	0.0	0.0	0	0.0	0.0	0.0		
+
+																			Fortune Rank
+
+Lehman Brothers Holdings	New York	NY	62			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+																			Forbes Rank
+
+Levi Strauss & Co.	San Francisco	CA	484	44.0		100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Lexmark International Inc.	Lexington	KY	415			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		AmLaw Rank
+
+Lillian Vernon Corp.	White Plains	NY				55 15	5.0	0.0	0.0		0.0	15.0	0.0	5	0.0	15.0	0.0		
+
+																			CEI 2006
+
+Limited Brands Inc.	Columbus	OH	246			70 15	5.0	0.0	5.0		0.0	15.0	0.0	0	15.0	15.0	0.0		
+
+Lincoln National Corp.	Philadelphia	PA	396			95 15	5.0	15.0	5.0		0.0	15.0	5.0	5	15.0	15.0	0.0		1a
+
+Liz Claiborne Inc.	North Bergen	NJ	440			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		1b
+
+Lockheed Martin Corp.	Bethesda	MD	52			80 15	5.0	0.0	5.0		0.0	15.0	5.0	5	15.0	15.0	0.0		
+
+																		27.0	2a
+
+Lucent Technologies Inc.	Murray Hill	NJ	255			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Marriott International	Washington	DC	203			75 15	5.0	0.0	0.0		5.0	15.0	0.0	5	15.0	15.0	0.0		2b
+
+Marsh & McLennan																			
+
+																			2c
+
+Companies Inc.	New York	NY	186			30 15	0.0	0.0	0.0		0.0	15.0	0.0	0	0.0	0.0	0.0		
+
+Massachusetts Mutual Life																			3a
+
+Insurance Company	Springfield	MA	92			93 15	5.0	15.0	5.0		5.0	15.0	5.0	5	7.5	15.0	0.0		
+
+																			3b
+
+MasterCard Inc.	Purchase	NY	627			80 15	5.0	0.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Mattel Inc.	El Segundo	CA	416			88 15	5.0	15.0	0.0		5.0	15.0	5.0	5	7.5	15.0	0.0		3c
+
+McDermott Will & Emery LLP	Chicago	IL			13.0	100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		4
+
+McDonald’s Corp.	Oak Brook	IL	109			85 15	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+																			5
+
+McGraw-Hill Companies																			
+
+Inc., The	New York	NY	359			75 15	5.0	0.0	0.0		5.0	15.0	5.0	0	15.0	15.0	0.0		6
+
+McKinsey & Co. Inc.	New York	NY		72.0		100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+MeadWestvaco Corp.	Stamford	CT	322			80 15	5.0	0.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Medtronic Inc.	Minneapolis	MN	235			75 15	5.0	0.0	0.0		0.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Meijer	Grand Rapids	MI		10.0		0 0	0.0	0.0	0.0		0.0	0.0	0.0	0	0.0	0.0	0.0		
+
+Mellon Financial Corp.	Pittsburgh	PA	377			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+			w w w . h r c . o r g / w o r k p l a c e											C O R P O R A T E  E Q U A L I T Y  I N D E X  2 0 0 6					
+
+Men’s Wearhouse Inc., The	Houston	TX	887			35 15	5.0	0.0	0.0		0.0	15.0	0.0	0	0.0	0.0	0.0		
+
+Merck & Co. Inc.	Whitehouse																		
+
+	Station	NJ	95			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Merrill Lynch & Co.	New York	NY	34			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+MetLife Inc.	New York	NY	35			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+MGM Mirage	Las Vegas	NV	334			85 15	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Microsoft Corp.	Redmond	WA	48			100 15	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Miller Brewing Co.	Milwaukee	WI				90 15	5.0	15.0	5.0		0.0	15.0	0.0	5	15.0	15.0	0.0		
+
+Mintz, Levin, Cohn, Ferris,																			
+
+Glovsky & Popeo	Boston	MA			91.0	95 15	5.0	15.0	5.0		0.0	15.0	5.0	5	15.0	15.0	0.0		
+
+Mirant Corporation	Atlanta	GA	479			45 15	5.0	0.0	0.0		0.0	15.0	5.0	5	0.0	0.0	0.0		
+
 	Orrick, Herrington & Sutcliffe		33.0	100.0
 	Paul, Hastings, Janofsky			
-Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	Unnamed: 17	Company
-																		Name
-PNC Financial Services																		
-Group Inc.	Pittsburgh	PA	290	73.0	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5	7.5	15.0	0.0		
-PNM Resources Inc.	Albuquerque	NM	785	43.0	15.0	5.0	15.0	0.0		0.0	0.0	0.0	0	7.5	0.0	0.0		
-Polaroid Corp.	Waltham	MA		60.0	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5	15.0	0.0	0.0		
-Powell Goldstein LLP	Atlanta	GA		100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		City
-PPG Industries	Pittsburgh	PA	232	60.0	15.0	5.0	0.0	5.0		5.0	0.0	0.0	0	15.0	15.0	0.0		
-PPL Corp.	Allentown	PA	350	55.0	15.0	5.0	0.0	0.0		5.0	0.0	0.0	0	15.0	15.0	0.0		
-Praxair Inc.	Danbury	CT	297	25.0	15.0	5.0	0.0	0.0		5.0	0.0	0.0	0	0.0	0.0	0.0		
-																		State
-PricewaterhouseCoopers LLP	New York	NY	4	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Principal Financial Group	Des Moines	IA	261	85.0	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-																		Fortune Rank
-Procter & Gamble Co.	Cincinnati	OH	24	65.0	15.0	5.0	0.0	0.0		0.0	15.0	0.0	0	15.0	15.0	0.0		
-																		Forbes Rank
-Progress Energy Inc.	Raleigh	NC	222	53.0	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5	7.5	0.0	0.0		
-Progressive Corp., The	Mayfield Village	OH	153	35.0	15.0	5.0	0.0	0.0		0.0	15.0	0.0	0	0.0	0.0	0.0		AmLaw Rank
-Prudential Financial Inc.	Newark	NJ	64	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-																		CEI 2006
-QUALCOMM Inc.	San Diego	CA	381	95.0	15.0	5.0	15.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Quest Diagnostics																		1a
-Incorporated	Lyndhurst	NJ	392	80.0	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-																		1b
-Qwest Communications																		
-International Inc.	Denver	CO	160	70.0	15.0	5.0	0.0	5.0		0.0	15.0	0.0	0	15.0	15.0	0.0	29.0	2a
-R.R. Donnelley & Sons Co.	Chicago	IL	265	20.0	15.0	5.0	0.0	0.0		0.0	0.0	0.0	0	0.0	0.0	0.0		
-																		2b
-RadioShack Corp.	Fort Worth	TX	423	40.0	15.0	0.0	0.0	0.0		0.0	15.0	5.0	5	0.0	0.0	0.0		
-Raytheon Co.	Waltham	MA	97	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		2c
-Recreational Equipment Inc.	Kent	WA		85.0	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		3a
-Reebok International	Canton	MA		68.0	15.0	0.0	0.0	0.0		5.0	15.0	5.0	5	7.5	15.0	0.0		
-																		3b
-Reliant Energy Inc.	Houston	TX	220	50.0	15.0	5.0	0.0	5.0		5.0	0.0	0.0	5	15.0	0.0	0.0		
-Replacements Ltd.	McLeansville	NC		100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		3c
-Reuters America Holdings Inc.	New York	NY		80.0	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-																		4
-Reynolds American Inc.	Winston-Salem	NC	280	90.0	15.0	5.0	15.0	0.0		5.0	15.0	5.0	0	15.0	15.0	0.0		
-Rite Aid Corp.	Camp Hill	PA	129	70.0	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	0.0	0.0		5
-Rockwell Collins Inc.	Cedar Rapids	IA	550	78.0	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	7.5	15.0	0.0		6
-Rohm and Haas Company	Philadelphia	PA	286	53.0	15.0	5.0	0.0	5.0		5.0	0.0	0.0	0	7.5	15.0	0.0		
-Royal Caribbean Cruises Ltd	Miami	FL		55.0	15.0	5.0	0.0	5.0		0.0	0.0	0.0	0	15.0	15.0	0.0		
-Ryder System Inc.	Miami	FL	375	93.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	7.5	15.0	0.0		
-S.C. Johnson & Son Inc.	Racine	WI		100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-SAFECO Corp.	Seattle	WA	339	75.0	15.0	0.0	0.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-			w w w . h r c . o r g / w o r k p l a c e										C O R P O R A T E  E Q U A L I T Y  I N D E X  2 0 0 6					
-Safeway Inc.	Pleasanton	CA	50	70.0	15.0	5.0	0.0	5.0		5.0	0.0	5.0	5	15.0	15.0	0.0		
-SAP America Inc.	Newton Square	PA		68.0	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5	7.5	15.0	0.0		
-Sara Lee Corp.	Chicago	IL	111	70.0	15.0	5.0	0.0	0.0		0.0	15.0	5.0	0	15.0	15.0	0.0		
-Schering-Plough Corp.	Kenilworth	NJ	250	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Scholastic Corp.	New York	NY	782	50.0	15.0	5.0	0.0	0.0		0.0	15.0	0.0	0	15.0	0.0	0.0		
-Seagate Technology Inc.	Scotts Valley	CA		75.0	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5	15.0	15.0	0.0		
-Sears Holdings Corporation	Hoffman Estates	IL	33	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Sempra Energy	San Diego	CA	197	100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Severn Trent Services Inc.	Fort Washington	PA		65.0	15.0	5.0	15.0	0.0		5.0	15.0	5.0	5	0.0	0.0	0.0		
-Shell Oil Co.	Houston	TX		85.0	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
+Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	Unnamed: 17	Unnamed: 18	Unnamed: 19
+
+																			
+
+																			
+
+																			
+
+																			
+
+																			
+
+																			
+
+																			
+
+						15.0	5.0									0.0			
+
+PittsburghPA290	73	515557.515																	
+
+																			
+
+		785.0			43.0	15.0										0.0			
+
+AlbuquerqueNM	515000007.50																		
+
+																			
+
+						15.0	5.0	1555150.0	0.0										
+
+WalthamMA	60																		
+
+																			
+
+	GA				100.0	15.0										0.0			
+
+Atlanta	5155515551515																		
+
+																			
+
+						15.0	5.0									0.0			
+
+PittsburghPA232	60	550001515.0																	
+
+																			
+
+						15.0	5.0									0.0			
+
+AllentownPA350	55	50001515.0																	
+
+																			
+
+		297.0			25.0	15.0										0.0			
+
+DanburyCT	500500000																		
+
+																			
+
+New YorkNY4			15.0	5155515551515.0	0.0														
+
+				100.0															
+
+						15.0	5.0	5515551515.0	0.0										
+
+Des MoinesIA261	85																		
+
+																			
+
+CincinnatiOH24			15.0	5.0									0.0						
+
+				65.0	15001515.0														
+
+																			
+
+		222.0			53.0	15.0										0.0			
+
+RaleighNC	500015557.50																		
+
+																			
+
+						15.0	5.0	150000.0	0.0										
+
+Mayfield VillageOH153	35																		
+
+																			
+
+						15.0										0.0			
+
+NewarkNJ64	100	5155515551515.0																	
+
+																			
+
+						15.0										0.0			
+
+San DiegoCA381	95	5150515551515.0																	
+
+						15.0	5.0									0.0			
+
+LyndhurstNJ392	80	515551515.0																	
+
+																			
+
+						15.0	5.0									0.0			
+
+DenverCO160	70	5015001515.0																	
+
+																			
+
+						15.0	5.0									0.0			
+
+ChicagoIL265	20	0.0																	
+
+																			
+
+						15.0	0.0									0.0			
+
+Fort WorthTX423	40	155500.0																	
+
+																			
+
+						15.0										0.0			
+
+WalthamMA97	100	5155515551515.0																	
+
+	WA				85.0	15.0										0.0			
+
+Kent	505515551515																		
+
+																			
+
+						15.0	0.0	515557.515	0.0										
+
+CantonMA	68																		
+
+																			
+
+						15.0	5.0									0.0			
+
+HoustonTX220	50	55005150.0																	
+
+																			
+
+						15.0										0.0			
+
+McLeansvilleNC	100	5155515551515.0																	
+
+						15.0	5.0									0.0			
+
+New YorkNY	80	515551515.0																	
+
+																			
+
+						15.0										0.0			
+
+Winston-SalemNC280	90	5150515501515.0																	
+
+						15.0	5.0									0.0			
+
+Camp HillPA129	70	551555150.0																	
+
+																			
+
+						15.0	5.0									0.0			
+
+Cedar RapidsIA550	78	5515557.515																	
+
+																			
+
+PhiladelphiaPA286			15.0	5.0									0.0						
+
+				53.0	550007.515														
+
+																			
+
+Miami	FL				55.0	15.0										0.0			
+
+						50500001515.0													
+
+																			
+
+						15.0										0.0			
+
+MiamiFL375	93	5155515557.515																	
+
+						15.0										0.0			
+
+RacineWI	100	5155515551515.0																	
+
+																			
+
+SeattleWA339			15.0	0.0									0.0						
+
+				75.0	515551515.0														
+
+																			
+
+						15.0	5.0									0.0			
+
+PleasantonCA50	70	550551515.0																	
+
+																			
+
+						15.0	5.0	15557.515	0.0										
+
+Newton SquarePA	68																		
+
+																			
+
+ChicagoIL111			15.0	5.0									0.0						
+
+				70.0	15501515.0														
+
+																			
+
+						15.0										0.0			
+
+KenilworthNJ250	100	5155515551515.0																	
+
+New YorkNY782			15.0	5.0	1500150.0	0.0													
+
+				50.0															
+
+																			
+
+Scotts ValleyCA			15.0	5.0	15551515.0	0.0													
+
+				75.0															
+
+																			
+
+						15.0										0.0			
+
+Hoffman EstatesIL33	100	5155515551515.0																	
+
+						15.0										0.0			
+
+San DiegoCA197	100	5155515551515.0																	
+
+Fort Washington	PA				65.0	15.0	51505155500.0	0.0											
+
+																			
+
+						15.0	5.0									0.0			
+
+HoustonTX	85	5515551515.0																	
+
+																			
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0	Unnamed: 1	Unnamed: 2
+
+		
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0
+
+""
+
 	Sonnenschein, Nath &			
 	Companies, Inc.	85.0		
-Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	Unnamed: 17	Unnamed: 18	Company
-																			Name
-Union Pacific Corporation	Omaha	NE	164		58.0	15.0	5.0	0.0	0.0		0.0	15.0	0.0	0	7.5	15.0	0.0		
-Unisys Corp.	Blue Bell	PA	372		90.0	15.0	5.0	15.0	5.0		0.0	15.0	5.0	0	15.0	15.0	0.0		
-United Parcel Service Inc.	Atlanta	GA	44		80.0	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-United Technologies Corp.	Hartford	CT	43		40.0	15.0	5.0	0.0	0.0		5.0	0.0	0.0	0	15.0	0.0	0.0		
-																			City
-University Hospitals of																			
-Cleveland	Cleveland	OH			65.0	15.0	5.0	0.0	5.0		0.0	15.0	5.0	5	0.0	15.0	0.0		
-UnumProvident Corp.	Chattanooga	TN	229		78.0	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	7.5	15.0	0.0		
-US Airways Group Inc.	Phoenix	AZ	424		100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-																			State
-Verio Inc.	Englewood	CO			50.0	15.0	5.0	0.0	0.0		0.0	15.0	0.0	0	15.0	0.0	0.0		
-Verizon Communications Inc.	Basking Ridge	NJ	18		85.0	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-																			Fortune Ran
-Vertis Inc.	Baltimore	MD	926 189		35.0	15.0	0.0	0.0	0.0		0.0	15.0	5.0	0	0.0	0.0	0.0		
-																			Forbes Rank
-Viacom Inc.	New York	NY	241		100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Vinson & Elkins LLP	Houston	TX		37.0	73.0	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5	7.5	15.0	0.0		AmLaw Rank
-Visa International	Foster City	CA			100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-																			CEI 2006
-Vision Service Plan	Rancho Cordova	CA			80.0	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Visteon Corp.	Van Buren																		1a
-	Township	MI	128		95.0	15.0	5.0	15.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-																			1b
-Vivendi	New York	NY			50.0	15.0	5.0	0.0	0.0		0.0	15.0	0.0	0	0.0	15.0	0.0		
-																		31.0	
-Volkswagen of America Inc.	Auburn Hills	MI			100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		2a
-Wachovia Corp.	Charlotte	NC	57		100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		2b
-Walgreens Co.	Deerfield	IL	45		100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-																			2c
-Wal-Mart Stores Inc.	Bentonville	AR	2		65.0	15.0	5.0	0.0	0.0		5.0	0.0	5.0	5	15.0	15.0	0.0		
-Walt Disney Co.	Burbank	CA	63		95.0	15.0	5.0	15.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0		3a
-Washington Mutual Inc.	Seattle	WA	99		90.0	15.0	5.0	15.0	0.0		5.0	15.0	0.0	5	15.0	15.0	0.0		
-																			3b
-Waste Management Inc.	Houston	TX	170		85.0	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-WellPoint Inc.	Indianapolis	IN			80.0	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5	15.0	15.0	0.0		3c
-Wells Fargo & Co.	San Francisco	CA	46		100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		4
-Weyerhaeuser Co.	Federal Way	WA	90		60.0	15.0	5.0	0.0	5.0		5.0	15.0	0.0	0	15.0	0.0	0.0		
-																			5
-Whirlpool Corp.	Benton Harbor	MI	152		100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Whole Foods Market Inc.	Austin	TX	449		95.0	15.0	5.0	15.0	5.0		5.0	15.0	0.0	5	15.0	15.0	0.0		6
-Williams Companies Inc.	Tulsa	OK	180		65.0	15.0	5.0	0.0	5.0		5.0	0.0	0.0	5	15.0	15.0	0.0		
-Willkie Farr & Gallagher	New York	NY		46.0	85.0	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-Wisconsin Energy																			
-Corporation	Milwaukee	WI	510		55.0	15.0	5.0	0.0	0.0		5.0	0.0	0.0	0	15.0	15.0	0.0		
-Working Assets Funding																			
-			w w w . h r c . o r g / w o r k p l a c e											C O R P O R A T E  E Q U A L I T Y  I N D E X  2 0 0 6					
-Service Inc.	San Francisco	CA			83.0	15.0	0.0	15.0	0.0		5.0	15.0	5.0	5	7.5	15.0	0.0		
-Worldspan Technologies Inc.	Atlanta	GA			90.0	15.0	5.0	15.0	5.0		0.0	15.0	5.0	0	15.0	15.0	0.0		
-WPP Group USA	New York	NY			78.0	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5	7.5	15.0	0.0		
-Wyeth	Madison	NJ	119		65.0	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5	15.0	0.0	0.0		
-Wyndham International Inc.	Dallas	TX			90.0	15.0	5.0	15.0	5.0		0.0	15.0	5.0	0	15.0	15.0	0.0		
-Xcel Energy	Minneapolis	MN	247		75.0	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5	15.0	15.0	0.0		
-Xerox Corp.	Stamford	CT	142		100.0	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5	15.0	15.0	0.0		
-XM Satellite Radio																			
-Holdings Inc.	Washington	DC			88.0	15.0	5.0	15.0	0.0		5.0	15.0	5.0	5	7.5	15.0	0.0		
-Yahoo! Inc.	Sunnyvale	CA	412		90.0	15.0	5.0	15.0	0.0		5.0	15.0	0.0	5	15.0	15.0	0.0		
-Zurich North America	Schaumburg	IL			50.0	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5	0.0	0.0	0.0		
-	US Airways Group, Inc. Phoenix	424.0		100.0
-	Apparel, Fashion, Textiles, Dept. Stores			
-Lillian Vernon Corp.	White Plains	NY	Unnamed: 0	55	15	5	0	0.1	0.2	15.1	0.3	5.1	0.4	15.2	0.5
-Abercrombie & Fitch Co.	New Albany	OH	639.0	50	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	15.0	0.0
-J. C. Penney Company Inc.	Plano	TX	118.0	50	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	0.0	0.0
-Donna Karan	New York	NY		45	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	15.0	0.0
-Men’s Wearhouse Inc., The	Houston	TX	887.0	35	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0
-Industry Average				74											
-DaimlerChrysler Corp.	Auburn Hills	MI	Unnamed: 0	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0	Unnamed: 1	Unnamed: 2
-																	State
-Ford Motor Co.	Dearborn	MI	5.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-General Motors Corp.	Detroit	MI	3.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		Fortune Rank
-Volkswagen of America Inc.	Auburn Hills	MI		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-																	Forbes Rank
-Visteon Corp.	Van Buren Township	MI	128.0	95.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-Toyota Motor Sales USA Inc.	Torrance	CA		90.0	15.0	5.0	15.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0		AmLaw Rank
-Subaru of America Inc.	Cherry Hill	NJ		70.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	0.0	15.0	0.0		CEI 2006
-Delphi Corp.	Troy	MI	77.0	60.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0		
-																	1a
-Bridgestone Americas Holding Inc.	Nashville	TN		45.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	15.0	0.0		
-Dana Corp.	Toledo	OH	234.0	35.0	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0		1b
-Navistar International Corp.	Warrenville	IL	201.0	30.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	33.0	2a
-Lear Corp.	Southfield	MI	127.0	20.0	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		
-Genuine Parts Co.	Atlanta	GA	245.0	15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		2b
-Nissan North America	Gardena	CA		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		2c
-Industry Average				63.0													
-American Express Co.	New York	NY	69 100	15	5	15.1	5.1	Unnamed: 0	5.2	15.2	5.3	5 15	15.3	0	3b
-Bank of America Corp.	Charlotte	NC	12 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
-															3c
-Capital One Financial Corp.	McLean	VA	187 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
-															4
-Charles Schwab Corp., The	San Francisco	CA	418 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
-Citigroup Inc.	New York	NY	8 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	5
-Credit Suisse Securities															
-															6
-(USA) LLC	New York	NY	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
-Deutsche Bank	New York	NY	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
-Fannie Mae	Washington	DC	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
-Goldman Sachs Group Inc., The	New York	NY	41 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
-J.P. Morgan Chase & Co.	New York	NY	17 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
-Lehman Brothers Holdings	New York	NY	w6w2 w . h r c . o10r0g / 1w5o r k5 p 1l a5 c e5						5.0	15.0	5.0	5C O15R P15O R0A T E  E Q U A L I T Y  I N D E X  2 0 0			
-Mellon Financial Corp.	Pittsburgh	PA	377 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
-Merrill Lynch & Co.	New York	NY	34 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
-Morgan Stanley	New York	NY	30 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
-State Street Corp.	Boston	MA	307 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
-SunTrust Banks Inc.	Atlanta	GA	217 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
-Visa International	Foster City	CA	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
-Wachovia Corp.	Charlotte	NC	57 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
-Wells Fargo & Co.	San Francisco	CA	46 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
-HSBC USA Inc.	Prospect Heights	IL	95	15.0	5.0	15.0	5.0		0.0	15.0	5.0	5 15	15.0	0.0	
-Northern Trust Corp.	Chicago	IL	533 95	15.0	5.0	15.0	0.0		5.0	15.0	5.0	5 15	15.0	0.0	
-Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Company
-UBS AG	Stamford	CT		95.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-																Name
-Barclays Capital	New York	NY		90.0	15.0	5.0	15.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Washington Mutual Inc.	Seattle	WA	99.0	90.0	15.0	5.0	15.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
-A.G. Edwards Inc.	St. Louis	MO	665.0	85.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	0.0	0.0	
-Bank of New York Co.	New York	NY	278.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Freddie Mac	McLean	VA		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-U.S. Bancorp	Minneapolis	MN	131.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-																City
-Comerica Inc.	Detroit	MI	524.0	80.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
-Countrywide Financial Corp.	Calabasas	CA	122.0	80.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	0.0	15.0	0.0	
-MasterCard Inc.	Purchase	NY	627.0	80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-General Electric Co.	Fairfield	CT	7.0	75.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	0.0	15.0	15.0	0.0	
-																State
-Harris Bankcorp Inc.	Chicago	IL		75.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
-KeyCorp	Cleveland	OH	325.0	75.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	Fortune Rank
-SLM Corp.	Reston	VA	331.0	75.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
-																Forbes Rank
-E*TRADE Financial Corporation	New York	NY	679.0	73.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	5.0	7.5	15.0	0.0	
-PNC Financial Services																AmLaw Rank
-Group Inc.	Pittsburgh	PA	290.0	73.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
-																CEI 2006
-Chamberlin Edmonds &																
-Associates Inc	Atlanta	GA		68.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	1a
-ABN AMRO Holding N.V.	Chicago	IL		65.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	
-																1b
-Fifth Third Bancorp	Cincinnati	OH	308.0	65.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	5.0	15.0	15.0	0.0	
-Franklin Templeton Investments	San Mateo	CA		60.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5.0	0.0	15.0	0.0	2a
-National City Corporation	Cleveland	OH	213.0	58.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	5.0	7.5	15.0	0.0	2b
-Zurich North America	Schaumburg	IL		50.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	0.0	0.0	0.0	
-																2c
-Golden West Financial Corp.	Oakland	CA	326.0	40.0	15.0	5.0	0.0	5.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
-BB&T Corp.	Winston-Salem	NC	292.0	25.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	3a
-Industry Average				85.0												
-Dow Chemical Co.	Midland	MI	36	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0	3c
-DuPont (E. I. du Pont de Nemours)	Wilmington	DE	73.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	4.0
-Genentech Inc.	South San Francisco	CA		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-																5.0
-Air Products & Chemicals Inc.	Allentown	PA	282.0	75.0	15.0	5.0	15.0	0.0	5.0	0.0	0.0	5.0	15.0	15.0	0.0	
-PPG Industries	Pittsburgh	PA	232.0	60.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	0.0	15.0	15.0	0.0	6.0
-Rohm and Haas Company	Philadelphia	PA	286.0	53.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	0.0	7.5	15.0	0.0	
-Praxair Inc.	Danbury	CT	297.0	25.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	
-Industry Average				70.0												
-ChoicePoint Inc.	Alpharetta	GA	Unnamed: 0	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0
-International Business															
-Machines Corp.	Armonk	NY	10.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0
-Unisys Corp.	Blue Bell	PA	372.0	90.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	0.0	15.0	15.0	0.0
-SRA International Inc.	Fairfax	VA		75.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0
-Electronic Data Systems Corp.	Plano	TX	108.0	70.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	5.0	15.0	15.0	0.0
-Keane Inc.	Boston	MA		50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	0.0	0.0
-The Dun & Bradstreet Corporation	Short Hills	NJ		35.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	0.0	0.0	0.0	0.0
-Automatic Data Processing Inc.	Roseland	NJ	271.0	30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0
-Perot Systems Corp.	Plano	TX	807	0	15	0.1	0.2	0.3	0.4	0.5	0.6	0.7	0.8	0.9	-15
-Industry Average				61											
-Apple Computer Inc.	Cupertino	CA	159	Unnamed: 0	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0	Unnamed: 1	Unnamed: 2
-																		City
-Dell Inc.	Round Rock	TX	25.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-Hewlett-Packard Co.	Palo Alto	CA	11.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-Lexmark International Inc.	Lexington	KY	415.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-NCR Corp.	Dayton	OH	357.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-																		State
-Sun Microsystems Inc.	Santa Clara	CA	211.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-Tech Data Corp.	Clearwater	FL	107.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		Fortune Rank
-Xerox Corp.	Stamford	CT	142.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-																		Forbes Rank
-Imation Corp.	Oakdale	MN			93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0		
-Pitney Bowes Inc.	Stamford	CT	394.0		93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0		AmLaw Rank
-Seagate Technology Inc.	Scotts Valley	CA			75.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0		CEI 2006
-Gateway Inc.	Irvine	CA	508.0		65.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	0.0	15.0	0.0		
-																		1a
-Silicon Graphics Inc.	Mountain View	CA			65.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0		
-Software House International	Somerset	NJ		164.0	55.0	15.0	5.0	0.0	5.0	0.0	15.0	0.0	0.0	0.0	15.0	0.0		1b
-EMC Corp.	Hopkinton	MA	249.0		45.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	0.0	0.0	35.0	2a
-Avnet Inc.	Phoenix	AZ	212.0		30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0		
-Advanced Digital Information Corp.	Redmond	WA			15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		2b
-Industry Average					79.0													2c
-Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	3a
-Adobe Systems Inc.	San Jose	CA	817.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Intuit Inc.	Mountain View	CA	779.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	3b
-Microsoft Corp.	Redmond	WA	48.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-																3c
-Electronic Arts Inc.	Redwood City	CA	594.0	88.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	7.5	15.0	0.0	
-																4
-Oracle Corp.	Redwood City	CA	196.0	80.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
-SAP America Inc.	Newton Square	PA		68.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	7.5	15.0	0.0	5
-CDW Corporation	Vernon Hills	IL	343.0	58.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	0.0	0.0	
-																6
-Cerner Corp.	Kansas City	MO		45.0	15.0	5.0	15.0	5.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	
-Industry Average				80.0												
-Bain & Company Inc.	Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12
-(and Bridgespan Group)	Boston	MA	100 15	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0
-Deloitte & Touche USA LLP	New York	NY	w w w . h r c . o10r0g / 1w5o r k5 p 1l a5 c e5					5.0	15.0	5.0	5C O15R P15O R0A T E  E Q U A L I T Y  I N D E X  2 0 0		
-Ernst & Young LLP	New York	NY	7 100 15	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0
-Hewitt Associates	Lincolnshire	IL	633 100 15	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0
-KPMG LLP	New York	NY	100 15	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0
-McKinsey & Co. Inc.	New York	NY	72 100 15	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0
-PricewaterhouseCoopers LLP	New York	NY	4 100 15	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0
-Accenture Ltd.	New York	NY	95 15	5.0	15.0	0.0		5.0	15.0	5.0	5 15	15.0	0.0
-Booz Allen Hamilton Inc.	McLean	VA	66 80 15	5.0	0.0	0.0		5.0	15.0	5.0	5 15	15.0	0.0
-Affiliated Computer Services	Dallas	TX	471 75 15	5.0	0.0	0.0		0.0	15.0	5.0	5 15	15.0	0.0
-Gallup Organization	Washington	DC	30 15	0.0	0.0	0.0		0.0	15.0	0.0	0 0	0.0	0.0
-Industry Average			89										
-CH2M HILL Companies, Ltd.	Englewood	CO	591	88	80	15	5	0	0.1	5.1	15.1	5.2	5.3	15.2	15.3	0.2
-Perkins & Will	Chicago	IL			70	15.0	0.0	0.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0
-DPR Construction	Redwood City	CA			50	15.0	0.0	0.0	0.0	0.0	15.0	5.0	0.0	0.0	15.0	0.0
-KB Home	Los Angeles	CA	254.0		15	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-Industry Average					54											
-Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	City
-Clear Channel																
-Communications Inc.	San Antonio	TX	252.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Google Inc.	Mountain View	CA	353.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Viacom Inc.	New York	NY	241.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-																State
-Walt Disney Co.	Burbank	CA	63.0	95.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Yahoo! Inc.	Sunnyvale	CA	412.0	90.0	15.0	5.0	15.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
-																Fortune Ran
-XM Satellite Radio Holdings Inc.	Washington	DC		88.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
-																Forbes Rank
-Time Warner Inc.	New York	NY	40.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Reuters America Holdings Inc.	New York	NY		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	AmLaw Rank
-Corbis Corporation	Seattle	WA		65.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	0.0	15.0	0.0	
-																CEI 2006
-Blockbuster Inc.	Dallas	TX	366.0	60.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	15.0	0.0	
-Vivendi	New York	NY		50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	15.0	0.0	1a
-Industry Average				83.0												1b
-Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	2a
-Anheuser-Busch																	
-Companies Inc.	St. Louis	MO	146.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	2b
-Cargill Inc.	Wayzata	MN		1.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-																	2c
-Coca-Cola Company	Atlanta	GA	89.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Coors Brewing Company	Golden	CO	373.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	3a
-General Mills Inc.	Minneapolis	MN	206.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-																	3b
-Kraft Foods Inc.	Northfield	IL			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-PepsiCo Inc.	Purchase	NY	61.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	3c
-Sodexho Inc.	Gaithersburg	MD			95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	4
-Whole Foods Market Inc.	Austin	TX	449.0		95.0	15.0	5.0	15.0	5.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
-																	5
-Miller Brewing Co.	Milwaukee	WI			90.0	15.0	5.0	15.0	5.0	0.0	15.0	0.0	5.0	15.0	15.0	0.0	
-Albertson’s Inc.	Boise	ID	47.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	6
-Brinker International Inc.	Dallas	TX	504.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-McDonald’s Corp.	Oak Brook	IL	109.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Starbucks Corp.	Seattle	WA	338.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Applebee’s International Inc.	Overland Park	KS			80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Aramark Corp.	Philadelphia	PA	215.0		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Campbell Soup Co.	Camden	NJ	302.0		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Darden Restaurants	Orlando	FL	409.0		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Supervalu Inc.	Eden Prairie	MN	113.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Giant Food LLC	Quincy	MA			78.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	0.0	0.0	
-Food Lion, LLC	Salisbury	NC			75.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Dean Foods Co.	Dallas	TX	216.0		73.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
-Safeway Inc.	Pleasanton	CA	50.0		70.0	15.0	5.0	0.0	5.0	5.0	0.0	5.0	5.0	15.0	15.0	0.0	
-Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	Unnamed: 17	Company
-																		Name
-Sara Lee Corp.	Chicago	IL	111.0		70.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	0.0	15.0	15.0	0.0		
-Coca-Cola Enterprises	Atlanta	GA	120.0		65.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	5.0	15.0	0.0	0.0		
-Compass Group North America	Charlotte	NC			65.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	5.0	0.0	15.0	0.0		
-Hannaford Brothers	Portland	ME			65.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0		
-																		City
-Dole Food Co. Inc.	Westlake Village	CA	365.0		60.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	0.0	0.0	15.0	0.0		
-Land O’Lakes	Arden Hills	MN	301.0		53.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	0.0	0.0		
-Pathmark Stores Inc.	Carteret	NJ	497.0		53.0	15.0	5.0	15.0	5.0	0.0	0.0	0.0	5.0	7.5	0.0	0.0		
-Ben and Jerry’s Homemade Inc.	South Burlington	VT			50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	15.0	0.0		
-																		State
-Hershey Company, The	Hershey	PA	442.0		50.0	15.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	15.0	15.0	0.0		
-Kellogg Co.	Battle Creek	MI	233.0		50.0	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	15.0	0.0		Fortune Rank
-U.S. Foodservice Inc	Columbia	MD			50.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	0.0	0.0	0.0		
-																		Forbes Rank
-Domino’s Pizza Inc.	Ann Arbor	MI	966.0		45.0	0.0	5.0	0.0	0.0	5.0	0.0	0.0	5.0	15.0	15.0	0.0		
-C&S Wholesale Grocers Inc.	Keene	NH		8.0	40.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	0.0	0.0	0.0	0.0		AmLaw Rank
-H. E. Butt Grocery Co.	San Antonio	TX		11.0	40.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	15.0	0.0		CEI 2006
-Kroger Co., The	Cincinnati	OH	21.0		35.0	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0		
-																		1a
-Hain Celestial Group Inc.	Melville	NY			30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0		
-Archer Daniels Midland Co.	Decatur	IL	56.0		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		1b
-CBRL Group Inc.	Lebanon	TN	676.0		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	37.0	2a
-H. J. Heinz Co.	Pittsburgh	PA	262.0		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		
-Nestle Purina PetCare Co.	St. Louis	MO			15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		2b
-Industry Average					68.0													2c
-Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	3a
-International Paper Co.	Stamford	CT	82.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-MeadWestvaco Corp.	Stamford	CT	322.0	80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	3b
-Weyerhaeuser Co.	Federal Way	WA	90.0	60.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	0.0	15.0	0.0	0.0	
-																3c
-Industry Average				75.0												
-Aetna Inc.	Hartford	CT	91 100	15	5	15.1	5.1	Unnamed: 0	5.2	15.2	5.3	5 15	15.3	0	5.4
-Bausch & Lomb Inc.	Rochester	NY	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
-															6.0
-CIGNA Corp.	Philadelphia	PA	130 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
-Harvard Pilgrim Health Care Inc.	Wellesley	MA	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
-Kaiser Permanente	Oakland	CA	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
-Health Net Inc.	Woodland Hills	CA	191 93	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 7.5	15.0	0.0	
-Sierra Health Services Inc.	Las Vegas	NV	88	15.0	5.0	15.0	5.0		0.0	15.0	5.0	5 7.5	15.0	0.0	
-Guidant Corp.	Indianapolis	IN	w53w5 w . h r c . o8r0g / 1w5o r k5 p l a0 c e0						5.0	15.0	5.0	5C O15R P15O R0A T E  E Q U A L I T Y  I N D E X  2 0 0			
-Quest Diagnostics Incorporated	Lyndhurst	NJ	392 80	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5 15	15.0	0.0	
-Vision Service Plan	Rancho Cordova	CA	80	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5 15	15.0	0.0	
-WellPoint Inc.	Indianapolis	IN	80	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5 15	15.0	0.0	
-Medtronic Inc.	Minneapolis	MN	235 75	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5 15	15.0	0.0	
-Owens & Minor	Mechanicsville	VA	443 70	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 0	0.0	0.0	
-PacifiCare Health Systems	Cypress	CA	68	15.0	0.0	15.0	0.0		5.0	15.0	5.0	5 7.5	0.0	0.0	
-University Hospitals of Cleveland	Cleveland	OH	65	15.0	5.0	0.0	5.0		0.0	15.0	5.0	5 0	15.0	0.0	
-Caremark RX	Nashville	TN	60 55	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5 0	0.0	0.0	
-Humana Inc.	Louisville	KY	150 40	15.0	5.0	0.0	5.0		0.0	0.0	0.0	0 15	0.0	0.0	
-Industry Average			81												
-Unnamed: 0	Agere Systems Inc.	Allentown	PA	904	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0	Unnamed: 1
-	Agilent Technologies Inc.	Palo Alto	CA	319.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-	Avaya Inc.	Basking Ridge	NJ	434.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-	Cisco Systems Inc.	San Jose	CA	83.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-	Corning Inc.	Corning	NY	456.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-	Eastman Kodak Co.	Rochester	NY	155.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-																	City
-	Freescale Semiconductor Inc.	Austin	TX	368.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-	Intel Corp.	Santa Clara	CA	49.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-	Lucent Technologies Inc.	Murray Hill	NJ	255.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-	Motorola Inc.	Schaumburg	IL	54.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-																	State
-	QUALCOMM Inc.	San Diego	CA	381.0	95.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-	Advanced Micro Devices	Sunnyvale	CA	367.0	80.0	15.0	5.0	15.0	5.0	5.0	15.0	0.0	5.0	0.0	15.0	0.0	Fortune Rank
-	Texas Instruments Inc.	Dallas	TX	167.0	80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-																	Forbes Rank
-	Applied Materials Inc.	Santa Clara	CA	317.0	73.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
-	Baxter International Inc.	Deerfield	IL	240.0	73.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	AmLaw Rank
-	KLA-Tencor	San Jose	CA	780.0	73.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	5.0	7.5	15.0	0.0	CEI 2006
-38.0	Polaroid Corp.	Waltham	MA		60.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	15.0	0.0	0.0	
-																	1a
-	Siemens Energy &																
-	Automation Inc.	Alpharetta	GA		60.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	0.0	15.0	0.0	0.0	1b
-	American Power																
-	Conversion Corp	West Kingston	RI	815.0	58.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	5.0	7.5	0.0	0.0	2a
-	Nokia	Irving	TX		50.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	5.0	0.0	0.0	0.0	2b
-	Emerson Electric Co.	St. Louis	MO	126.0	45.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	0.0	0.0	15.0	0.0	
-																	2c
-	Fisher Scientific International	Hampton	NH	389.0	40.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	0.0	0.0	0.0	0.0	
-	Baldor Electric Co.	Fort Smith	AR		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3a
-	Industry Average				78.0												
-Carlson Companies Inc.	Minnetonka	MN	Unnamed: 0	82	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0	3c
-Global Hyatt Corp.	Chicago	IL		89.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	4.0
-Kimpton Hotel & Restaurant																	
-Group, Inc.	San Francisco	CA			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	5.0
-Starwood Hotels & Resorts																	6.0
-Worldwide	White Plains	NY	360.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-The Olivia Companies LLC	San Francisco	CA			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Harrah’s Entertainment Inc.	Las Vegas	NV	309.0		95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Hilton Hotels Corp.	Beverly Hills	CA	464.0		95.0	15.0	5.0	15.0	5.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
-Wyndham International Inc.	Dallas	TX			90.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	0.0	15.0	15.0	0.0	
-MGM Mirage	Las Vegas	NV	334.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Marriott International	Washington	DC	203.0		75.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
-Host Hotels & Resorts	Bethesda	MD	502.0		45.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	0.0	0.0	0.0	0.0	
-Industry Average					89.0												
-Allianz Life Insurance Co.	Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16
-of North America	Minneapolis	MN		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-California State Automobile																	
-Association	San Francisco	CA		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		City
-Chubb Corp.	Warren	NJ	156.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-CNA Insurance	Chicago	IL		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-ING North America Insurance																	
-Corp.	Atlanta	GA		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		State
-MetLife Inc.	New York	NY	35.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-Nationwide	Columbus	OH	98.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		Fortune Rank
-Prudential Financial Inc.	Newark	NJ	64.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		Forbes Rank
-Aon Corp.	Chicago	IL	237.0	95.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-																	AmLaw Rank
-Lincoln National Corp.	Philadelphia	PA	396.0	95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0		
-John Hancock Financial																	CEI 2006
-Services Inc.	Boston	MA		93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0		
-																	1a
-Massachusetts Mutual Life																	
-Insurance Company	Springfield	MA	92.0	93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0		1b
-Allstate Corp., The	Northbrook	IL	58.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-																39.0	2a
-Principal Financial Group	Des Moines	IA	261.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-New York Life Insurance Co.	New York	NY	74.0	78.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	0.0	0.0		2b
-UnumProvident Corp.	Chattanooga	TN	229.0	78.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0		
-																	2c
-American Family Insurance Group	Madison	WI	323.0	75.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0		
-																	3a
-Hartford Financial Services Co.	Hartford	CT	78.0	75.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0		
-Mutual of Omaha Insurance	Omaha	NE	491.0	75.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0		3b
-SAFECO Corp.	Seattle	WA	339.0	75.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-																	3c
-CUNA Mutual Insurance Group	Madison	WI	644.0	65.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	5.0	15.0	15.0	0.0		
-St. Paul Travelers Companies Inc.	St. Paul	MN	85.0	65.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0		4
-State Farm Group	Bloomington	IL	22.0	60.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	5.0	15.0	15.0	0.0		5
-AEGON Insurance Group	Cedar Rapids	IA		35.0	0.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	0.0	0.0	0.0		
-																	6
-Progressive Corp., The	Mayfield Village	OH	153.0	35.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0		
-American International																	
-Group Inc.	New York	NY	9.0	30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0		
-Marsh & McLennan																	
-Companies Inc.	New York	NY	186.0	30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0		
-Industry Average				79.0													
-Alston & Bird LLP	Atlanta	GA	50	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0
-Arnold & Porter	Washington	DC	39	100	15	5	15	5	5	15	5	5	15	15	0
-Dorsey & Whitney	Minneapolis	MN	65	100	15	5	15	5	5	15	5	5	15	15	0
-Faegre & Benson	Minneapolis	MN	99	100	15	5	15	5	5	15	5	5	15	15	0
-Heller Ehrman LLP	San Francisco	CA	35	100	15	5	15	5	5	15	5	5	15	15	0
-Jenner & Block LLP	Chicago	IL	74	100	15	5	15	5	5	15	5	5	15	15	0
-McDermott Will & Emery LLP	Chicago	IL	13	100	15	5	15	5	5	15	5	5	15	15	0
-Morrison & Foerster LLP	San Francisco	CA	24	100	15	5	15	5	5	15	5	5	15	15	0
-Nixon Peabody LLP	Rochester	NY	62	100	15	5	15	5	5	15	5	5	15	15	0
+,,,,r c .,	/ w
+15			
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0	Unnamed: 1	Unnamed: 2
+
+		
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1	Unnamed: 2
+
+		
+
+"APPENDIX B2006 Corporate Equality Index Scores,
+Sorted Alphabetically by Industry"
+
+Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	Unnamed: 17	Unnamed: 18	Unnamed: 19
+
+																			
+
+																			
+
+																			
+
+																			
+
+																			
+
+																			
+
+																			
+
+dvertising, Marketing																			
+
+dvertising, Marketin																			
+
+							15.0										0.0		
+
+	ChicagoIL	100	5155515551515.0																
+
+							15.0	5.0									0.0		
+
+	New YorkNY	78	5515557.515																
+
+																			
+
+							15.0	5.0									0.0		
+
+	New YorkNY348	75	515051515.0																
+
+																			
+
+		IL				50.0	0.0										0.0		
+
+	Schaumburg	50051555150																	
+
+																			
+
+	BaltimoreMD926189			15.0	0.0									0.0					
+
+					35.0	155000.0													
+
+																			
+
+							15.0	0.0	150000.0	0.0									
+
+	New YorkNY225	30																	
+
+																			
+
+						61.0													
+
+					6.0														
+
+erospace and Defense																			
+
+erospace and Defense																			
+
+							15.0										0.0		
+
+	ChicagoIL26	100	5155515551515.0																
+
+							15.0										0.0		
+
+	MorristownNJ71	100	5155515551515.0																
+
+							15.0										0.0		
+
+	Los AngelesCA67	100	5155515551515.0																
+
+							15.0										0.0		
+
+	WalthamMA97	100	5155515551515.0																
+
+							15.0	5.0									0.0		
+
+	BethesdaMD52	80	5015551515.0																
+
+																			
+
+							15.0	5.0									0.0		
+
+	Cedar RapidsIA550	78	5515557.515																
+
+																			
+
+			638.0			65.0	15.0										0.0		
+
+	EdinaMN	51505155500																	
+
+																			
+
+							15.0		15.0	5.0							0.0		
+
+	Falls ChurchVA100	55	5.0	15.0															
+
+																			
+
+						85.0													
+
+					8.0														
+
+irlines																			
+
+irline																			
+
+						15.0										0.0			
+
+Fort WorthTX105	100	5155515551515																	
+
+						15.0										0.0			
+
+PhoenixAZ424	100	5155515551515																	
+
+						15.0	5.0	5515551515.0	0.0										
+
+AtlantaGA135	85																		
+
+																			
+
+DallasTX300			15.0	5155015057.515	0.0														
+
+					83.0														
+
+																			
+
+						15.0	5.0									0.0			
+
+HoustonTX207	75	00015551515																	
+
+																			
+
+Elk Grove Township						15.0	5.0	515557.515	0.0										
+
+	IL124	73																	
+
+																			
+
+						15.0	5.0	15001515.0	0.0										
+
+EaganMN182	65																		
+
+																			
+
+					83.0														
+
+					8.0														
+
+pparel, Fashion, Textiles, Dept. Stores																			
+
+pparel, Fashion, Textiles, Dept. Store																			
+
+San FranciscoCA139			15.0	5155515551515.0	0.0														
+
+					100.0														
+
+						15.0										0.0			
+
+San FranciscoCA48444	100	5155515551515																	
+
+																			
+
+						15.0										0.0			
+
+North BergenNJ440	100	5155515551515																	
+
+BeavertonOR163			15.0	5155515551515.0	0.0														
+
+					100.0														
+
+																			
+
+SeattleWA293			15.0	5155515551515.0	0.0														
+
+					100.0														
+
+																			
+
+	WA				85.0	15.0	505515551515.0	0.0											
+
+Kent																			
+
+																			
+
+						15.0	5.0	515551515.0	0.0										
+
+CincinnatiOH87	80																		
+
+																			
+
+						15.0										0.0			
+
+FreeportME	73	5155515057.50																	
+
+						15.0	5.0									0.0			
+
+ColumbusOH246	70	05015001515																	
+
+																			
+
+CantonMA			15.0	0.0	515557.515	0.0													
+
+				68.0															
+
+																			
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0
+
+""
+
+61
+
+6
+
+85
+
+8
+
+83
+
+8
+
+Lillian Vernon Corp.	White Plains	NY	Unnamed: 0	55	15	5	0	0.1	0.2	15.1	0.3	5.1	0.4	15.2	0.5
+
+Abercrombie & Fitch Co.	New Albany	OH	639.0	50	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	15.0	0.0
+
+J. C. Penney Company Inc.	Plano	TX	118.0	50	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	0.0	0.0
+
+Donna Karan	New York	NY		45	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	15.0	0.0
+
+Men’s Wearhouse Inc., The	Houston	TX	887.0	35	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0
+
+Industry Average				74											
+
+DaimlerChrysler Corp.	Auburn Hills	MI	Unnamed: 0	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0	Unnamed: 1	Unnamed: 2
+
+																	State
+
+Ford Motor Co.	Dearborn	MI	5.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
+
+General Motors Corp.	Detroit	MI	3.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		Fortune Rank
+
+Volkswagen of America Inc.	Auburn Hills	MI		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
+
+																	Forbes Rank
+
+Visteon Corp.	Van Buren Township	MI	128.0	95.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
+
+Toyota Motor Sales USA Inc.	Torrance	CA		90.0	15.0	5.0	15.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0		AmLaw Rank
+
+Subaru of America Inc.	Cherry Hill	NJ		70.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	0.0	15.0	0.0		CEI 2006
+
+Delphi Corp.	Troy	MI	77.0	60.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0		
+
+																	1a
+
+Bridgestone Americas Holding Inc.	Nashville	TN		45.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	15.0	0.0		
+
+Dana Corp.	Toledo	OH	234.0	35.0	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0		1b
+
+Navistar International Corp.	Warrenville	IL	201.0	30.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	33.0	2a
+
+Lear Corp.	Southfield	MI	127.0	20.0	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		
+
+Genuine Parts Co.	Atlanta	GA	245.0	15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		2b
+
+Nissan North America	Gardena	CA		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		2c
+
+Industry Average				63.0													
+
+American Express Co.	New York	NY	69 100	15	5	15.1	5.1	Unnamed: 0	5.2	15.2	5.3	5 15	15.3	0	3b
+
+Bank of America Corp.	Charlotte	NC	12 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+															3c
+
+Capital One Financial Corp.	McLean	VA	187 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+															4
+
+Charles Schwab Corp., The	San Francisco	CA	418 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+Citigroup Inc.	New York	NY	8 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	5
+
+Credit Suisse Securities															
+
+															6
+
+(USA) LLC	New York	NY	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+Deutsche Bank	New York	NY	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+Fannie Mae	Washington	DC	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+Goldman Sachs Group Inc., The	New York	NY	41 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+J.P. Morgan Chase & Co.	New York	NY	17 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+Lehman Brothers Holdings	New York	NY	w6w2 w . h r c . o10r0g / 1w5o r k5 p 1l a5 c e5						5.0	15.0	5.0	5C O15R P15O R0A T E  E Q U A L I T Y  I N D E X  2 0 0			
+
+Mellon Financial Corp.	Pittsburgh	PA	377 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+Merrill Lynch & Co.	New York	NY	34 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+Morgan Stanley	New York	NY	30 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+State Street Corp.	Boston	MA	307 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+SunTrust Banks Inc.	Atlanta	GA	217 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+Visa International	Foster City	CA	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+Wachovia Corp.	Charlotte	NC	57 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+Wells Fargo & Co.	San Francisco	CA	46 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+HSBC USA Inc.	Prospect Heights	IL	95	15.0	5.0	15.0	5.0		0.0	15.0	5.0	5 15	15.0	0.0	
+
+Northern Trust Corp.	Chicago	IL	533 95	15.0	5.0	15.0	0.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Company
+
+UBS AG	Stamford	CT		95.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+																Name
+
+Barclays Capital	New York	NY		90.0	15.0	5.0	15.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Washington Mutual Inc.	Seattle	WA	99.0	90.0	15.0	5.0	15.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+
+A.G. Edwards Inc.	St. Louis	MO	665.0	85.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	0.0	0.0	
+
+Bank of New York Co.	New York	NY	278.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Freddie Mac	McLean	VA		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+U.S. Bancorp	Minneapolis	MN	131.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+																City
+
+Comerica Inc.	Detroit	MI	524.0	80.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+
+Countrywide Financial Corp.	Calabasas	CA	122.0	80.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	0.0	15.0	0.0	
+
+MasterCard Inc.	Purchase	NY	627.0	80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+General Electric Co.	Fairfield	CT	7.0	75.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	0.0	15.0	15.0	0.0	
+
+																State
+
+Harris Bankcorp Inc.	Chicago	IL		75.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+
+KeyCorp	Cleveland	OH	325.0	75.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	Fortune Rank
+
+SLM Corp.	Reston	VA	331.0	75.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+																Forbes Rank
+
+E*TRADE Financial Corporation	New York	NY	679.0	73.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	5.0	7.5	15.0	0.0	
+
+PNC Financial Services																AmLaw Rank
+
+Group Inc.	Pittsburgh	PA	290.0	73.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+
+																CEI 2006
+
+Chamberlin Edmonds &																
+
+Associates Inc	Atlanta	GA		68.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	1a
+
+ABN AMRO Holding N.V.	Chicago	IL		65.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	
+
+																1b
+
+Fifth Third Bancorp	Cincinnati	OH	308.0	65.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	5.0	15.0	15.0	0.0	
+
+Franklin Templeton Investments	San Mateo	CA		60.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5.0	0.0	15.0	0.0	2a
+
+National City Corporation	Cleveland	OH	213.0	58.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	5.0	7.5	15.0	0.0	2b
+
+Zurich North America	Schaumburg	IL		50.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	0.0	0.0	0.0	
+
+																2c
+
+Golden West Financial Corp.	Oakland	CA	326.0	40.0	15.0	5.0	0.0	5.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
+
+BB&T Corp.	Winston-Salem	NC	292.0	25.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	3a
+
+Industry Average				85.0												
+
+Dow Chemical Co.	Midland	MI	36	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0	3c
+
+DuPont (E. I. du Pont de Nemours)	Wilmington	DE	73.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	4.0
+
+Genentech Inc.	South San Francisco	CA		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+																5.0
+
+Air Products & Chemicals Inc.	Allentown	PA	282.0	75.0	15.0	5.0	15.0	0.0	5.0	0.0	0.0	5.0	15.0	15.0	0.0	
+
+PPG Industries	Pittsburgh	PA	232.0	60.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	0.0	15.0	15.0	0.0	6.0
+
+Rohm and Haas Company	Philadelphia	PA	286.0	53.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	0.0	7.5	15.0	0.0	
+
+Praxair Inc.	Danbury	CT	297.0	25.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+Industry Average				70.0												
+
+ChoicePoint Inc.	Alpharetta	GA	Unnamed: 0	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0
+
+International Business															
+
+Machines Corp.	Armonk	NY	10.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0
+
+Unisys Corp.	Blue Bell	PA	372.0	90.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	0.0	15.0	15.0	0.0
+
+SRA International Inc.	Fairfax	VA		75.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0
+
+Electronic Data Systems Corp.	Plano	TX	108.0	70.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	5.0	15.0	15.0	0.0
+
+Keane Inc.	Boston	MA		50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	0.0	0.0
+
+The Dun & Bradstreet Corporation	Short Hills	NJ		35.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	0.0	0.0	0.0	0.0
+
+Automatic Data Processing Inc.	Roseland	NJ	271.0	30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0
+
+New YorkNYw w w . h r c .,o10r0	/ 1w5o r k5 p 1l a5 c e5
+51555C O15R P15			
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0	Unnamed: 1	Unnamed: 2
+
+		
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0
+
+""
+
+61	Unnamed: 0
+
+	
+
+RedmondWA	Unnamed: 0	Unnamed: 1
+
+		
+
+79	Unnamed: 0
+
+	
+
+80	Unnamed: 0
+
+	
+
+89	Unnamed: 0
+
+	
+
+CH2M HILL Companies, Ltd.	Englewood	CO	591	88	80	15	5	0	0.1	5.1	15.1	5.2	5.3	15.2	15.3	0.2
+
+Perkins & Will	Chicago	IL			70	15.0	0.0	0.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0
+
+DPR Construction	Redwood City	CA			50	15.0	0.0	0.0	0.0	0.0	15.0	5.0	0.0	0.0	15.0	0.0
+
+KB Home	Los Angeles	CA	254.0		15	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Industry Average					54											
+
+Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	City
+
+Clear Channel																
+
+Communications Inc.	San Antonio	TX	252.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Google Inc.	Mountain View	CA	353.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Viacom Inc.	New York	NY	241.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+																State
+
+Walt Disney Co.	Burbank	CA	63.0	95.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Yahoo! Inc.	Sunnyvale	CA	412.0	90.0	15.0	5.0	15.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+
+																Fortune Ran
+
+XM Satellite Radio Holdings Inc.	Washington	DC		88.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+
+																Forbes Rank
+
+Time Warner Inc.	New York	NY	40.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Reuters America Holdings Inc.	New York	NY		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	AmLaw Rank
+
+Corbis Corporation	Seattle	WA		65.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	0.0	15.0	0.0	
+
+																CEI 2006
+
+Blockbuster Inc.	Dallas	TX	366.0	60.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	15.0	0.0	
+
+Vivendi	New York	NY		50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	15.0	0.0	1a
+
+Industry Average				83.0												1b
+
+Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	2a
+
+Anheuser-Busch																	
+
+Companies Inc.	St. Louis	MO	146.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	2b
+
+Cargill Inc.	Wayzata	MN		1.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+																	2c
+
+Coca-Cola Company	Atlanta	GA	89.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Coors Brewing Company	Golden	CO	373.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	3a
+
+General Mills Inc.	Minneapolis	MN	206.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+																	3b
+
+Kraft Foods Inc.	Northfield	IL			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+PepsiCo Inc.	Purchase	NY	61.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	3c
+
+Sodexho Inc.	Gaithersburg	MD			95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	4
+
+Whole Foods Market Inc.	Austin	TX	449.0		95.0	15.0	5.0	15.0	5.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+
+																	5
+
+Miller Brewing Co.	Milwaukee	WI			90.0	15.0	5.0	15.0	5.0	0.0	15.0	0.0	5.0	15.0	15.0	0.0	
+
+Albertson’s Inc.	Boise	ID	47.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	6
+
+Brinker International Inc.	Dallas	TX	504.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+McDonald’s Corp.	Oak Brook	IL	109.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Starbucks Corp.	Seattle	WA	338.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Applebee’s International Inc.	Overland Park	KS			80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Aramark Corp.	Philadelphia	PA	215.0		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Campbell Soup Co.	Camden	NJ	302.0		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Darden Restaurants	Orlando	FL	409.0		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Supervalu Inc.	Eden Prairie	MN	113.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Giant Food LLC	Quincy	MA			78.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	0.0	0.0	
+
+Food Lion, LLC	Salisbury	NC			75.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Dean Foods Co.	Dallas	TX	216.0		73.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+
+Safeway Inc.	Pleasanton	CA	50.0		70.0	15.0	5.0	0.0	5.0	5.0	0.0	5.0	5.0	15.0	15.0	0.0	
+
+Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	Unnamed: 17	Company
+
+																		Name
+
+Sara Lee Corp.	Chicago	IL	111.0		70.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	0.0	15.0	15.0	0.0		
+
+Coca-Cola Enterprises	Atlanta	GA	120.0		65.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	5.0	15.0	0.0	0.0		
+
+Compass Group North America	Charlotte	NC			65.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	5.0	0.0	15.0	0.0		
+
+Hannaford Brothers	Portland	ME			65.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0		
+
+																		City
+
+Dole Food Co. Inc.	Westlake Village	CA	365.0		60.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	0.0	0.0	15.0	0.0		
+
+Land O’Lakes	Arden Hills	MN	301.0		53.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	0.0	0.0		
+
+Pathmark Stores Inc.	Carteret	NJ	497.0		53.0	15.0	5.0	15.0	5.0	0.0	0.0	0.0	5.0	7.5	0.0	0.0		
+
+Ben and Jerry’s Homemade Inc.	South Burlington	VT			50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	15.0	0.0		
+
+																		State
+
+Hershey Company, The	Hershey	PA	442.0		50.0	15.0	0.0	0.0	0.0	5.0	0.0	0.0	0.0	15.0	15.0	0.0		
+
+Kellogg Co.	Battle Creek	MI	233.0		50.0	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	15.0	0.0		Fortune Rank
+
+U.S. Foodservice Inc	Columbia	MD			50.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	0.0	0.0	0.0		
+
+																		Forbes Rank
+
+Domino’s Pizza Inc.	Ann Arbor	MI	966.0		45.0	0.0	5.0	0.0	0.0	5.0	0.0	0.0	5.0	15.0	15.0	0.0		
+
+C&S Wholesale Grocers Inc.	Keene	NH		8.0	40.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	0.0	0.0	0.0	0.0		AmLaw Rank
+
+H. E. Butt Grocery Co.	San Antonio	TX		11.0	40.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	15.0	0.0		CEI 2006
+
+Kroger Co., The	Cincinnati	OH	21.0		35.0	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0		
+
+																		1a
+
+Hain Celestial Group Inc.	Melville	NY			30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0		
+
+Archer Daniels Midland Co.	Decatur	IL	56.0		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		1b
+
+CBRL Group Inc.	Lebanon	TN	676.0		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	37.0	2a
+
+H. J. Heinz Co.	Pittsburgh	PA	262.0		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		
+
+Nestle Purina PetCare Co.	St. Louis	MO			15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		2b
+
+Industry Average					68.0													2c
+
+Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	3a
+
+International Paper Co.	Stamford	CT	82.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+MeadWestvaco Corp.	Stamford	CT	322.0	80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	3b
+
+Weyerhaeuser Co.	Federal Way	WA	90.0	60.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	0.0	15.0	0.0	0.0	
+
+																3c
+
+Industry Average				75.0												
+
+Aetna Inc.	Hartford	CT	91 100	15	5	15.1	5.1	Unnamed: 0	5.2	15.2	5.3	5 15	15.3	0	5.4
+
+Bausch & Lomb Inc.	Rochester	NY	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+															6.0
+
+CIGNA Corp.	Philadelphia	PA	130 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+Harvard Pilgrim Health Care Inc.	Wellesley	MA	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+Kaiser Permanente	Oakland	CA	100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+Health Net Inc.	Woodland Hills	CA	191 93	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 7.5	15.0	0.0	
+
+Sierra Health Services Inc.	Las Vegas	NV	88	15.0	5.0	15.0	5.0		0.0	15.0	5.0	5 7.5	15.0	0.0	
+
+Guidant Corp.	Indianapolis	IN	w53w5 w . h r c . o8r0g / 1w5o r k5 p l a0 c e0						5.0	15.0	5.0	5C O15R P15O R0A T E  E Q U A L I T Y  I N D E X  2 0 0			
+
+Quest Diagnostics Incorporated	Lyndhurst	NJ	392 80	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+Vision Service Plan	Rancho Cordova	CA	80	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+WellPoint Inc.	Indianapolis	IN	80	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+Medtronic Inc.	Minneapolis	MN	235 75	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5 15	15.0	0.0	
+
+Owens & Minor	Mechanicsville	VA	443 70	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 0	0.0	0.0	
+
+PacifiCare Health Systems	Cypress	CA	68	15.0	0.0	15.0	0.0		5.0	15.0	5.0	5 7.5	0.0	0.0	
+
+University Hospitals of Cleveland	Cleveland	OH	65	15.0	5.0	0.0	5.0		0.0	15.0	5.0	5 0	15.0	0.0	
+
+Caremark RX	Nashville	TN	60 55	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5 0	0.0	0.0	
+
+Humana Inc.	Louisville	KY	150 40	15.0	5.0	0.0	5.0		0.0	0.0	0.0	0 15	0.0	0.0	
+
+Industry Average			81												
+
+Unnamed: 0	Agere Systems Inc.	Allentown	PA	904	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0	Unnamed: 1
+
+	Agilent Technologies Inc.	Palo Alto	CA	319.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+	Avaya Inc.	Basking Ridge	NJ	434.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+	Cisco Systems Inc.	San Jose	CA	83.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+	Corning Inc.	Corning	NY	456.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+	Eastman Kodak Co.	Rochester	NY	155.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+																	City
+
+	Freescale Semiconductor Inc.	Austin	TX	368.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+	Intel Corp.	Santa Clara	CA	49.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+	Lucent Technologies Inc.	Murray Hill	NJ	255.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+	Motorola Inc.	Schaumburg	IL	54.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+																	State
+
+	QUALCOMM Inc.	San Diego	CA	381.0	95.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+	Advanced Micro Devices	Sunnyvale	CA	367.0	80.0	15.0	5.0	15.0	5.0	5.0	15.0	0.0	5.0	0.0	15.0	0.0	Fortune Rank
+
+	Texas Instruments Inc.	Dallas	TX	167.0	80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+																	Forbes Rank
+
+	Applied Materials Inc.	Santa Clara	CA	317.0	73.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+
+	Baxter International Inc.	Deerfield	IL	240.0	73.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	AmLaw Rank
+
+	KLA-Tencor	San Jose	CA	780.0	73.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	5.0	7.5	15.0	0.0	CEI 2006
+
+38.0	Polaroid Corp.	Waltham	MA		60.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	15.0	0.0	0.0	
+
+																	1a
+
+	Siemens Energy &																
+
+	Automation Inc.	Alpharetta	GA		60.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	0.0	15.0	0.0	0.0	1b
+
+	American Power																
+
+	Conversion Corp	West Kingston	RI	815.0	58.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	5.0	7.5	0.0	0.0	2a
+
+	Nokia	Irving	TX		50.0	15.0	5.0	0.0	5.0	5.0	15.0	0.0	5.0	0.0	0.0	0.0	2b
+
+	Emerson Electric Co.	St. Louis	MO	126.0	45.0	15.0	5.0	0.0	5.0	5.0	0.0	0.0	0.0	0.0	15.0	0.0	
+
+																	2c
+
+	Fisher Scientific International	Hampton	NH	389.0	40.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	0.0	0.0	0.0	0.0	
+
+	Baldor Electric Co.	Fort Smith	AR		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3a
+
+	Industry Average				78.0												
+
+Carlson Companies Inc.	Minnetonka	MN	Unnamed: 0	82	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0	3c
+
+Global Hyatt Corp.	Chicago	IL		89.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	4.0
+
+Kimpton Hotel & Restaurant																	
+
+Group, Inc.	San Francisco	CA			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	5.0
+
+Starwood Hotels & Resorts																	6.0
+
+Worldwide	White Plains	NY	360.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+The Olivia Companies LLC	San Francisco	CA			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Harrah’s Entertainment Inc.	Las Vegas	NV	309.0		95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Hilton Hotels Corp.	Beverly Hills	CA	464.0		95.0	15.0	5.0	15.0	5.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+
+Wyndham International Inc.	Dallas	TX			90.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	0.0	15.0	15.0	0.0	
+
+MGM Mirage	Las Vegas	NV	334.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Marriott International	Washington	DC	203.0		75.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0	
+
+Host Hotels & Resorts	Bethesda	MD	502.0		45.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	0.0	0.0	0.0	0.0	
+
+Industry Average					89.0												
+
+Unnamed: 0
+
+""
+
+Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	Unnamed: 17	Unnamed: 18	Unnamed: 19	Unnamed: 20
+
+																				
+
+																				
+
+																				
+
+																				
+
+																				
+
+																				
+
+																				
+
+nsurance																				
+
+nsuranc																				
+
+								15.0										0.0		
+
+	MinneapolisMN	100.0		5155515551515.0																
+
+								15.0										0.0		
+
+	San FranciscoCA	100.0		5155515551515.0																
+
+																				
+
+								15.0										0.0		
+
+	WarrenNJ156	100.0		5155515551515.0																
+
+					100.0		15.0	5155515551515.0	0.0											
+
+																				
+
+								15.0										0.0		
+
+	AtlantaGA	100.0		5155515551515.0																
+
+								15.0										0.0		
+
+	New YorkNY35	100.0		5155515551515.0																
+
+																				
+
+								15.0										0.0		
+
+	ColumbusOH98	100.0		5155515551515.0																
+
+																				
+
+								15.0										0.0		
+
+	NewarkNJ64	100.0		5155515551515.0																
+
+																				
+
+			237.0			95.0		15.0	5150515551515.0	0.0										
+
+	ChicagoIL																			
+
+																				
+
+																		0.0		
+
+	PhiladelphiaPA396	95.0		155155015551515.0																
+
+																		0.0		
+
+	BostonMA	93.0		155155515557.515																
+
+																				
+
+																		0.0		
+
+	SpringfieldMA92	93.0		155155515557.515																
+
+								15.0	5.0									0.0		
+
+	NorthbrookIL58	85.0		5515551515.0																
+
+																				
+
+								15.0	5.0									0.0		
+
+	Des MoinesIA261	85.0		5515551515.0																
+
+																				
+
+							155155515557.5	0.0												
+
+					78.0															
+
+																				
+
+								15.0	5.0									0.0		
+
+	ChattanoogaTN229	78.0		5515557.515																
+
+																				
+
+	Madison		323.0			75.0		15.0										0.0		
+
+	WI	500015551515.0																		
+
+																				
+
+	Hartford							15.0	5.0									0.0		
+
+	CT78	75.0		15551515.0																
+
+																				
+
+								15.0	5.0									0.0		
+
+	OmahaNE491	75.0		15551515.0																
+
+																				
+
+								15.0	0.0									0.0		
+
+	SeattleWA339	75.0		515551515.0																
+
+																				
+
+	Madison		644.0			65.0		15.0										0.0		
+
+	WI	15051515.0																		
+
+																				
+
+	St. Paul							15.0	5.0									0.0		
+
+	MN85	65.0		15001515.0																
+
+																				
+
+								15.0	5.0									0.0		
+
+	BloomingtonIL22	60.0		50051515.0																
+
+																				
+
+							0.0										0.0			
+
+					35.0		5005155500.0													
+
+																				
+
+								15.0	5.0									0.0		
+
+	Mayfield VillageOH153	35.0		150000.0																
+
+																				
+
+							15.0	0.0									0.0			
+
+					30.0		150000.0													
+
+																				
+
+							15.0	0.0									0.0			
+
+					30.0		150000.0													
+
+																				
+
+						79.0														
+
+					9.0															
+
+																				
+
+aw Firms																				
+
+aw Firm																				
+
+							155155515551515.0	0.0												
+
+					100.0															
+
+																				
+
+				39.0	100.0		15.0										0.0			
+
+WashingtonDC	5155515551515																			
+
+																				
+
+				65.0	100.0		15.0	5155515551515.0	0.0											
+
+																				
+
+																	0.0			
+
+MinneapolisMN99	100		155155515551515.0																	
+
+																	0.0			
+
+San FranciscoCA35	100		155155515551515.0																	
+
+																				
+
+							155155515551515.0	0.0												
+
+					100.0															
+
+				13.0	100.0		15.0										0.0			
+
+								5155515551515.0												
+
+																				
+
+																	0.0			
+
+San FranciscoCA24	100		155155515551515.0																	
+
+																				
+
+62	100		15.0	5155515551515.0	0.0															
+
+																				
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0	Unnamed: 1	Unnamed: 2
+
+		
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0
+
+""
+
+Unnamed: 0
+
+""
+
+Unnamed: 0	Unnamed: 1
+
+Unnamed: 0
+
+""
+
+79
+
+9
+
 	Orrick, Herrington & Sutcliffe	33.0	100.0	15.0
 	Cadwalader, Wickersham & Taft	46.0	95.0	15.0
 	Mintz, Levin, Cohn, Ferris,			
 	Paul, Hastings, Janofsky &			
 	Sonnenschein, Nath & Rosenthal	48.0	75.0	15.0
-United Parcel Service Inc.	Atlanta	GA	44	80	15	5	0	0.1	5.1	15.1	5.2	5.3	15.2	15.3	0.2	3a
-Union Pacific Corporation	Omaha	NE	164.0	58.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	7.5	15.0	0.0	
-																3b
-FedEx Corp.	Memphis	TN	70.0	55.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	15.0	15.0	0.0	
-CSX Corp.	Jacksonville	FL	266.0	40.0	15.0	5.0	0.0	5.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	3c
-Industry Average				58.0												
-Cummins Inc.	Columbus	IN	238	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0	5.5
-Owens Corning	Toledo	OH	341.0	100	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	6.0
-ITT Industries Inc.	White Plains	NY	291.0	95	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
-3M Company	St. Paul	MN	101.0	85	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Mohawk Industries Inc.	Calhoun	GA	327.0	65	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	0.0	15.0	0.0	
-Ball Corporation	Broomfield	CO	374.0	58	15.0	5.0	0.0	5.0	5.0	15.0	0.0	5.0	7.5	0.0	0.0	
-Illinois Tool Works Inc.	Glenview	IL	173.0	53	15.0	5.0	0.0	5.0	5.0	0.0	0.0	0.0	7.5	15.0	0.0	
-Deere & Co.	Moline	IL	96.0	48	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	7.5	15.0	0.0	
-United Technologies Corp.	Hartford	CT	43.0	40	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	
-Caterpillar Inc.	Peoria	IL	55.0	35	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	
-Cooper Tire & Rubber	Findlay	OH	770.0	33	0.0	5.0	15.0	5.0	0.0	0.0	0.0	0.0	7.5	0.0	0.0	
-Lauren Manufacturing Co.	New Philadelphia	OH		5	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
-Industry Average				60												
-Bright Horizons Family	Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15
-Solutions Inc.	Watertown	MA		100	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Waste Management Inc.	Houston	TX	170.0	85	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Industry Average				93												City
-Chevron Corp.	San Ramon	CA	4	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0
-Shell Oil Co.	Houston	TX		85	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0
-ConocoPhillips	Houston	TX	6.0	78	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0
-Williams Companies Inc.	Tulsa	OK	180.0	65	15.0	5.0	0.0	5.0	5.0	0.0	0.0	5.0	15.0	15.0	0.0
-Exxon Mobil Corp.	Irving	TX	1.0	0	0.0	5.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	-15.0
-Industry Average				71											
-Bristol-Myers Squibb Co.	New York	NY	110	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0	Unnamed: 0	Unnamed: 1
-																	C
-Eli Lilly & Co.	Indianapolis	IN	148.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-GlaxoSmithKline plc	Philadelphia	PA		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		1a
-Hospira Inc.	Lake Forest	IL	660.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		1b
-Johnson & Johnson	New Brunswick	NJ	32.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-																41.0	2a
-Merck & Co. Inc.	Whitehouse Stn.	NJ	95.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-Pfizer Inc.	New York	NY	31.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		2b
-Schering-Plough Corp.	Kenilworth	NJ	250.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-																	2c
-Novartis Pharmaceutical																	
-Corp.	East Hanover	NJ		95.0	15.0	5.0	15.0	5.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0		3a
-Amgen Inc.	Thousand Oaks	CA	181.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-																	3b
-Aventis Pharmaceuticals Inc.	Bridgewater	NJ		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-Hoffmann-La Roche Inc.	Nutley	NJ		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		3c
-Wyeth	Madison	NJ	119.0	65.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	0.0	0.0		4
-Abbott Laboratories	Abbott Park	IL	93.0	50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	15.0	0.0		
-																	5
-TAP Pharmaceutical																	
-Products Inc.	Lake Forest	IL		50.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	5.0	0.0	0.0	0.0		6
-Biovail Pharmaceuticals Inc.	Bridgewater	NJ		40.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	0.0	0.0	0.0	0.0		
-Bayer Corp.	Pittsburgh	PA		15.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0		
-Industry Average				81.0													
-CMP Media LLC	Manhasset	NY	100 15	5	15	5.1	Unnamed: 0	5.2	15.1	5.3	5 15	15.2	0
-			w w w . h r c . o r g / w o r k p l a c e								C O R P O R A T E  E Q U A L I T Y  I N D E X  2 0 0 6		
-New York Times Co.	New York	NY	557 100 15	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0
-Gannett Co. Inc.	McLean	VA	296 80 15	5.0	0.0	0.0		5.0	15.0	5.0	5 15	15.0	0.0
-McGraw-Hill Companies													
-Inc., The	New York	NY	359 75 15	5.0	0.0	0.0		5.0	15.0	5.0	0 15	15.0	0.0
-Scholastic Corp.	New York	NY	782 50 15	5.0	0.0	0.0		0.0	15.0	0.0	0 15	0.0	0.0
-Morningstar Inc.	Chicago	IL	40 0	0.0	0.0	0.0		0.0	15.0	5.0	5 0	15.0	0.0
-Dow Jones & Co. Inc.	New York	NY	867 30 15	0.0	0.0	0.0		0.0	15.0	0.0	0 0	0.0	0.0
-R.R. Donnelley & Sons Co.	Chicago	IL	265 20 15	5.0	0.0	0.0		0.0	0.0	0.0	0 0	0.0	0.0
-Industry Average			62										
-Unnamed: 0	Best Buy Co. Inc.	Richfield	MN	76	Unnamed: 1	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0	Unnamed: 2
-	Clorox Company	Oakland	CA	460.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-	Estee Lauder Companies	New York	NY	340.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-	Mitchell Gold + Bob Williams	Taylorsville	NC			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-	Replacements Ltd.	McLeansville	NC			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-	S.C. Johnson & Son Inc.	Racine	WI			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-																		City
-	Sears Holdings Corporation	Hoffman Estates	IL	33.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-	Walgreens Co.	Deerfield	IL	45.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-	Whirlpool Corp.	Benton Harbor	MI	152.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-	Borders Group Inc.	Ann Arbor	MI	490.0		95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
-																		State
-	Costco Wholesale Corp.	Issaquah	WA	28.0		93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
-	Staples Inc.	Framingham	MA	137.0		93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	Fortune Rank
-	Mattel Inc.	El Segundo	CA	416.0		88.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
-																		Forbes Rank
-	Home Depot Inc.	Atlanta	GA	14.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-	Kimberly-Clark Corporation	Irving	TX	140.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	AmLaw Rank
-	Target Corp.	Minneapolis	MN	29.0		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	CEI 2006
-42.0	Colgate-Palmolive Co.	New York	NY	204.0		78.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
-																		1a
-	Hallmark Cards Inc.	Kansas City	MO		41.0	75.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-	Rite Aid Corp.	Camp Hill	PA	129.0		70.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	0.0	0.0	1b
-	Amazon.com Inc.	Seattle	WA	272.0		65.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	5.0	15.0	0.0	0.0	
-																		2a
-	Hasbro Inc.	Pawtucket	RI	602.0		65.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	
-	Procter & Gamble Co.	Cincinnati	OH	24.0		65.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	2b
-	Wal-Mart Stores Inc.	Bentonville	AR	2.0		65.0	15.0	5.0	0.0	0.0	5.0	0.0	5.0	5.0	15.0	15.0	0.0	2c
-	GameStop Corp.	Grapevine	TX	601.0		63.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	0.0	7.5	15.0	0.0	
-																		3a
-	Barnes & Noble Inc.	New York	NY	422.0		60.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	15.0	0.0	
-	Deluxe Corp.	Shoreview	MN	873.0		60.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	3b
-	Office Depot Inc.	Delray Beach	FL	154.0		60.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	15.0	0.0	
-																		3c
-	Harry & David Holdings Inc.	Medford	OR			58.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	0.0	7.5	15.0	0.0	
-																		4
-	Circuit City Stores Inc.	Richmond	VA	226.0		55.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	0.0	0.0	0.0	
-	Toys ‘R’ Us Inc.	Wayne	NJ	208.0	13.0	45.0	15.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	5
-	RadioShack Corp.	Fort Worth	TX	423.0		40.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	0.0	0.0	
-																		6
-	Avon Products	New York	NY	281.0		30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
-	AutoZone Inc.	Memphis	TN	378.0		25.0	15.0	5.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
-	Newell Rubbermaid Inc.	Atlanta	GA	332.0		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
-	Meijer	Grand Rapids	MI		10.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
-	Industry Average					70.0												
-AT&T Inc.	San Antonio	TX	39	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0
-BellSouth Corp.	Atlanta	GA	106.0	100	15	5	15	5	5	15	5	5	15	15	0
-Sprint Nextel Corp	Reston	VA	59.0	100	15	5	15	5	5	15	5	5	15	15	0
-Cox Communications Inc.	Atlanta	GA	316.0	95	15	5	15	5	0	15	5	5	15	15	0
-Cingular Wireless	Atlanta	GA		85	15	5	0	5	5	15	5	5	15	15	0
-Comcast Corp.	Philadelphia	PA	94.0	85	15	5	0	5	5	15	5	5	15	15	0
-Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Com
-																Nam
-Verizon Communications Inc.	Basking Ridge	NJ	18.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
-Working Assets Funding																
-Service Inc.	San Francisco	CA		83.0	15.0	0.0	15.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
-Qwest Communications																
-International Inc.	Denver	CO	160.0	70.0	15.0	5.0	0.0	5.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	City
-EarthLink Inc.	Atlanta	GA		63.0	15.0	0.0	0.0	0.0	5.0	15.0	0.0	5.0	7.5	15.0	0.0	
-Verio Inc.	Englewood	CO		50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	0.0	0.0	
-ALLTEL Corp	Little Rock	AR	251.0	30.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	
-Industry Average				79.0												State
-Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Fortune Ran
-Reynolds American Inc.	Winston-Salem	NC	280.0	90	15.0	5.0	15.0	0.0	5.0	15.0	5.0	0.0	15.0	15.0	0.0	
-Industry Average				90												Forbes Rank
-Travelport Inc.	Chicago	IL	Unnamed: 0	95	15	5	15.1	5.1	5.2	15.2	0	5.3	15.3	15.4	0.1	Unnamed: 1	Unnamed: 2
-																	C
-Ryder System Inc.	Miami	FL	375.0	93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0		
-Worldspan Technologies Inc.	Atlanta	GA		90.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	0.0	15.0	15.0	0.0		1a
-Hotels.com, L.P.	Dallas	TX		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
-																	1b
-Cendant Corp.	New York	NY	114.0	75.0	15.0	5.0	0.0	5.0	0.0	15.0	0.0	5.0	15.0	15.0	0.0		
-																43.0	
-Royal Caribbean Cruises Ltd	Miami	FL		55.0	15.0	5.0	0.0	5.0	0.0	0.0	0.0	0.0	15.0	15.0	0.0		2a
-APL Limited	Oakland	CA		30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0		2b
-Industry Average				75.0													
-Consolidated Edison Co.	New York	NY	199 100	15	5	15.1	5.1	Unnamed: 0	5.2	15.2	5.3	5 15	15.3	0	3a
-Keyspan Corp	Brooklyn	NY	295 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
-															3b
-PG&E Corp.	San Francisco	CA	200 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
-Sempra Energy	San Diego	CA	197 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	3c
-Dominion Resources Inc.	Richmond	VA	123 95	15.0	5.0	15.0	5.0		5.0	15.0	0.0	5 15	15.0	0.0	4
-Southern California Edison															
-Company	Rosemead	CA	95	15.0	5.0	15.0	5.0		5.0	15.0	0.0	5 15	15.0	0.0	5
-PacifiCorp	Portland	OR	85	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	6
-DTE Energy Co.	Detroit	MI	259 80	15.0	5.0	0.0	5.0		5.0	15.0	0.0	5 15	15.0	0.0	
-Exelon Corp.	Chicago	IL	144 80	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5 15	15.0	0.0	
-Northeast Utilities System	Berlin	CT	304 80	15.0	5.0	0.0	5.0		5.0	15.0	0.0	5 15	15.0	0.0	
-National Grid USA	Westborough	MA	75	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5 15	15.0	0.0	
-Xcel Energy	Minneapolis	MN	247 75	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5 15	15.0	0.0	
-			w w w . h r c . o r g / w o r k p l a c e									C O R P O R A T E  E Q U A L I T Y  I N D E X  2 0 0			
-Duke Energy Corp.	Charlotte	NC	117 65	15.0	5.0	0.0	5.0		5.0	0.0	0.0	5 15	15.0	0.0	
-Severn Trent Services Inc.	Fort Washington	PA	65	15.0	5.0	15.0	0.0		5.0	15.0	5.0	5 0	0.0	0.0	
-Calpine Corp.	San Jose	CA	275 63	15.0	0.0	0.0	0.0		0.0	15.0	5.0	5 7.5	15.0	0.0	
-Alliant Energy Corp.	Madison	WI	549 60	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5 15	0.0	0.0	
-Baltimore Gas & Electric Co.	Baltimore	MD	55	15.0	0.0	0.0	0.0		0.0	15.0	5.0	5 0	15.0	0.0	
-PPL Corp.	Allentown	PA	350 55	15.0	5.0	0.0	0.0		5.0	0.0	0.0	0 15	15.0	0.0	
-Wisconsin Energy															
-Corporation	Milwaukee	WI	510 55	15.0	5.0	0.0	0.0		5.0	0.0	0.0	0 15	15.0	0.0	
-Progress Energy Inc.	Raleigh	NC	222 53	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5 7.5	0.0	0.0	
-Allegheny Energy	Greensburg	PA	572 50	0.0	5.0	0.0	5.0		0.0	15.0	5.0	5 0	15.0	0.0	
-Reliant Energy Inc.	Houston	TX	220	50	15	5	0	5.1	5.2	0.1	0.2	5.3	15.1	0.3	0.4
-Mirant Corporation	Atlanta	GA	479.0	45	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	0.0	0.0
-PNM Resources Inc.	Albuquerque	NM	785.0	43	15.0	5.0	15.0	0.0	0.0	0.0	0.0	0.0	7.5	0.0	0.0
-Aquila	Kansas City	MO	760.0	35	15.0	0.0	15.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0
-Edison International	Rosemead	CA	194.0	35	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0
-Entergy Corp.	New Orleans	LA	218.0	13	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	7.5	0.0	-15.0
-Industry Average				67											
+United Parcel Service Inc.	Atlanta	GA	44	80	15	5	0	0.1	5.1	15.1	5.2	5.3	15.2	15.3	0.2	3a
+
+Union Pacific Corporation	Omaha	NE	164.0	58.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	7.5	15.0	0.0	
+
+																3b
+
+FedEx Corp.	Memphis	TN	70.0	55.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	15.0	15.0	0.0	
+
+CSX Corp.	Jacksonville	FL	266.0	40.0	15.0	5.0	0.0	5.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	3c
+
+Industry Average				58.0												
+
+Cummins Inc.	Columbus	IN	238	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0	5.5
+
+Owens Corning	Toledo	OH	341.0	100	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	6.0
+
+ITT Industries Inc.	White Plains	NY	291.0	95	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+3M Company	St. Paul	MN	101.0	85	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Mohawk Industries Inc.	Calhoun	GA	327.0	65	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	0.0	15.0	0.0	
+
+Ball Corporation	Broomfield	CO	374.0	58	15.0	5.0	0.0	5.0	5.0	15.0	0.0	5.0	7.5	0.0	0.0	
+
+Illinois Tool Works Inc.	Glenview	IL	173.0	53	15.0	5.0	0.0	5.0	5.0	0.0	0.0	0.0	7.5	15.0	0.0	
+
+Deere & Co.	Moline	IL	96.0	48	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	7.5	15.0	0.0	
+
+United Technologies Corp.	Hartford	CT	43.0	40	15.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	
+
+Caterpillar Inc.	Peoria	IL	55.0	35	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	
+
+Cooper Tire & Rubber	Findlay	OH	770.0	33	0.0	5.0	15.0	5.0	0.0	0.0	0.0	0.0	7.5	0.0	0.0	
+
+Lauren Manufacturing Co.	New Philadelphia	OH		5	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+Industry Average				60												
+
+Bright Horizons Family	Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15
+
+Solutions Inc.	Watertown	MA		100	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Waste Management Inc.	Houston	TX	170.0	85	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Industry Average				93												City
+
+Chevron Corp.	San Ramon	CA	4	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0
+
+Shell Oil Co.	Houston	TX		85	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0
+
+ConocoPhillips	Houston	TX	6.0	78	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0
+
+Williams Companies Inc.	Tulsa	OK	180.0	65	15.0	5.0	0.0	5.0	5.0	0.0	0.0	5.0	15.0	15.0	0.0
+
+Exxon Mobil Corp.	Irving	TX	1.0	0	0.0	5.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	-15.0
+
+Industry Average				71											
+
+Bristol-Myers Squibb Co.	New York	NY	110	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0	Unnamed: 0	Unnamed: 1
+
+																	C
+
+Eli Lilly & Co.	Indianapolis	IN	148.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
+
+GlaxoSmithKline plc	Philadelphia	PA		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		1a
+
+Hospira Inc.	Lake Forest	IL	660.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		1b
+
+Johnson & Johnson	New Brunswick	NJ	32.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
+
+																41.0	2a
+
+Merck & Co. Inc.	Whitehouse Stn.	NJ	95.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
+
+Pfizer Inc.	New York	NY	31.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		2b
+
+Schering-Plough Corp.	Kenilworth	NJ	250.0	100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
+
+																	2c
+
+Novartis Pharmaceutical																	
+
+Corp.	East Hanover	NJ		95.0	15.0	5.0	15.0	5.0	5.0	15.0	0.0	5.0	15.0	15.0	0.0		3a
+
+Amgen Inc.	Thousand Oaks	CA	181.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
+
+																	3b
+
+Aventis Pharmaceuticals Inc.	Bridgewater	NJ		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
+
+Hoffmann-La Roche Inc.	Nutley	NJ		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		3c
+
+Wyeth	Madison	NJ	119.0	65.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	0.0	0.0		4
+
+Abbott Laboratories	Abbott Park	IL	93.0	50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	15.0	0.0		
+
+																	5
+
+TAP Pharmaceutical																	
+
+Products Inc.	Lake Forest	IL		50.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	5.0	0.0	0.0	0.0		6
+
+Biovail Pharmaceuticals Inc.	Bridgewater	NJ		40.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	0.0	0.0	0.0	0.0		
+
+Bayer Corp.	Pittsburgh	PA		15.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0		
+
+Industry Average				81.0													
+
+CMP Media LLC	Manhasset	NY	100 15	5	15	5.1	Unnamed: 0	5.2	15.1	5.3	5 15	15.2	0
+
+			w w w . h r c . o r g / w o r k p l a c e								C O R P O R A T E  E Q U A L I T Y  I N D E X  2 0 0 6		
+
+New York Times Co.	New York	NY	557 100 15	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0
+
+Gannett Co. Inc.	McLean	VA	296 80 15	5.0	0.0	0.0		5.0	15.0	5.0	5 15	15.0	0.0
+
+McGraw-Hill Companies													
+
+Inc., The	New York	NY	359 75 15	5.0	0.0	0.0		5.0	15.0	5.0	0 15	15.0	0.0
+
+Scholastic Corp.	New York	NY	782 50 15	5.0	0.0	0.0		0.0	15.0	0.0	0 15	0.0	0.0
+
+Morningstar Inc.	Chicago	IL	40 0	0.0	0.0	0.0		0.0	15.0	5.0	5 0	15.0	0.0
+
+Dow Jones & Co. Inc.	New York	NY	867 30 15	0.0	0.0	0.0		0.0	15.0	0.0	0 0	0.0	0.0
+
+R.R. Donnelley & Sons Co.	Chicago	IL	265 20 15	5.0	0.0	0.0		0.0	0.0	0.0	0 0	0.0	0.0
+
+Industry Average			62										
+
+Unnamed: 0	Best Buy Co. Inc.	Richfield	MN	76	Unnamed: 1	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0	Unnamed: 2
+
+	Clorox Company	Oakland	CA	460.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+	Estee Lauder Companies	New York	NY	340.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+	Mitchell Gold + Bob Williams	Taylorsville	NC			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+	Replacements Ltd.	McLeansville	NC			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+	S.C. Johnson & Son Inc.	Racine	WI			100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+																		City
+
+	Sears Holdings Corporation	Hoffman Estates	IL	33.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+	Walgreens Co.	Deerfield	IL	45.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+	Whirlpool Corp.	Benton Harbor	MI	152.0		100.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+	Borders Group Inc.	Ann Arbor	MI	490.0		95.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+																		State
+
+	Costco Wholesale Corp.	Issaquah	WA	28.0		93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+
+	Staples Inc.	Framingham	MA	137.0		93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	Fortune Rank
+
+	Mattel Inc.	El Segundo	CA	416.0		88.0	15.0	5.0	15.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+
+																		Forbes Rank
+
+	Home Depot Inc.	Atlanta	GA	14.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+	Kimberly-Clark Corporation	Irving	TX	140.0		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	AmLaw Rank
+
+	Target Corp.	Minneapolis	MN	29.0		80.0	15.0	5.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	CEI 2006
+
+42.0	Colgate-Palmolive Co.	New York	NY	204.0		78.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+
+																		1a
+
+	Hallmark Cards Inc.	Kansas City	MO		41.0	75.0	15.0	0.0	0.0	0.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+	Rite Aid Corp.	Camp Hill	PA	129.0		70.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	0.0	0.0	1b
+
+	Amazon.com Inc.	Seattle	WA	272.0		65.0	15.0	5.0	0.0	5.0	0.0	15.0	5.0	5.0	15.0	0.0	0.0	
+
+																		2a
+
+	Hasbro Inc.	Pawtucket	RI	602.0		65.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	
+
+	Procter & Gamble Co.	Cincinnati	OH	24.0		65.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	2b
+
+	Wal-Mart Stores Inc.	Bentonville	AR	2.0		65.0	15.0	5.0	0.0	0.0	5.0	0.0	5.0	5.0	15.0	15.0	0.0	2c
+
+	GameStop Corp.	Grapevine	TX	601.0		63.0	15.0	5.0	0.0	0.0	5.0	15.0	0.0	0.0	7.5	15.0	0.0	
+
+																		3a
+
+	Barnes & Noble Inc.	New York	NY	422.0		60.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	15.0	0.0	
+
+	Deluxe Corp.	Shoreview	MN	873.0		60.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	3b
+
+	Office Depot Inc.	Delray Beach	FL	154.0		60.0	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	15.0	0.0	
+
+																		3c
+
+	Harry & David Holdings Inc.	Medford	OR			58.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	0.0	7.5	15.0	0.0	
+
+																		4
+
+	Circuit City Stores Inc.	Richmond	VA	226.0		55.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	0.0	0.0	0.0	
+
+	Toys ‘R’ Us Inc.	Wayne	NJ	208.0	13.0	45.0	15.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	5
+
+	RadioShack Corp.	Fort Worth	TX	423.0		40.0	15.0	0.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	0.0	0.0	
+
+																		6
+
+	Avon Products	New York	NY	281.0		30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0	
+
+	AutoZone Inc.	Memphis	TN	378.0		25.0	15.0	5.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+	Newell Rubbermaid Inc.	Atlanta	GA	332.0		15.0	15.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+	Meijer	Grand Rapids	MI		10.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
+	Industry Average					70.0												
+
+AT&T Inc.	San Antonio	TX	39	100	15	5	15.1	5.1	5.2	15.2	5.3	5.4	15.3	15.4	0
+
+BellSouth Corp.	Atlanta	GA	106.0	100	15	5	15	5	5	15	5	5	15	15	0
+
+Sprint Nextel Corp	Reston	VA	59.0	100	15	5	15	5	5	15	5	5	15	15	0
+
+Cox Communications Inc.	Atlanta	GA	316.0	95	15	5	15	5	0	15	5	5	15	15	0
+
+Cingular Wireless	Atlanta	GA		85	15	5	0	5	5	15	5	5	15	15	0
+
+Comcast Corp.	Philadelphia	PA	94.0	85	15	5	0	5	5	15	5	5	15	15	0
+
+Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Com
+
+																Nam
+
+Verizon Communications Inc.	Basking Ridge	NJ	18.0	85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0	
+
+Working Assets Funding																
+
+Service Inc.	San Francisco	CA		83.0	15.0	0.0	15.0	0.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0	
+
+Qwest Communications																
+
+International Inc.	Denver	CO	160.0	70.0	15.0	5.0	0.0	5.0	0.0	15.0	0.0	0.0	15.0	15.0	0.0	City
+
+EarthLink Inc.	Atlanta	GA		63.0	15.0	0.0	0.0	0.0	5.0	15.0	0.0	5.0	7.5	15.0	0.0	
+
+Verio Inc.	Englewood	CO		50.0	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	15.0	0.0	0.0	
+
+ALLTEL Corp	Little Rock	AR	251.0	30.0	15.0	5.0	0.0	0.0	5.0	0.0	0.0	5.0	0.0	0.0	0.0	
+
+Industry Average				79.0												State
+
+Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Fortune Ran
+
+Reynolds American Inc.	Winston-Salem	NC	280.0	90	15.0	5.0	15.0	0.0	5.0	15.0	5.0	0.0	15.0	15.0	0.0	
+
+Industry Average				90												Forbes Rank
+
+Travelport Inc.	Chicago	IL	Unnamed: 0	95	15	5	15.1	5.1	5.2	15.2	0	5.3	15.3	15.4	0.1	Unnamed: 1	Unnamed: 2
+
+																	C
+
+Ryder System Inc.	Miami	FL	375.0	93.0	15.0	5.0	15.0	5.0	5.0	15.0	5.0	5.0	7.5	15.0	0.0		
+
+Worldspan Technologies Inc.	Atlanta	GA		90.0	15.0	5.0	15.0	5.0	0.0	15.0	5.0	0.0	15.0	15.0	0.0		1a
+
+Hotels.com, L.P.	Dallas	TX		85.0	15.0	5.0	0.0	5.0	5.0	15.0	5.0	5.0	15.0	15.0	0.0		
+
+																	1b
+
+Cendant Corp.	New York	NY	114.0	75.0	15.0	5.0	0.0	5.0	0.0	15.0	0.0	5.0	15.0	15.0	0.0		
+
+																43.0	
+
+Royal Caribbean Cruises Ltd	Miami	FL		55.0	15.0	5.0	0.0	5.0	0.0	0.0	0.0	0.0	15.0	15.0	0.0		2a
+
+APL Limited	Oakland	CA		30.0	15.0	0.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0		2b
+
+Industry Average				75.0													
+
+Consolidated Edison Co.	New York	NY	199 100	15	5	15.1	5.1	Unnamed: 0	5.2	15.2	5.3	5 15	15.3	0	3a
+
+Keyspan Corp	Brooklyn	NY	295 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+															3b
+
+PG&E Corp.	San Francisco	CA	200 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+Sempra Energy	San Diego	CA	197 100	15.0	5.0	15.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	3c
+
+Dominion Resources Inc.	Richmond	VA	123 95	15.0	5.0	15.0	5.0		5.0	15.0	0.0	5 15	15.0	0.0	4
+
+Southern California Edison															
+
+Company	Rosemead	CA	95	15.0	5.0	15.0	5.0		5.0	15.0	0.0	5 15	15.0	0.0	5
+
+PacifiCorp	Portland	OR	85	15.0	5.0	0.0	5.0		5.0	15.0	5.0	5 15	15.0	0.0	6
+
+DTE Energy Co.	Detroit	MI	259 80	15.0	5.0	0.0	5.0		5.0	15.0	0.0	5 15	15.0	0.0	
+
+Exelon Corp.	Chicago	IL	144 80	15.0	5.0	0.0	0.0		5.0	15.0	5.0	5 15	15.0	0.0	
+
+Northeast Utilities System	Berlin	CT	304 80	15.0	5.0	0.0	5.0		5.0	15.0	0.0	5 15	15.0	0.0	
+
+National Grid USA	Westborough	MA	75	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5 15	15.0	0.0	
+
+Xcel Energy	Minneapolis	MN	247 75	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5 15	15.0	0.0	
+
+			w w w . h r c . o r g / w o r k p l a c e									C O R P O R A T E  E Q U A L I T Y  I N D E X  2 0 0			
+
+Duke Energy Corp.	Charlotte	NC	117 65	15.0	5.0	0.0	5.0		5.0	0.0	0.0	5 15	15.0	0.0	
+
+Severn Trent Services Inc.	Fort Washington	PA	65	15.0	5.0	15.0	0.0		5.0	15.0	5.0	5 0	0.0	0.0	
+
+Calpine Corp.	San Jose	CA	275 63	15.0	0.0	0.0	0.0		0.0	15.0	5.0	5 7.5	15.0	0.0	
+
+Alliant Energy Corp.	Madison	WI	549 60	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5 15	0.0	0.0	
+
+Baltimore Gas & Electric Co.	Baltimore	MD	55	15.0	0.0	0.0	0.0		0.0	15.0	5.0	5 0	15.0	0.0	
+
+PPL Corp.	Allentown	PA	350 55	15.0	5.0	0.0	0.0		5.0	0.0	0.0	0 15	15.0	0.0	
+
+Wisconsin Energy															
+
+Corporation	Milwaukee	WI	510 55	15.0	5.0	0.0	0.0		5.0	0.0	0.0	0 15	15.0	0.0	
+
+Progress Energy Inc.	Raleigh	NC	222 53	15.0	5.0	0.0	0.0		0.0	15.0	5.0	5 7.5	0.0	0.0	
+
+Allegheny Energy	Greensburg	PA	572 50	0.0	5.0	0.0	5.0		0.0	15.0	5.0	5 0	15.0	0.0	
+
+Reliant Energy Inc.	Houston	TX	220	50	15	5	0	5.1	5.2	0.1	0.2	5.3	15.1	0.3	0.4
+
+Mirant Corporation	Atlanta	GA	479.0	45	15.0	5.0	0.0	0.0	0.0	15.0	5.0	5.0	0.0	0.0	0.0
+
+PNM Resources Inc.	Albuquerque	NM	785.0	43	15.0	5.0	15.0	0.0	0.0	0.0	0.0	0.0	7.5	0.0	0.0
+
+Aquila	Kansas City	MO	760.0	35	15.0	0.0	15.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0
+
+Edison International	Rosemead	CA	194.0	35	15.0	5.0	0.0	0.0	0.0	15.0	0.0	0.0	0.0	0.0	0.0
+
+Entergy Corp.	New Orleans	LA	218.0	13	15.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	7.5	0.0	-15.0									

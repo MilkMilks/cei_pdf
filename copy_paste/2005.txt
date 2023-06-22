@@ -1,0 +1,404 @@
+3M Company St. Paul MN 105 71 71 3 3 3 3 3
+A.G. Edwards Inc. St. Louis MO 43 43 3 3 3
+Abbott Laboratories Abbott Park IL 100 71 71 3 3 3 3 3
+Abercrombie & Fitch Co. New Albany OH 71 71 3 3 3 3 3
+ABN AMRO Holding N.V. Chicago IL 86 86 3 3 3 3 3 3
+Accenture Ltd. New York NY 86 86 3 3 3 3 3 3
+Adobe Systems Inc. San Jose CA 86 86 3 3 3 3 3 3
+Advanced Digital Information Corp. Redmond WA 29 29 3 3
+Advanced Micro Devices Sunnyvale CA 387 71 71 3 3 3 3 3
+Aegon USA New York NY 43 3 3 3
+Aetna Inc. Hartford CT 108 100 100 3 3 3 3 3 3 3
+Affiliated Computer Services Dallas TX 460 86 86 3 3 3 3 3 3
+Agilent Technologies Inc. Palo Alto CA 290 100 100 3 3 3 3 3 3 3
+AIG (American International Group) New York NY 9 43 29 3 3 3
+Air Products & Chemicals Inc. Allentown PA 281 86 71 3 3 3 3 3 3
+Albertson’s Inc. Boise ID 35 71 71 3 3 3 3 3
+Allegheny Energy Hagerstown MD 57 57 3 3 3 3
+Allianz Life Insurance Co. of North America Minneapolis MN 71 3 3 3 3 3
+The Allstate Corp. Northbrook IL 51 86 86 3 3 3 3 3 3
+ALLTEL Corp Little Rock AR 265 29 0 3 3
+Alston & Bird LLP Atlanta GA 100 3 3 3 3 3 3 3
+Altria Group Inc. (Philip Morris Companies Inc.) New York NY 17 71 71 3 3 3 3 3
+Amazon.com Inc. Seattle WA 303 71 71 3 3 3 3 3
+American Airlines Ft. Worth TX 119 100 100 3 3 3 3 3 3 3
+American Express Co. New York NY 62 100 100 3 3 3 3 3 3 3
+American President Lines Ltd. Oakland CA 43 43 3 3 3
+Amgen Inc. Thousand Oaks CA 212 86 71 3 3 3 3 3 3
+Anheuser-Busch Companies Inc. St. Louis MO 139 86 79 3 3 3 3 3 3
+Apple Computer Inc. Cupertino CA 263 100 100 3 3 3 3 3 3 3
+Applebee’s International Inc. Overland Park KS 86 86 3 3 3 3 3 3
+Applied Materials Inc. Santa Clara CA 270 71 71 3 3 3 3 3
+Aquila Kansas City MO 29 29 3 3
+Aramark Corp. Philadelphia PA 219 86 86 3 3 3 3 3 3
+Archer Daniels Midland Co. Decatur IL 44 29 29 3 3
+AT&T Corp. Bedminster NJ 56 100 100 3 3 3 3 3 3 3
+Automatic Data Processing Inc. Roseland NJ 277 43 29 3 3 3
+AutoZone Inc. Memphis TN 350 43 43 3 3 3
+Avaya Inc. Basking Ridge NJ 451 100 100 3 3 3 3 3 3 3
+Aventis Pharmaceuticals Inc. Bridgewater NJ 86 86 3 3 3 3 3 3
+Avnet Inc. Phoenix AZ 217 43 43 3 3 3
+Avon Products New York NY 278 57 57 3 3 3 3
+Baldor Electric Co. Fort Smith AR 29 29 3 3
+Baltimore Gas & Electric Co. Baltimore MD 57 43 3 3 3 3
+Bank of America Corp. Charlotte NC 18 86 86 3 3 3 3 3 3
+Bank of New York Co. New York NY 293 86 86 3 3 3 3 3 3
+Barnes & Noble Inc. New York NY 335 71 71 3 3 3 3 3
+Bausch & Lomb Inc. Rochester NY 100 100 3 3 3 3 3 3 3
+Baxter International Inc. Deerfield IL 237 64 64 3 3 3 3
+Bayer Corp. Pittsburgh PA 29 29 3 3
+BB&T Corp. Winston- Salem NC 312 43 14 3 3 3
+Bear Creek Corp. Medford OR 64 64 3 3 3 3
+BellSouth Corp. Atlanta GA 87 86 86 3 3 3 3 3 3
+Ben and Jerry’s Homemade Inc. South Burlington VT 71 71 3 3 3 3 3
+Best Buy Co. Inc. Richfield MN 77 100 100 3 3 3 3 3 3 3
+Biovail Pharmaceuticals Inc. Bridgewater NJ 57 57 3 3 3 3
+Blockbuster Inc. Dallas TX 71 71 3 3 3 3 3
+The Boeing Co. Chicago IL 25 86 86 3 3 3 3 3 3
+Booz Allen Hamilton Inc. McLean VA 86 86 3 3 3 3 3 3
+Borders Group Inc. Ann Arbor MI 475 100 100 3 3 3 3 3 3 3
+BP America Warrenville IL 100 86 3 3 3 3 3 3 3
+Bridgestone Americas Holding Inc. (Firestone) Nashville TN 57 57 3 3 3 3
+Bright Horizons Family Solutions Inc. Watertown MA 86 71 3 3 3 3 3 3
+Brinker International Inc. Dallas TX 492 86 3 3 3 3 3 3
+Bristol-Myers Squibb Co. New York NY 93 86 86 3 3 3 3 3 3
+California State Automobile Association San Francisco CA 100 71 3 3 3 3 3 3 3
+Calpine Corp. San Jose CA 242 64 79 3 3 3 3
+Campbell Soup Co. Camden NJ 297 71 71 3 3 3 3 3
+Capital One Financial Corp. McLean VA 206 100 100 3 3 3 3 3 3 3
+Caremark RX Nashville TN 73 57 3 3 3 3
+Cargill Inc. Wayzata MN 100 100 3 3 3 3 3 3 3
+Carlson Companies Inc. Minnetonka MN 86 43 3 3 3 3 3 3
+Caterpillar Peoria IL 57 57 57 3 3 3 3
+Cendant Corp. New York NY 107 86 86 3 3 3 3 3 3
+Cerner Corp. Kansas City MO 57 29 3 3 3 3
+CH2M HILL Companies, Ltd. Englewood CO 86 3 3 3 3 3 3
+Chamberlin Edmonds & Associates Inc. Atlanta GA 64 3 3 3 3
+The Charles Schwab Corp. San Fran- cisco CA 411 100 100 3 3 3 3 3 3 3
+Chevron Corp. San Ramon CA 6 100 86 3 3 3 3 3 3 3
+ChoicePoint Inc. Alpharetta GA 100 100 3 3 3 3 3 3 3
+Chubb Corp. Warren NJ 161 100 100 3 3 3 3 3 3 3
+Cigna Corp. Philadelphia PA 122 86 86 3 3 3 3 3 3
+Cinergy Corp. Cincinnati OH 412 71 71 3 3 3 3 3
+Cingular Wireless Atlanta GA 86 86 3 3 3 3 3 3
+Circuit City Stores Inc. Richmond VA 231 43 29 3 3 3
+Cisco Systems San Jose CA 91 100 100 3 3 3 3 3 3 3
+Citigroup Inc. New York NY 8 100 100 3 3 3 3 3 3 3
+Clear Channel Communications Inc. San Antonio TX 239 86 3 3 3 3 3 3
+The Clorox Company Oakland CA 445 57 57 3 3 3 3
+CMP Media LLC Manhasset NY 100 86 3 3 3 3 3 3 3
+The Coca-Cola Company Atlanta GA 92 71 71 3 3 3 3 3
+Coca-Cola Enterprises Atlanta GA 123 57 57 3 3 3 3
+Colgate-Palmolive Co. New York NY 210 79 79 3 3 3 3 3
+Comcast Corp. Philadelphia PA 102 86 3 3 3 3 3 3
+Comerica Inc. Detroit MI 64 3 3 3 3
+Compass Group North America Charlotte NC 71 71 3 3 3 3 3
+ConocoPhillips Houston TX 7 64 64 3 3 3 3
+Consolidated Edison Co. New York NY 228 71 71 3 3 3 3 3
+Continental Airlines Houston TX 232 86 86 3 3 3 3 3 3
+Cooper Tire & Rubber Findlay OH 470 50 3 3 3
+Corning Inc. Corning NY 480 100 3 3 3 3 3 3 3
+Costco Wholesale Corp. Issaquah WA 29 57 43 3 3 3 3
+Countrywide Financial Corp. Calabasas CA 150 86 3 3 3 3 3 3
+Cox Communications Inc. Atlanta GA 322 86 86 3 3 3 3 3 3
+Cracker Barrel Restaurants (CBRL Group Inc.) Lebanon TN 29 29 3 3
+Credit Suisse First Boston New York NY 100 86 3 3 3 3 3 3 3
+CSX Corp. Richmond VA 269 57 3 3 3 3
+Cummins Inc. Columbus IN 257 100 86 3 3 3 3 3 3 3
+D&B (The Dun & Bradstreet Corp.) Short Hills NJ 43 43 3 3 3
+Daimler Chrysler Corp. Auburn Hills MI 100 86 3 3 3 3 3 3 3
+Dana Corp. Toledo OH 201 57 43 3 3 3 3
+Darden Restaurants Orlando FL 386 86 86 3 3 3 3 3 3
+Dean Foods Co. Franklin Park IL 205 64 3 3 3 3
+Deere & Co. Moline IL 106 64 64 3 3 3 3
+Dell Inc. Round Rock TX 28 100 100 3 3 3 3 3 3 3
+Deloitte & Touche New York NY 86 86 3 3 3 3 3 3
+Delphi Troy MI 63 71 71 3 3 3 3 3
+Delta Airlines Inc. Atlanta GA 138 86 86 3 3 3 3 3 3
+Deluxe Corp. Shoreview MN 71 71 3 3 3 3 3
+Deutsche Bank New York NY 100 100 3 3 3 3 3 3 3
+Dole Food Co. Inc. Westlake Village CA 369 71 71 3 3 3 3 3
+Dominion Resources Inc. Richmond VA 151 100 3 3 3 3 3 3 3
+Domino’s Inc. Ann Arbor MI 57 50 3 3 3 3
+Donna Karan New York NY 57 57 3 3 3 3
+Dow Chemical Co. Auburn Hills MI 34 100 86 3 3 3 3 3 3 3
+Dow Jones & Co. Inc. New York NY 43 43 3 3 3
+DPR Construction Redwood City CA 57 57 3 3 3 3
+DTE Energy Co. Detroit MI 296 71 86 3 3 3 3 3
+Duke Energy Charlotte NC 86 71 71 3 3 3 3 3
+DuPont (E. I. du Pont de Nemours) Wilmington DE 66 86 57 3 3 3 3 3 3
+E*TRADE Financial Corporation New York NY 86 86 3 3 3 3 3 3
+EarthLink Inc. Atlanta GA 86 86 3 3 3 3 3 3
+Eastman Kodak Co. Rochester NY 153 100 100 3 3 3 3 3 3 3
+Edison International Rosemead CA 187 71 71 3 3 3 3 3
+Electronic Arts Inc. Redwood City CA 93 93 3 3 3 3 3 3
+Electronic Data Systems Corp. Plano TX 95 86 86 3 3 3 3 3 3
+Eli Lilly & Co. Indianapolis IN 152 86 71 3 3 3 3 3 3
+EMC Corp. Hopkinton MA 266 57 57 3 3 3 3
+Emerson Electric Co. St. Louis MO 134 29 29 3 3
+Entergy Corp. New Orleans LA 221 36 36 3 3
+Ernst & Young New York NY 100 86 3 3 3 3 3 3 3
+Estee Lauder Companies New York NY 346 100 57 3 3 3 3 3 3 3
+Exelon Chicago IL 145 71 3 3 3 3 3
+Exxon Mobil Corp. Irving TX 2 14 14 3
+Faegre & Benson Minneapolis MN 100 100 3 3 3 3 3 3 3
+Fannie Mae Washington DC 86 71 3 3 3 3 3 3
+Federated Department Stores Cincinnati OH 133 86 86 3 3 3 3 3 3
+FedEx Corp. Memphis TN 78 71 57 3 3 3 3 3
+Fifth Third Bancorp Cincinnati OH 317 57 43 3 3 3 3
+Fisher Scientific International Hampton NH 414 43 3 3 3
+Ford Motor Co. Dearborn MI 4 100 100 3 3 3 3 3 3 3
+Franklin Templeton Investments San Mateo CA 29 29 3 3
+Freddie Mac McLean VA 71 71 3 3 3 3 3
+Freescale Semiconductor Inc. Austin TX 100 3 3 3 3 3 3 3
+The Gallup Organization Washington DC 57 57 3 3 3 3
+Gannett Co. Inc. McLean VA 283 86 86 3 3 3 3 3 3
+Gap Inc. San Francisco CA 130 100 86 3 3 3 3 3 3 3
+Gateway Inc. Poway CA 495 71 71 3 3 3 3 3
+Genentech South San Francisco CA 86 86 3 3 3 3 3 3
+General Dynamics Corp. Falls Church VA 115 43 57 3 3 3
+General Electric Co. Fairfield CT 5 86 86 3 3 3 3 3 3
+General Mills Inc. Minneapolis MN 197 100 86 3 3 3 3 3 3 3
+General Motors Corp. Milford MI 3 86 86 3 3 3 3 3 3
+Genuine Parts Co. Atlanta GA 245 29 29 3 3
+Georgia Pacific Atlanta GA 109 71 71 3 3 3 3 3
+The Gillette Co. Boston MA 215 86 86 3 3 3 3 3 3
+GlaxoSmithKline Inc. Philadelphia PA 100 86 3 3 3 3 3 3 3
+Global Hyatt Corp. Chicago IL 100 86 3 3 3 3 3 3 3
+Golden West Financial Corp. Oakland CA 435 57 3 3 3 3
+The Goldman Sachs Group Inc. New York NY 59 100 100 3 3 3 3 3 3 3
+Guidant Corp. Indianapolis IN 485 86 3 3 3 3 3 3
+H. E. Butt Grocery Co. San Antonio TX 43 43 3 3 3
+H. J. Heinz Co. Pittsburgh PA 259 29 29 3 3
+The Hain Celestial Group Inc. Melville NY 43 43 3 3 3
+Hallmark Cards Inc. Kansas City MO 71 57 3 3 3 3 3
+Hannaford Brothers Portland ME 86 86 3 3 3 3 3 3
+Harrah’s Entertainment Inc. Las Vegas NV 396 86 29 3 3 3 3 3 3
+Harris Chicago IL 86 86 3 3 3 3 3 3
+Hartford Financial Services Co. Hartford CT 88 86 86 3 3 3 3 3 3
+Harvard Pilgrim Health Care Inc. Wellesley MA 86 86 3 3 3 3 3 3
+Hasbro Inc. Pawtucket RI 86 86 3 3 3 3 3 3
+Health Net Inc. Woodland Hills CA 185 57 57 3 3 3 3
+Heller, Ehrman, White & McAuliffe San Fran- cisco CA 86 86 3 3 3 3 3 3
+The Hershey Company Hershey PA 436 50 3 3 3
+Hewitt Associates Lincolnshire IL 86 86 3 3 3 3 3 3
+Hewlett-Packard Co. Palo Alto CA 11 100 100 3 3 3 3 3 3 3
+Hilton Hotels Corp. Beverly Hills CA 86 57 3 3 3 3 3 3
+Hoffmann-La Roche Inc. Nutley NJ 86 86 3 3 3 3 3 3
+The Home Depot Inc. Atlanta GA 13 86 71 3 3 3 3 3 3
+Honeywell International Inc. Morristown NJ 75 86 86 3 3 3 3 3 3
+Hormel Foods Corp. Austin MN 402 29 29 3 3
+Host Marriott Bethesda MD 486 57 57 3 3 3 3
+Hotels.com Dallas TX 86 3 3 3 3 3 3
+Howard & Howard Attorneys, PC Kalamazoo MI 50 50 3 3 3
+HSBC USA Inc. New York NY 86 3 3 3 3 3 3
+Humana Inc. Louisville KY 162 57 43 3 3 3 3
+Illinois Tool Works Inc. Glenview IL 183 79 64 3 3 3 3 3
+Imation Corp. Oakdale MN 79 79 3 3 3 3 3
+ING North America Insurance Corp. Atlanta GA 57 3 3 3 3
+Instinet Group Inc. New York NY 57 57 3 3 3 3
+Intel Corp. Santa Clara CA 50 100 100 3 3 3 3 3 3 3
+International Business Machines Corp. Armonk NY 10 100 100 3 3 3 3 3 3 3
+International Paper Co. Stamford CT 70 86 86 3 3 3 3 3 3
+Interpublic Group of Companies Inc. New York NY 332 71 57 3 3 3 3 3
+Intuit Inc. Mountain View CA 100 3 3 3 3 3 3 3
+J.C. Penney Company Inc. Plano TX 74 71 57 3 3 3 3 3
+J.P. Morgan Chase & Co. New York NY 20 100 100 3 3 3 3 3 3 3
+Jenner & Block Chicago IL 100 86 3 3 3 3 3 3 3
+John Hancock Financial Services Inc. Boston MA 93 79 3 3 3 3 3 3
+Johnson & Johnson New Brunswick NJ 30 100 86 3 3 3 3 3 3 3
+Kaiser Permanente Oakland CA 100 86 3 3 3 3 3 3 3
+KB Home Los Angeles CA 300 43 43 3 3 3
+Keane Inc. Boston MA 71 71 3 3 3 3 3
+Kellogg Co. Battle Creek MI 234 71 71 3 3 3 3 3
+Keyspan Corp Brooklyn NY 302 100 100 3 3 3 3 3 3 3
+Kimberly-Clark Irving TX 135 86 71 3 3 3 3 3 3
+Kimpton Hotel & Restaurant Group Inc. San Francisco CA 100 100 3 3 3 3 3 3 3
+KLA-Tencor San Jose CA 79 79 3 3 3 3 3
+Kmart Corp. Troy MI 113 43 57 3 3 3
+Knight Ridder San Jose CA 57 57 3 3 3 3
+KPMG LLP New York NY 100 86 3 3 3 3 3 3 3
+Kraft Foods Inc. Northfield IL 100 100 3 3 3 3 3 3 3
+The Kroger Co. Cincinnati OH 21 57 57 3 3 3 3
+L.L. Bean Inc. Freeport ME 57 57 3 3 3 3
+Lauren Manufacturing Co. New Philadelphia OH 29 29 3 3
+Lear Corp. Southfield MI 127 43 43 3 3 3
+Lehman Brothers Holdings New York NY 94 100 100 3 3 3 3 3 3 3
+Levi Strauss & Co. San Francisco CA 464 100 100 3 3 3 3 3 3 3
+Lexmark International Inc. Lexington KY 370 100 86 3 3 3 3 3 3 3
+Lillian Vernon Corp. Rye NY 71 71 3 3 3 3 3
+Limited Brands Inc. Columbus OH 240 86 86 3 3 3 3 3 3
+Lincoln National Corp. Philadelphia PA 363 100 86 3 3 3 3 3 3 3
+Liz Claiborne Inc. New York NY 418 86 57 3 3 3 3 3 3
+Lockheed Martin Corp. Bethesda MD 47 86 71 3 3 3 3 3 3
+Lucent Technologies Inc. Murray Hill NJ 247 100 100 3 3 3 3 3 3 3
+Marriott International Washington DC 224 86 86 3 3 3 3 3 3
+Marsh & McLennan Companies Inc. New York NY 176 43 43 3 3 3
+Massachusetts Mutual Life Insurance Company Springfield MA 83 57 57 3 3 3 3
+MasterCard Inc. Purchase NY 86 86 3 3 3 3 3 3
+Mattel Inc. El Segundo CA 383 57 57 3 3 3 3
+The May Department Stores Co. St. Louis MO 147 29 29 3 3
+Maytag Corp. Newton IA 410 29 29 3 3
+MBNA Corp. Wilmington DE 171 43 43 3 3 3
+McDonald’s Corp. Oak Brook IL 116 79 57 3 3 3 3 3
+The McGraw-Hill Companies Inc. New York NY 375 86 86 3 3 3 3 3 3
+McKinsey & Co. Inc. New York NY 86 86 3 3 3 3 3 3
+MeadWestvaco Corp. Stamford CT 267 57 29 3 3 3 3
+Meijer Inc. Grand Rapids MI 14 14 3
+Mellon Financial Corp. Pittsburgh PA 391 100 86 3 3 3 3 3 3 3
+The Men’s Wearhouse Inc. Houston TX 71 71 3 3 3 3 3
+Merck & Co. Inc. Whitehouse Station NJ 84 86 86 3 3 3 3 3 3
+Merrill Lynch & Co. New York NY 53 100 86 3 3 3 3 3 3 3
+MetLife (Metropolitan Life Insurance) New York NY 37 100 100 3 3 3 3 3 3 3
+MGM Mirage Las Vegas NV 449 86 3 3 3 3 3 3
+Microsoft Corp. Redmond WA 41 100 86 3 3 3 3 3 3 3
+Miller Brewing Co. Milwaukee WI 100 100 3 3 3 3 3 3 3
+Mitchell Gold and Bob Williams Taylorsville NC 100 100 3 3 3 3 3 3 3
+Mohawk Industries Inc. Calhoun GA 340 71 3 3 3 3 3
+Molson Coors Brewing Company1
+Golden CO 447 100 100 3 3 3 3 3 3 3
+Morgan Stanley New York NY 36 86 86 3 3 3 3 3 3
+Morningstar Inc. Chicago IL 43 43 3 3 3
+Morrison & Foerster San Fran- cisco CA 100 100 3 3 3 3 3 3 3
+Motorola Inc. Schaumburg IL 49 100 100 3 3 3 3 3 3 3
+Mutual of Omaha Insurance Omaha NE 463 86 3 3 3 3 3 3
+National City Corporation Cleveland OH 211 64 57 3 3 3 3
+National Gypsum Charlotte NC 14 14 3
+Nationwide Columbus OH 99 100 100 3 3 3 3 3 3 3
+Navistar International Corp. Warrenville IL 233 43 43 3 3 3
+NCR Corp. Dayton OH 337 100 100 3 3 3 3 3 3 3
+Nestle Purina PetCare Co. St. Louis MO 29 29 3 3
+New York Life Insurance Co. New York NY 68 64 50 3 3 3 3
+New York Times Co. New York NY 100 100 3 3 3 3 3 3 3
+Newell Rubbermaid Inc. Alpharetta GA 304 29 29 3 3
+Nextel Communications Reston VA 157 71 71 3 3 3 3 3
+Nike Inc. Beaverton OR 173 100 100 3 3 3 3 3 3 3
+Nissan North America Gardena CA 29 29 3 3
+Nordstrom Inc. Seattle WA 294 100 86 3 3 3 3 3 3 3
+Northeast Utilities System Berlin CT 310 86 86 3 3 3 3 3 3
+Northern Trust Corp. Chicago IL 100 86 3 3 3 3 3 3 3
+Northrop Grumman Corp. Los Angeles CA 58 86 79 3 3 3 3 3 3
+Northwest Airlines Corp. Eagan MN 190 86 71 3 3 3 3 3 3
+Novartis Pharmaceutical Corp. East Hanover NJ 86 3 3 3 3 3 3
+Office Depot Inc. Delray Beach FL 156 71 43 3 3 3 3 3
+The Olivia Companies LLC Oakland CA 100 3 3 3 3 3 3 3
+Omnicom Group New York NY 230 43 43 3 3 3
+Oracle Corp. Redwood City CA 220 86 86 3 3 3 3 3 3
+Owens Corning Toledo OH 349 100 100 3 3 3 3 3 3 3
+PacifiCare Health Systems Cypress CA 172 64 43 3 3 3 3
+PacifiCorp Portland OR 86 86 3 3 3 3 3 3
+Pathmark Stores Inc. Carteret NJ 467 50 50 3 3 3
+Pennzoil-Quaker State Co. Houston TX 43 43 3 3 3
+PepsiCo Inc. Purchase NY 61 100 100 3 3 3 3 3 3 3
+Perkins & Will Chicago IL 71 71 3 3 3 3 3
+Perot Systems Corp. Plano TX 14 14 3
+Pfizer Inc. New York NY 24 100 100 3 3 3 3 3 3 3
+PG&E Corp. San Francisco CA 196 100 100 3 3 3 3 3 3 3
+Pitney Bowes Inc. Stamford CT 392 79 71 3 3 3 3 3
+PNC Financial Services Group Inc. Pittsburgh PA 323 79 79 3 3 3 3 3
+Polaroid Corp. Waltham MA 86 86 3 3 3 3 3 3
+PPG Industries Pittsburgh PA 236 71 71 3 3 3 3 3
+PPL Corp. Allentown PA 344 71 71 3 3 3 3 3
+PricewaterhouseCoopers International Limited New York NY 86 86 3 3 3 3 3 3
+Principal Financial Group Des Moines IA 253 86 71 3 3 3 3 3 3
+The Procter & Gamble Co. Cincinnati OH 26 86 86 3 3 3 3 3 3
+The Progressive Corp. Mayfield Village OH 155 57 57 3 3 3 3
+Providian Financial Corp. San Francisco CA 86 71 3 3 3 3 3 3
+Prudential Financial Inc. Newark NJ 64 100 100 3 3 3 3 3 3 3
+QUALCOMM Inc. San Diego CA 398 71 71 3 3 3 3 3
+Quest Diagnostics Teterboro NJ 382 86 86 3 3 3 3 3 3
+Qwest Communications International Inc.2
+Denver CO 154 86 86 3 3 3 3 3 3
+R.R. Donnelley & Sons Chicago IL 275 43 29 3 3 3
+RadioShack Corp. Fort Worth TX 399 29 29 3 3
+Raytheon Co. Waltham MA 103 100 86 3 3 3 3 3 3 3
+Reebok International Canton MA 483 79 79 3 3 3 3 3
+Reliant Energy Inc. Houston TX 250 57 3 3 3 3
+Replacements Ltd. McLeansville NC 100 100 3 3 3 3 3 3 3
+Reuters America Holdings Inc. New York NY 57 57 3 3 3 3
+Reynolds American Inc. Winston- Salem NC 321 86 86 3 3 3 3 3 3
+Rite Aid Corp. Camp Hill PA 128 29 29 3 3
+Rockwell Collins Cedar Rapids IA 43 43 3 3 3
+Rohm & Haas Philadelphia PA 287 29 29 3 3
+Ryder System Inc. Miami FL 381 79 79 3 3 3 3 3
+SAFECO Corp. Seattle WA 285 86 86 3 3 3 3 3 3
+Safeway Inc. Pleasanton CA 46 71 71 3 3 3 3 3
+SAP America Newton Square PA 57 57 3 3 3 3
+Sara Lee Corp. Chicago IL 114 86 71 3 3 3 3 3 3
+SBC Communications Inc. San Antonio TX 33 100 86 3 3 3 3 3 3 3
+SC Johnson & Son Inc. Racine WI 100 100 3 3 3 3 3 3 3
+Schering-Plough Corp. Kenilworth NJ 264 86 86 3 3 3 3 3 3
+Scholastic Corp. New York NY 86 86 3 3 3 3 3 3
+Seagate Technology Inc. Scotts Valley CA 86 86 3 3 3 3 3 3
+Sears, Roebuck and Co. Hoffman Estates IL 45 100 86 3 3 3 3 3 3 3
+Sempra Energy San Diego CA 235 86 86 3 3 3 3 3 3
+Shaw Industries Inc. Dalton GA 14 14 3
+Shell Oil Co. Houston TX 86 86 3 3 3 3 3 3
+Siemens Energy & Automation Inc. New York NY 71 71 3 3 3 3 3
+Silicon Graphics Inc. Mountain View CA 86 86 3 3 3 3 3 3
+SLM Corp. (Sallie Mae) Reston VA 378 86 86 3 3 3 3 3 3
+Sodexho Inc. Gaithersburg MD 86 3 3 3 3 3 3
+Software House International Somerset NJ 57 57 3 3 3 3
+Southern California Edison Rosemead CA 100 100 3 3 3 3 3 3 3
+Southwest Airlines Co. Dallas TX 318 64 43 3 3 3 3
+Sprint Corp. Overland Park KS 67 100 71 3 3 3 3 3 3 3
+SRA International Inc. Fairfax VA 71 29 3 3 3 3 3
+St. Paul Travelers Companies Inc. St. Paul MN 85 86 86 3 3 3 3 3 3
+Staples Inc. Framingham MA 146 93 86 3 3 3 3 3 3
+Starbucks Corp. Seattle WA 372 86 86 3 3 3 3 3 3
+Starcom MediaVest Group Chicago IL 79 3 3 3 3 3
+Starwood Hotels & Resorts Worldwide White Plains NY 440 86 86 3 3 3 3 3 3
+State Farm Group Bloomington IL 19 71 71 3 3 3 3 3
+Subaru of America Inc. Cherry Hill NJ 86 86 3 3 3 3 3 3
+Sun Microsystems Santa Clara CA 194 100 86 3 3 3 3 3 3 3
+SunTrust Banks Inc. Atlanta GA 273 100 86 3 3 3 3 3 3 3
+Supervalu Eden Prairie MN 104 71 71 3 3 3 3 3
+TAP Pharmaceutical Products Inc. Lake Forest IL 57 57 3 3 3 3
+Target Corp. Minneapolis MN 27 86 86 3 3 3 3 3 3
+Tech Data Corp. Clearwater FL 110 100 57 3 3 3 3 3 3 3
+Texas Instruments Inc. Dallas TX 166 86 86 3 3 3 3 3 3
+TIAA-CREF New York NY 81 57 57 3 3 3 3
+Time Warner Inc. New York NY 32 86 86 3 3 3 3 3 3
+Toyota Motor Manufacturing North America Inc. New York NY 86 86 3 3 3 3 3 3
+Toyota Motor Sales, U.S.A. Inc. Torrance CA 100 3 3 3 3 3 3 3
+Toys “R” Us Inc. Wayne NJ 192 57 43 3 3 3 3
+UBS New York NY 100 100 3 3 3 3 3 3 3
+Union Pacific Corporation Omaha NE 174 79 3 3 3 3 3
+Unisys Corp. Blue Bell PA 343 100 86 3 3 3 3 3 3 3
+United Airlines (UAL Corp.) Elk Grove Township IL 129 86 86 3 3 3 3 3 3
+United Parcel Service Atlanta GA 42 86 86 3 3 3 3 3 3
+United Technologies Corp. Hartford CT 39 50 3 3 3
+University Hospitals of Cleveland Cleveland OH 71 71 3 3 3 3 3
+UnumProvident Corp.3 Chattanooga TN 208 79 79 3 3 3 3 3
+US Airways Group Arlington VA 295 100 86 3 3 3 3 3 3 3
+US Bancorp Minneapolis MN 143 71 71 3 3 3 3 3
+Verio Inc. Englewood CO 71 71 3 3 3 3 3
+Verizon Communications New York NY 14 86 86 3 3 3 3 3 3
+Vertis Baltimore MD 43 43 3 3 3
+Viacom Inc. New York NY 69 100 86 3 3 3 3 3 3 3
+Vinson & Elkins, L.L.P Houston TX 64 3 3 3 3
+Visa International Foster City CA 71 71 3 3 3 3 3
+Vision Service Plan Rancho Cordova CA 86 86 3 3 3 3 3 3
+Visteon Corp. Dearborn MI 118 86 86 3 3 3 3 3 3
+Vivendi Universal New York NY 71 71 3 3 3 3 3
+Volkswagen of America Inc. Auburn Hills MI 86 86 3 3 3 3 3 3
+Wachovia Corp. Charlotte NC 65 86 86 3 3 3 3 3 3
+Wainwright Bank & Trust Co. Boston MA 86 86 3 3 3 3 3 3
+Walgreens Co. Deerfield IL 38 100 86 3 3 3 3 3 3 3
+Wal-Mart Stores Inc. Bentonville AR 1 57 43 3 3 3 3
+Walt Disney Co. Burbank CA 54 86 86 3 3 3 3 3 3
+Washington Mutual Inc. Seattle WA 131 100 86 3 3 3 3 3 3 3
+Waste Management Inc. Houston TX 168 86 43 3 3 3 3 3 3
+WellPoint Inc. Indianapolis IN 97 86 86 3 3 3 3 3 3
+Wells Fargo & Co. San Fran- cisco CA 52 100 100 3 3 3 3 3 3 3
+Whirlpool Corp. Benton Harbor MI 160 100 100 3 3 3 3 3 3 3
+Whole Foods Market Inc. Austin TX 479 57 57 3 3 3 3
+Williams Companies Inc. Tulsa OK 165 71 71 3 3 3 3 3
+Wisconsin Energy Corporation Milwaukee WI 471 57 3 3 3 3
+Working Assets Funding Service San Fran- cisco CA 71 71 3 3 3 3 3
+Worldspan Technologies Inc. Atlanta GA 100 100 3 3 3 3 3 3 3
+WPP Group USA New York NY 79 57 3 3 3 3 3
+Wyeth Madison NJ 125 64 43 3 3 3 3
+Wyndham International Inc. Dallas TX 100 86 3 3 3 3 3 3 3
+Xcel Energy Minneapolis MN 256 86 86 3 3 3 3 3 3
+Xerox Corp. Stamford CT 132 100 100 3 3 3 3 3 3 3 
