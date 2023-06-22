@@ -1,0 +1,656 @@
+company_name	location	cei_2016	cei_2015	forbes_1000
+"A.T. Kearney Inc. Chicago, IL",l,l,l,l,l,,l,l,l,l,l,,100.0,100.0,,Allscripts-Misys Healthcare Solutions Inc.	Chicago, IL			
+"AAA Northern California, Nevada and Utah Walnut Creek, CA",l,l,l,l,l,,l,l,l,l,l,,100.0,100.0,	Allstate Corp., The	100.0	100.0	81.0
+"Abbott Laboratories Abbott Park, IL",l,l,,l,l,,l,l,l,l,l,,85.0,80.0,80.0,Alston & Bird LLP	Atlanta, GA	100.0	100.0	
+"Abercrombie & Fitch Co. New Albany, OH",l,l,l,l,l,,l,l,l,l,l,,100.0,100.0,607.0,Altria Group Inc.	Richmond, VA			
+"AbitibiBowater Inc. Greenville, SC",,,,,,,,,,,,,0.0,,379.0,Amazon.com Inc.	Seattle, WA	95.0	95.0	130.0
+"Accenture Ltd. New York, NY",l,l,l,l,l,,l,l,l,l,l,,100.0,100.0,,AMC Entertainment Inc.	Kansas City, MO	100.0	100.0	777.0
+"Acer Inc. Irvine, CA",l,l,,,l,,l,l,l,,,,50.0,50.0,,Ameren Corp.	St. Louis, MO	70.0	70.0	327.0
+"Adecco North America LLC Melville, NY",l,l,l,l,l,,l,l,l,,l,,85.0,85.0,,American Eagle Outfitters Inc.	Pittsburgh, PA	93.0		690.0
+"5 pointsAdobe Systems Inc. San Jose, CA",l,l,l,l,,,l,l,l,l,l,,95.0,95.0,601.0,American Electric Power Co. Inc.	Columbus, OH			
+"Advance Auto Parts (Advance Holding) Roanoke, VA",l,,l,,,,,,,,,,30.0,,461.0,American Express Co.	New York, NY	100.0	100.0	74.0
+"Advanced Micro Devices Inc. Sunnyvale, CA",l,l,l,l,l,,l,l,l,w,l,,93.0,75.0,418.0,American Family Insurance Group	Madison, WI	88.0	88.0	388.0
+"AECOM Technology Corp. Los Angeles, CA",l,,,,,,l,,,,,,30.0,,458.0,Ameriprise Financial Inc.	Minneapolis, MN	100.0	100.0	348.0
+"AEGON USA Inc. Cedar Rapids, IA",,l,,l,l,,l,l,l,,,,40.0,40.0,,AmerisourceBergen Corp.	Chesterbrook, PA			
+"AES Corp., The Arlington, VA",l,,,,,,,,,,,,15.0,,158.0,Amgen Inc.	Thousand Oaks, CA		70.0	70.0
+"Aetna Inc. Hartford, CT",l,l,l,l,l,4.0,l,l,l,l,l,,100.0,100.0,77.0,AMR Corp. (American Airlines)	Fort Worth, TX	100.0	100.0	104.0
+"Affiliated Computer Services Dallas, TX",l,l,,,,,l,l,l,,l,,60.0,60.0,401.0,AmTrust Bank	Cleveland, OH	83.0	83.0	
+"AFLAC Inc. Columbus, GA",l,,l,,,,,,,,,,30.0,,152.0,Anadarko Petroleum	The Woodlands, TX			
+"Agco Duluth, GA",l,,,,,,,,,,,,15.0,,306.0,Andrews Kurth LLP	Houston, TX	95.0	70.0	
+"Agilent Technologies Inc. Santa Clara, CA",l,l,l,l,l,,l,l,l,l,l,,100.0,100.0,425.0,Anheuser-Busch Companies Inc.	St. Louis, MO	100.0	100.0	
+"Ahold USA Inc. Quincy, MA",l,l,l,l,l,,l,l,l,w,,,78.0,78.0,,Anixter International Inc.	Glenview, IL			
+"AIG New York, NY",l,l,l,l,l,,l,l,l,l,l,,100.0,85.0,,Aon Corp.	Chicago, IL	100.0	100.0	307.0
+"Air Products & Chemicals Inc. Allentown, PA",l,l,l,l,l,,l,l,l,l,l,,100.0,75.0,248.0,Apache Corp.	Houston, TX			
+"AK Steel Holding Corp. West Chester, OH",,,,,,,,,,,,,0.0,,334.0,Apple Inc.	Cupertino, CA	100.0	100.0	71.0
+"Akin, Gump, Strauss, Hauer & Feld LLP Washington, DC",l,l,l,l,l,,l,l,l,l,l,,100.0,100.0,,31 Applied Materials Inc.	Santa Clara, CA	100.0	100.0	315.0
+"Alaska Air Group Inc. Seattle, WA",l,l,l,l,l,,l,l,l,l,l,,100.0,100.0,591.0,Aramark Corp.	Philadelphia, PA	90.0	75.0	198.0
+"Alcatel-Lucent Murray Hill, NJ",l,l,l,l,l,4.0,l,l,l,l,l,,100.0,100.0,,Archer Daniels Midland Co.	Decatur, IL			
+"Alcoa Inc. New York, NY",l,l,l,l,l,,l,l,l,l,l,,100.0,100.0,90.0,Arent Fox LLP	Washington, DC	100.0	100.0	
+"Aleris International Inc. Beachwood, OH",,,,,,,,,,,,,0.0,,413.0,Arnold & Porter LLP	Washington, DC	100.0	100.0	
+"Allegheny Energy Inc. Greensburg, PA",l,l,,l,,,l,,l,,,,45.0,45.0,630.0,Arrow Electronics	Melville, NY			
+"Allegheny Technologies Inc. Pittsburgh, PA",l,,l,,,,,,,,,,30.0,,448.0,ArvinMeritor Inc.	Troy, MI			
+"Alliant Energy Corp. Madison, WI",l,l,,l,,,l,l,l,l,l,,80.0,80.0,588.0,Asbury Automotive Group	Duluth, GA			
+"Alliant Techsystems Inc. Minneapolis, MN",l,l,l,,l,,l,l,l,,,,65.0,65.0,539.0,Ashland Inc.	Covington, KY			
+Exxon Mobil Corp.	Irving, TX			
+Faegre & Benson LLP	Minneapolis, MN		95.0	100.0
+Family Dollar Stores	Matthews, NC			
+Federal Home Loan Mortgage Corp.	McLean, VA		100.0	100.0
+Federal National Mortgage Association	Washington, DC		100.0	100.0
+FedEx Corp.	Memphis, TN			
+Fenwick & West LLP	Mountain View, CA		100.0	100.0
+Fifth Third Bancorp	Cincinnati, OH		75.0	80.0
+"Finnegan, Henderson, Farabow, Garrett &"	Washington, DC		100.0	100.0
+First Data Corp.	Greenwood Village, CO			
+FirstEnergy Corp.	Akron, OH			
+Fiserv Inc.	Brookfield, WI			
+Fish & Richardson PC	Boston, MA		100.0	95.0
+Fluor Corp.	Irving, TX			
+FMC Technologies Inc.	Houston, TX			
+Foley & Lardner LLP	Milwaukee, WI	85.0	85.0	
+Foley Hoag LLP	Boston, MA		100.0	100.0
+Food Lion LLC	Salisbury, NC		100.0	100.0
+Foot Locker	New York, NY			
+Ford Motor Co.	Dearborn, MI		100.0	100.0
+Fortune Brands Inc.	Deerfield, IL			
+FPL Group Inc.	Juno Beach, FL			
+Franklin Resources Inc.	San Mateo, CA			
+Freeport-McMoRan Copper & Gold Inc.	Phoenix, AZ			
+Freescale Semiconductor Inc.	Austin, TX		100.0	100.0
+"Fried, Frank, Harris, Shriver & Jacobson LLP"	New York, NY		100.0	100.0
+Frontier Oil Corp.	Houston, TX			
+Frost Brown Todd LLC	Cincinnati, OH		95.0	85.0
+Fulbright & Jaworski LLP	Houston, TX		100.0	100.0
+GameStop Corp.	Grapevine, TX		100.0	100.0
+Gannett Co. Inc.	McLean, VA			65.0
+Gap Inc.	San Francisco, CA		100.0	100.0
+Gastronomy Inc.	Salt Lake City, UT			
+	San Francisco, CA			
+General Cable Corp.	Highland Heights., KY			
+General Dynamics Corp.	Falls Church, VA			
+General Electric Co.	Fairfield, CT		80.0	80.0
+General Mills Inc.	Minneapolis, MN		100.0	100.0
+General Motors Co.	Detroit, MI		100.0	100.0
+Genuine Parts Co.	Atlanta, GA			
+Genworth Financial Inc.	Richmond, VA			
+"Gibson, Dunn & Crutcher LLP"	Los Angeles, CA		100.0	100.0
+Gilead Sciences Inc.	Foster City, CA			
+	Park, NC			
+Global Partners	Waltham, MA			
+GMAC LLC	Detroit, MI			
+"Goldman Sachs Group Inc., The"	New York, NY		100.0	100.0
+Goodrich Corp.	Charlotte, NC			
+Goodwin Procter LLP	Boston, MA		100.0	100.0
+Goodyear Tire & Rubber Co.	Akron, OH			
+Google Inc.	Mountain View, CA		100.0	100.0
+Gordon & Rees LLP	San Francisco, CA		95.0	95.0
+"Graybar Electric Company, Inc."	St. Louis, MO			
+"Great Atlantic & Pacific Tea Co. Inc., The"	Montvale, NJ			
+Greenberg Traurig LLP	Miami, FL		100.0	83.0
+Group 1 Automotive	Houston, TX			
+Group Health Cooperative	Seattle, WA		93.0	88.0
+Group Health Permanente	Seattle, WA		90.0	85.0
+"Guardian Life Insurance Co. of America, The"	New York, NY			
+H&R Block Inc.	Kansas City, MO		65.0	65.0
+H.E. Butt Grocery Co.	San Antonio, TX		75.0	75.0
+H.J. Heinz Co.	Pittsburgh, PA			
+Hain Celestial Group Inc.	Melville, NY		85.0	70.0
+Halliburton Co.	Houston, TX			
+Patterson Companies	St. Paul, MN			63.0
+Patton Boggs LLP	Washington, DC		80.0	
+"Paul, Hastings, Janofsky & Walker LLP"	Los Angeles, CA		100.0	100.0
+"Paul, Weiss, Rifkind, Wharton & Garrison"	New York, NY		90.0	80.0
+Peabody Energy Corp.	St. Louis, MO			
+Pearson Inc.	New York, NY		100.0	75.0
+Penske Automotive Group	Bloomfield Hills, MI			
+Pepco Holdings Inc.	Washington, DC		80.0	80.0
+Pepper Hamilton LLP	Philadelphia, PA		100.0	100.0
+PepsiCo Inc.	Purchase, NY		100.0	100.0
+Perini Corporation	Framingham, MA			
+Perkins + Will Inc.	Chicago, IL			
+Perkins Coie LLP	Seattle, WA		100.0	100.0
+Perot Systems Corp.	Plano, TX			
+Peter Kiewit Sons’ Inc.	Omaha, NE			
+PetSmart Inc.	Phoenix, AZ			
+Pfizer Inc.	New York, NY		100.0	100.0
+PG&E Corp.	San Francisco, CA		100.0	100.0
+Philip Morris International Inc.	New York, NY			
+Pilgrim’s Pride Corporation	Pittsburg, TX			
+Pillsbury Winthrop Shaw Pittman LLP	New York, NY		100.0	100.0
+Pinnacle West Capital	Phoenix, AZ			
+Pitney Bowes Inc.	Stamford, CT			
+"Plains All American Pipeline, LP"	Houston, TX			
+"PNC Financial Services Group Inc., The"	Pittsburgh, PA		100.0	85.0
+PNM Resources Inc.	Albuquerque, NM			
+Polaroid Corp.	Waltham, MA			
+Polo Ralph Lauren Corp.	New York, NY			
+Polsinelli Shughart PC	Kansas City, MO		95.0	95.0
+Portland General Electric Co.	Portland, OR		95.0	
+PPG Industries Inc.	Pittsburgh, PA			
+PPL Corp.	Allentown, PA			
+Valassis Communications Inc.	Livonia, MI		80	809.0
+Vertis Inc.	Baltimore, MD			
+Alliant Techsystems Inc.	Minneapolis, MN			
+General Dynamics Corp.	Falls Church, VA			
+Goodrich Corp.	Charlotte, NC			
+L-3 Communications Holdings	New York, NY			
+Precision Castparts Corp.	Portland, OR			
+Textron Inc.	Providence, RI			
+Tenneco Inc.	Lake Forest, IL			
+TRW Automotive Holdings Corp.	Livonia, MI			
+BNP Paribas	New York, NY		100	
+CoreLogic	Westlake, TX		100	398.0
+	New York, NY		100.0	100.0
+	New York, NY	100.0	100.0	82.0
+Toyota Financial Services Corp.	Torrance, CA	100.0	100.0	
+U.S. Bancorp	Minneapolis, MN	100.0	100.0	129.0
+UBS AG	Stamford, CT	100.0	100.0	
+Visa	San Francisco, CA	100.0	100.0	394.0
+Wells Fargo & Co.	San Francisco, CA	100.0	100.0	41.0
+Canadian Imperial Bank of Commerce	New York, NY	95.0	95.0	
+Comerica Inc.	Dallas, TX	95.0	80.0	559.0
+Moody’s Corp.	New York, NY	95.0	90.0	984.0
+Morningstar Inc.	Chicago, IL	95.0	95.0	
+E*TRADE Financial Corp.	New York, NY	93.0	93.0	659.0
+Robert W. Baird & Co. Incorporated	Milwaukee, WI	90.0	90.0	
+BB&T Corp.	Winston-Salem, NC	88.0	73.0	260.0
+AmTrust Bank	Cleveland, OH	83.0	83.0	
+Fifth Third Bancorp	Cincinnati, OH	75.0	80.0	302.0
+Huntington Bancshares Inc.	Columbus, OH			
+H&R Block Inc.	Kansas City, MO	65.0	65.0	556.0
+SLM Corp. (Sallie Mae)	Reston, VA			
+Discover Financial Services	Riverwoods, IL		58.0	58.0
+Chamberlin Edmonds & Associates Inc.	Atlanta, GA			
+Franklin Resources Inc.	San Mateo, CA			50.0
+"Dun & Bradstreet Corp., The"	Short Hills, NJ			
+CIT Group Inc.	New York, NY			
+BlackRock	New York, NY			
+First Data Corp.	Greenwood Village, CO			
+Fiserv Inc.	Brookfield, WI			
+GMAC LLC	Detroit, MI			
+International Assets Holding Corp.	Altamonte Springs, FL			
+"Legg Mason, Inc."	Baltimore, MD			
+NYSE Euronext Inc.	New York, NY			
+Regions Financial	Birmingham, AL			
+SunGard Data Systems Inc.	Wayne, PA			
+"Western Union Co., The"	Englewood, CO			
+	South San Francisco,			
+Ashland Inc.	Covington, KY			
+Avery Dennison	Pasadena, CA			
+Celanese Corp.	Dallas, TX			
+Eastman Chemical Co.	Kingsport, TN			
+Hexion Specialty Chemicals Inc.	Columbus, OH			
+15 pointsHuntsman Corp.	Salt Lake City, UT			
+Lubrizol Corporation	Wickliffe, OH			
+Mosaic Company	Plymouth, MN			
+"Sherwin-Williams Co., The"	Cleveland, OH			
+Broadridge Financial Solutions Inc.	Lake Success, NY		83	835.0
+Science Applications International Corp.	San Diego, CA			
+Ingram Micro	Santa Ana, CA		88	67.0
+Pitney Bowes Inc.	Stamford, CT			
+Acer Inc.	Irvine, CA			
+Software House International	Somerset, NJ			
+Arrow Electronics	Melville, NY			
+"Brightpoint, Inc."	Indianapolis, IN			
+Harris Corp.	Melbourne, FL			
+"Insight Enterprises, Inc."	Tempe, AZ			
+SYNNEX Corp.	Fremont, CA			
+United Stationers Inc.	Deerfield, IL			
+Western Digital Corp.	Lake Forest, CA			
+Allscripts-Misys Healthcare Solutions Inc.	Chicago, IL			
+Kelly Services Inc.	Troy, MI			
+Manpower Inc.	Milwaukee, WI			
+Constellation Energy Group Inc.	Baltimore, MD		100.0	100.0
+Exelon Corp.	Chicago, IL		100.0	95.0
+National Grid USA	Brooklyn, NY		100.0	100.0
+PG&E Corp.	San Francisco, CA		100.0	100.0
+Public Service Enterprise Group	Newark, NJ		100.0	100.0
+Sempra Energy	San Diego, CA		100.0	100.0
+Southern California Edison Co.	Rosemead, CA		100.0	100.0
+Dominion Resources Inc.	Richmond, VA		95.0	95.0
+Entergy Corp.	New Orleans, LA		95.0	95.0
+Portland General Electric Co.	Portland, OR		95.0	
+Xcel Energy Inc.	Minneapolis, MN		95.0	95.0
+PacifiCorp	Portland, OR		93.0	93.0
+NV Energy Inc.	Las Vegas, NV			
+Williams Companies Inc.	Tulsa, OK		85.0	80.0
+Alliant Energy Corp.	Madison, WI		80.0	80.0
+Duke Energy Corp.	Charlotte, NC		80.0	80.0
+Pepco Holdings Inc.	Washington, DC		80.0	80.0
+DTE Energy Co.	Detroit, MI		75.0	75.0
+RRI Energy Inc.	Houston, TX			
+Ameren Corp.	St. Louis, MO		70.0	70.0
+Progress Energy Inc.	Raleigh, NC			
+Southern Co.	Atlanta, GA			
+Northeast Utilities	Berlin, CT			65.0
+Severn Trent Services Inc.	Fort Washington, PA			
+PPL Corp.	Allentown, PA			
+Wisconsin Energy Corp.	Milwaukee, WI			
+Calpine Corp.	Houston, TX			
+"Laclede Group Inc., The"	St. Louis, MO			
+Allegheny Energy Inc.	Greensburg, PA			
+Mirant Corp.	Atlanta, GA			
+Pinnacle West Capital	Phoenix, AZ			
+PNM Resources Inc.	Albuquerque, NM			
+Edison International	Rosemead, CA			
+"AES Corp., The"	Arlington, VA			
+American Electric Power Co. Inc.	Columbus, OH			
+Atmos Energy Corp.	Dallas, TX			
+CenterPoint Energy Inc.	Houston, TX			
+CMS Energy Services	Jackson, MI			
+Edison International	Rosemead, CA			
+Energy Future Holdings Corp.	Dallas, TX			
+"Energy Transfer Partners, LP"	Dallas, TX			
+FirstEnergy Corp.	Akron, OH			
+FPL Group Inc.	Juno Beach, FL			
+Global Partners	Waltham, MA			
+Integrys Energy Group Inc.	Chicago, IL			
+NiSource Inc.	Merrillville, IN			
+NRG Energy Inc.	Princeton, NJ			
+ONEOK Inc.	Tulsa, OK			
+SCANA Corp.	Columbia, SC			
+Targa Resources Partners LP	Houston, TX			
+UGI Corp.	King of Prussia, PA			
+Perkins + Will Inc.	Chicago, IL			
+Jacobs Engineering Group Inc.	Pasadena, CA			
+"Ryland Group Inc., The"	Calabasas, CA			
+AECOM Technology Corp.	Los Angeles, CA			
+Centex Corp.	Dallas, TX			
+DR Horton Inc.	Fort Worth, TX			
+EMCOR Group Inc.	Norwalk, CT			
+Fluor Corp.	Irving, TX			
+KBR Inc.	Houston, TX			
+Perini Corporation	Framingham, MA			
+Peter Kiewit Sons’ Inc.	Omaha, NE			
+Pulte Homes Inc.	Bloomfield Hills, MI			
+"Shaw Group Inc., The"	Baton Rouge, LA			
+URS Corp.	San Francisco, CA			
+CBS Corp.	New York, NY			
+News Corp.	New York, NY			
+Sodexo Inc.	Gaithersburg, MD		100.0	100.0
+Starbucks Corp.	Seattle, WA		100.0	100.0
+Supervalu Inc.	Eden Prairie, MN		100.0	100.0
+ConAgra Foods Inc.	Omaha, NE		95.0	90.0
+E&J Gallo Winery	Modesto, CA		95.0	
+Kraft Foods Inc.	Northfield, IL		95.0	95.0
+Hain Celestial Group Inc.	Melville, NY		85.0	70.0
+McDonald’s Corp.	Oak Brook, IL		85.0	85.0
+Rite Aid Corp.	Camp Hill, PA		85.0	85.0
+Whole Foods Market Inc.	Austin, TX		85.0	85.0
+Hannaford Brothers	Scarborough, ME		83.0	83.0
+Darden Restaurants Inc.	Orlando, FL		80.0	80.0
+Ahold USA Inc.	Quincy, MA			78.0
+Gastronomy Inc.	Salt Lake City, UT			
+Palm Management Corp.	Washington, DC		78.0	78.0
+H.E. Butt Grocery Co.	San Antonio, TX		75.0	75.0
+"Kroger Co., The"	Cincinnati, OH			
+Nestle Purina PetCare Co.	St. Louis, MO		75.0	75.0
+Safeway Inc.	Pleasanton, CA			
+Burger King Corp.	Miami, FL		73.0	68.0
+Dean Foods Co.	Dallas, TX		73.0	73.0
+Mars Inc.	Mt. Olive, NJ			73.0
+H.J. Heinz Co.	Pittsburgh, PA			
+Yum! Brands Inc.	Louisville, KY			65.0
+Domino’s Pizza Inc.	Ann Arbor, MI			
+U.S. Foodservice Inc.	Rosemont, IL			58.0
+Cracker Barrel Old Country Store Inc.	Lebanon, TN			
+Compass Group USA Inc.	Charlotte, NC			
+Dole Food Co. Inc.	Westlake Village, CA			
+C&S Wholesale Grocers Inc.	Keene, NH			
+Archer Daniels Midland Co.	Decatur, IL			
+	Inver Grove Heights,			
+Dr Pepper Snapple Group Inc.	Plano, TX			
+"Great Atlantic & Pacific Tea Co. Inc., The"	Montvale, NJ			
+Hormel Foods Corp.	Austin, MN			
+Nash Finch	Minneapolis, MN			
+Pilgrim’s Pride Corporation	Pittsburg, TX			
+Publix Super Markets	Lakeland, FL			
+Smithfield Foods Inc.	Smithfield, VA			
+SYSCO Corp.	Houston, TX			
+"Tyson Foods, Inc."	Springdale, AR			
+Winn-Dixie Stores Inc.	Jacksonville, FL			
+Domtar Corp.	Fort Mill, SC			
+Blue Cross Blue Shield of Minnesota	Eagan, MN		95	
+Mayo Clinic	Rochester, MN		80	
+CareFusion Corp.	San Diego, CA			75
+McKesson Corp.	San Francisco, CA			
+	St. Paul, MN			63
+Austin Radiological Assn.	Austin, TX			
+Owens & Minor Inc.	Mechanicsville, VA			
+Tenet Healthcare	Dallas, TX			
+Humana Inc.	Louisville, KY			
+AmerisourceBergen Corp.	Chesterbrook, PA			
+Community Health Systems Inc.	Franklin, TN			
+Coventry Health Care	Bethesda, MD			
+DaVita Inc.	El Segundo, CA			
+Express Scripts Inc.	St. Louis, MO			
+HCA - Hospital Corporation of America	Nashville, TN			
+Henry Schein	Melville, NY			
+Medco Health Solutions	Franklin Lakes, NJ			
+Omnicare	Covington, KY			
+Universal Health Services	King of Prussia, PA			
+"WellCare Health Plans, Inc."	Tampa, FL			
+Polaroid Corp.	Waltham, MA			
+Nokia Corp.	Irving, TX			
+Agco	Duluth, GA			
+"Becton, Dickinson and Co."	Franklin Lakes, NJ			
+Boston Scientific Corp.	Natick, MA			
+Broadcom Corp.	Irvine, CA			
+Dover Corp.	New York, NY			
+Eaton Corp.	Cleveland, OH			
+General Cable Corp.	Highland Heights, KY			
+"Graybar Electric Company, Inc."	St. Louis, MO			
+"Manitowoc Company, Inc."	Manitowoc, WI			
+Micron Technology Inc.	Boise, ID			
+Parker Hannifin Corp.	Cleveland, OH			
+Rockwell Automation Inc.	Milwaukee, WI			
+Sanmina-SCI	San Jose, CA			
+SPX Corp.	Charlotte, NC			
+Stryker Corp.	Kalamazoo, MI			
+Terex Corporation	Westport, CT			
+Thermo Fisher Scientific Inc.	Waltham, MA			
+"Timken Co., The"	Canton, OH			
+WESCO International Inc.	Pittsburgh, PA			
+Fortune Brands Inc.	Deerfield, IL			
+Jarden Corp.	Rye, NY			
+Leggett & Platt Inc.	Carthage, MO			
+Masco Corp.	Taylor, MI			
+Host Hotels & Resorts Inc.	Bethesda, MD			
+CUNA Mutual Insurance Group	Madison, WI			
+"Guardian Life Insurance Co. of America, The"	New York, NY			
+Loews Corp.	New York, NY			
+AEGON USA Inc.	Cedar Rapids, IA			
+AFLAC Inc.	Columbus, GA			
+Assurant	New York, NY			
+Auto-Owners Insurance Group	Lansing, MI			
+Berkshire Hathaway Inc.	Omaha, NE			
+Genworth Financial Inc.	Richmond, VA			
+Liberty Mutual Group	Boston, MA			
+Northwestern Mutual Life Insurance	Milwaukee, WI			
+Thrivent Financial for Lutherans	Minneapolis, MN			
+United Services Automobile Association	San Antonio, TX			
+Universal American Corp.	Rye Brook, NY			
+W.R. Berkley	Greenwich, CT			
+Western & Southern Financial Group	Cincinnati, OH			
+eBay Inc.	San Jose, CA		303.0	
+Google Inc.	Mountain View, CA		117.0	
+Yahoo! Inc.	Sunnyvale, CA		345.0	
+Amazon.com Inc.	Seattle, WA		130.0	
+Hanover Direct Inc.	Weehawken, NJ			
+Expedia Inc.	Bellevue, WA		699.0	
+Liberty Media Corp.	Englewood, CO			
+"Akin, Gump, Strauss, Hauer & Feld LLP"	Washington, DC			31.0
+Alston & Bird LLP	Atlanta, GA			50.0
+Arent Fox LLP	Washington, DC			122.0
+Arnold & Porter LLP	Washington, DC			56.0
+Baker & Daniels LLP	Indianapolis, IN			172.0
+Baker & McKenzie	Chicago, IL			2.0
+Baker Botts LLP	Houston, TX			43.0
+Ballard Spahr LLP	Philadelphia, PA			96.0
+Bingham McCutchen LLP	Boston, MA		100.0	100.0
+Brown Rudnick LLP	Boston, MA		100.0	100.0
+Bryan Cave LLP	St. Louis, MO		100.0	100.0
+Carlton Fields PA	Tampa, FL		100.0	100.0
+Chapman and Cutler LLP	Chicago, IL		100.0	100.0
+"Choate, Hall & Stewart LLP"	Boston, MA		100.0	
+"Cleary, Gottlieb, Steen & Hamilton LLP"	New York, NY		100.0	100.0
+Clifford Chance US LLP	New York, NY		100.0	100.0
+Covington & Burling LLP	Washington, DC		100.0	100.0
+"Cravath, Swaine & Moore LLP"	New York, NY		100.0	100.0
+Crowell & Moring LLP	Washington, DC		100.0	95.0
+"Davis, Polk & Wardwell LLP"	New York, NY		100.0	100.0
+Debevoise & Plimpton LLP	New York, NY		100.0	100.0
+Dewey & LeBoeuf LLP	New York, NY		100.0	100.0
+Dickstein Shapiro LLP	Washington, DC		100.0	100.0
+DLA Piper	Baltimore, MD		100.0	100.0
+Dorsey & Whitney LLP	Minneapolis, MN		100.0	100.0
+Drinker Biddle & Reath LLP	Philadelphia, PA		100.0	95.0
+Duane Morris LLP	Philadelphia, PA		100.0	100.0
+Edwards Angell Palmer & Dodge LLP	Boston, MA		100.0	100.0
+Fenwick & West LLP	Mountain View, CA		100.0	100.0
+	Washington, DC		100.0	100.0
+Fish & Richardson PC	Boston, MA		100.0	95.0
+Foley Hoag LLP	Boston, MA		100.0	100.0
+"Fried, Frank, Harris, Shriver & Jacobson LLP"	New York, NY		100.0	100.0
+Fulbright & Jaworski LLP	Houston, TX		100.0	100.0
+"Gibson, Dunn & Crutcher LLP"	Los Angeles, CA		100.0	100.0
+Goodwin Procter LLP	Boston, MA		100.0	100.0
+Greenberg Traurig LLP	Miami, FL		100.0	83.0
+Haynes and Boone LLP	Dallas, TX		100.0	100.0
+Hinshaw & Culbertson LLP	Chicago, IL		100.0	100.0
+Hogan Lovells US LLP	Washington, DC		100.0	100.0
+Holland & Knight LLP	Washington, DC		100.0	100.0
+Howrey LLP	Washington, DC		100.0	100.0
+Hunton & Williams LLP	Richmond, VA		100.0	100.0
+Husch Blackwell Sanders LLP	Kansas City, MO		100.0	100.0
+Jenner & Block LLP	Chicago, IL		100.0	100.0
+K&L Gates LLP	Pittsburgh, PA		100.0	
+Katten Muchin Rosenman LLP	Chicago, IL		100.0	100.0
+Kaye Scholer LLP	New York, NY		100.0	100.0
+Kelley Drye & Warren LLP	New York, NY		100.0	95.0
+Kirkland & Ellis LLP	Chicago, IL		100.0	100.0
+Kramer Levin Naftalis & Frankel LLP	New York, NY		100.0	100.0
+Latham & Watkins LLP	New York, NY		100.0	100.0
+Littler Mendelson PC	San Francisco, CA		100.0	100.0
+"Manatt, Phelps & Phillips LLP"	Los Angeles, CA		100.0	100.0
+Mayer Brown LLP	Chicago, IL		100.0	100.0
+McDermott Will & Emery LLP	Chicago, IL		100.0	100.0
+"Milbank, Tweed, Hadley & McCloy LLP"	New York, NY		100.0	100.0
+	Boston, MA		100.0	100.0
+Morgan Lewis & Bockius LLP	Philadelphia, PA		100.0	100.0
+Morrison & Foerster LLP	San Francisco, CA		100.0	100.0
+Nixon Peabody LLP	New York, NY		100.0	100.0
+O’Melveny & Myers LLP	Washington, DC		100.0	100.0
+"Orrick, Herrington & Sutcliffe LLP"	San Francisco, CA		100.0	100.0
+Patterson Belknap Webb & Tyler LLP	New York, NY		100.0	100.0
+"Paul, Hastings, Janofsky & Walker LLP"	Los Angeles, CA		100.0	100.0
+Pepper Hamilton LLP	Philadelphia, PA		100.0	100.0
+Perkins Coie LLP	Seattle, WA		100.0	100.0
+Pillsbury Winthrop Shaw Pittman LLP	New York, NY		100.0	100.0
+Proskauer Rose LLP	New York, NY		100.0	100.0
+Quarles & Brady LLP	Milwaukee, WI		100.0	100.0
+"Robins, Kaplan, Miller & Ciresi LLP"	Minneapolis, MN		100.0	100.0
+Ropes & Gray LLP	Boston, MA		100.0	100.0
+Schiff Hardin LLP	Chicago, IL		100.0	80.0
+"Sedgwick, Detert, Moran & Arnold LLP"	San Francisco, CA		100.0	100.0
+Seyfarth Shaw LLP	Chicago, IL		100.0	100.0
+Shearman & Sterling LLP	New York, NY		100.0	100.0
+"Sheppard, Mullin, Richter & Hampton LLP"	Los Angeles, CA		100.0	95.0
+"Shook, Hardy & Bacon LLP"	Kansas City, MO		100.0	100.0
+Sidley Austin LLP	Chicago, IL		100.0	100.0
+"Skadden, Arps, Slate, Meagher & Flom LLP"	New York, NY		100.0	100.0
+"Sonnenschein, Nath & Rosenthal LLP"	Chicago, IL		100.0	100.0
+"Squire, Sanders & Dempsey LLP"	Cleveland, OH		100.0	100.0
+Stinson Morrison Hecker LLP	Kansas City, MO		100.0	100.0
+Stoel Rives LLP	Portland, OR		100.0	100.0
+Sullivan & Cromwell LLP	New York, NY		100.0	100.0
+Sutherland Asbill & Brennan LLP	Atlanta, GA		100.0	100.0
+Thompson Coburn LLP	St. Louis, MO		100.0	100.0
+Townsend and Townsend and Crew LLP	San Francisco, CA		100.0	
+Troutman Sanders LLP	Atlanta, GA		100.0	100.0
+Vinson & Elkins LLP	Houston, TX		100.0	100.0
+"Wachtell, Lipton, Rosen & Katz LLP"	New York, NY		100.0	100.0
+"Weil, Gotshal & Manges LLP"	New York, NY		100.0	100.0
+White & Case LLP	New York, NY		100.0	100.0
+Willkie Farr & Gallagher LLP	New York, NY		100.0	100.0
+Wilmer Cutler Pickering Hale & Dorr LLP	Washington, DC		100.0	100.0
+Wilson Sonsini Goodrich & Rosati PC	Palo Alto, CA		100.0	100.0
+Winston & Strawn LLP	Chicago, IL		100.0	100.0
+Andrews Kurth LLP	Houston, TX		95.0	70.0
+"Cadwalader, Wickersham & Taft LLP"	New York, NY		95.0	95.0
+Chadbourne & Parke LLP	New York, NY		95.0	90.0
+Davis Wright Tremaine LLP	Seattle, WA		95.0	95.0
+Faegre & Benson LLP	Minneapolis, MN		95.0	100.0
+Frost Brown Todd LLC	Cincinnati, OH		95.0	85.0
+Gordon & Rees LLP	San Francisco, CA		95.0	95.0
+Herrick Feinstein LLP	New York, NY		95.0	95.0
+Kilpatrick Stockton LLP	Atlanta, GA		95.0	95.0
+King & Spalding LLP	Atlanta, GA		95.0	95.0
+Polsinelli Shughart PC	Kansas City, MO			187.0
+Reed Smith LLP	Pittsburgh, PA			16.0
+"Simpson, Thacher & Bartlett LLP"	New York, NY		95	
+Holland & Hart LLP	Denver, CO			142.0
+McCarter & English LLP	Newark, NJ			124.0
+"Paul, Weiss, Rifkind, Wharton & Garrison LLP"	New York, NY			37.0
+Steptoe & Johnson LLP	Washington, DC			75.0
+Foley & Lardner LLP	Milwaukee, WI			35.0
+Kutak Rock LLP	Omaha, NE			150.0
+Luce Forward Hamilton & Scripps LLP	San Diego, CA			
+"Vorys, Sater, Seymour & Pease LLP"	Columbus, OH			156.0
+Epstein Becker & Green PC	New York, NY			136.0
+Lindquist & Vennum PLLP	Minneapolis, MN		80	
+"McKenna, Long & Aldridge LLP"	Atlanta, GA			107.0
+Patton Boggs LLP	Washington, DC		80	
+"Schulte, Roth &  Zabel LLP"	New York, NY			68.0
+"Wildman, Harrold, Allen & Dixon LLP"	Chicago, IL			
+Williams Mullen PC	Richmond, VA			80
+Dykema Gossett PLLC	Detroit, MI			
+Locke Lord Bissell & Liddell LLP	Chicago, IL			69.0
+Nelson Mullins Riley & Scarborough LLP	Columbia, SC			139.0
+	Memphis, TN			
+Saul Ewing LLP	Philadelphia, PA			181.0
+Womble Carlyle Sandridge & Rice PLLC	Winston-Salem, NC			
+Holme Roberts & Owen LLP	Denver, CO			185.0
+Howard & Howard Attorneys PLLC	Kalamazoo, MI			
+United Parcel Service Inc. (UPS)	Atlanta, GA		43.0	
+Union Pacific Corp.	Omaha, NE		143.0	
+FedEx Corp.	Memphis, TN		59.0	
+Norfolk Southern Corp.	Norfolk, VA		256.0	
+YRC Worldwide Inc.	Overland Park, KS			
+Burlington Northern Santa Fe Corp.	Fort Worth, TX			
+MeadWestvaco Corp.	Glen Allen, VA			
+Mohawk Industries Inc.	Calhoun, GA			
+Baldor Electric Co.	Fort Smith, AR			
+Crown Holdings	Philadelphia, PA			
+Danaher Corp.	Washington, DC			
+Jabil Circuit Inc.	St. Petersburg, FL			
+Oshkosh Corp.	Oshkosh, WI			
+Owens-Illinois Inc.	Perrysburg, OH			
+Sealed Air Corp.	Elmwood Park, NJ			
+AK Steel Holding Corp.	West Chester, OH			
+Aleris International Inc.	Beachwood, OH			
+Allegheny Technologies Inc.	Pittsburgh, PA			
+Anadarko Petroleum	The Woodlands, TX			
+Apache Corp.	Houston, TX			
+Chesapeake Energy Corp.	Oklahoma City, OK			
+Commercial Metals	Irving, TX			
+CONSOL Energy Inc.	Canonsburg, PA			
+Devon Energy Corp.	Oklahoma City, OK			
+EOG Resources	Houston, TX			
+Freeport-McMoRan Copper & Gold Inc.	Phoenix, AZ			
+Icahn Enterprises LP	New York, NY			
+"MDU Resources Group, Inc."	Bismarck, ND			
+	Greenwood Village,			
+Nucor Corp.	Charlotte, NC			
+Occidental Petroleum	Los Angeles, CA			
+Peabody Energy Corp.	St. Louis, MO			
+Reliance Steel & Aluminum Co.	Los Angeles, CA			
+"Steel Dynamics, Inc."	Fort Wayne, IN			
+United States Steel Corp.	Pittsburgh, PA			
+XTO Energy Inc.	Fort Worth, TX			
+Anixter International Inc.	Glenview, IL			
+Genuine Parts Co.	Atlanta, GA			
+Smurfit-Stone Container Corp.	Chicago, IL			
+W.W. Grainger	Lake Forest, IL			
+Marathon Oil Corp.	Houston, TX			
+Exxon Mobil Corp.	Irving, TX			
+Baker Hughes Inc.	Houston, TX			
+BJ Services Company	Houston, TX			
+Cameron International Corp.	Houston, TX			
+"Crosstex Energy, Inc."	Dallas, TX			
+CVR Energy Inc.	Sugar Land, TX			
+El Paso Corp.	Houston, TX			
+Enbridge Energy Partners	Houston, TX			
+Enterprise GP Holdings LP	Houston, TX			
+FMC Technologies Inc.	Houston, TX			
+Frontier Oil Corp.	Houston, TX			
+Halliburton Co.	Houston, TX			
+Hess Corp.	New York, NY			
+Holly Corp.	Dallas, TX			
+Kinder Morgan Inc.	Houston, TX			
+Murphy Oil	El Dorado, AR			
+"National Oilwell Varco, Inc."	Houston, TX			
+NuStar Energy LP	San Antonio, TX			
+"Plains All American Pipeline, LP"	Houston, TX			
+Smith International Inc.	Houston, TX			
+Sunoco Inc.	Philadelphia, PA			
+Tesoro Corp.	San Antonio, TX			
+Valero Energy Corp.	San Antonio, TX			
+Western Refining Inc.	El Paso, TX			
+World Fuel Services	Miami, FL			
+	Park, NC			
+	tion, NJ			
+"Astellas Pharma US, Inc."	Deerfield, IL			63
+Gilead Sciences Inc.	Foster City, CA			
+Mylan Laboratories Inc.	Canonsburg, PA			
+Houghton Mifflin Harcourt Publishing Co.	Boston, MA			
+AbitibiBowater Inc.	Greenville, SC			
+ProLogis	Denver, CO			
+"Bon-Ton Stores, Inc."	York, PA		100	
+J.C. Penney Co. Inc.	Plano, TX		100.0	95.0
+Kimberly-Clark Corp.	Irving, TX		100.0	100.0
+Liz Claiborne Inc.	New York, NY		100.0	100.0
+Mattel Inc.	El Segundo, CA		100.0	95.0
+Newell Rubbermaid Inc.	Atlanta, GA		100.0	100.0
+Nordstrom Inc.	Seattle, WA		100.0	100.0
+Procter & Gamble Co.	Cincinnati, OH		100.0	100.0
+Recreational Equipment Inc.	Kent, WA		100.0	100.0
+Replacements Ltd.	McLeansville, NC		100.0	100.0
+S.C. Johnson & Son Inc.	Racine, WI		100.0	100.0
+Sears Holdings Corp.	Hoffman Estates, IL		100.0	100.0
+Staples Inc.	Framingham, MA		100.0	93.0
+"TJX Companies Inc., The"	Framingham, MA		100.0	100.0
+Unilever	Englewood Cliffs, NJ		100.0	100.0
+Walgreen Co.	Deerfield, IL		100.0	100.0
+Limited Brands Inc.	Columbus, OH		95.0	95.0
+OfficeMax Inc.	Naperville, IL		95.0	90.0
+Sony Electronics Inc.	San Diego, CA		95.0	
+American Eagle Outfitters Inc.	Pittsburgh, PA		93.0	
+Tiffany & Co.	New York, NY		93.0	73.0
+Avon Products Inc.	New York, NY		90.0	90.0
+Best Buy Co. Inc.	Richfield, MN	85.0	100.0	56.0
+"Home Depot Inc., The"	Atlanta, GA		85.0	85.0
+Target Corp.	Minneapolis, MN	85.0	100.0	28.0
+Harry & David Holdings Inc.	Medford, OR		83.0	83.0
+"Brown Shoe Company, Inc."	St. Louis, MO		75.0	
+Toys ‘R’ Us Inc.	Wayne, NJ			
+Regis Corp.	Edina, MN			
+"Black & Decker Corp., The"	Towson, MD			
+Hasbro Inc.	Pawtucket, RI			
+"Men’s Wearhouse Inc., The"	Houston, TX			
+Office Depot Inc.	Boca Raton, FL			
+RadioShack Corp.	Fort Worth, TX			
+Wal-Mart Stores Inc.	Bentonville, AR			
+AutoZone Inc.	Memphis, TN			
+Meijer Inc.	Grand Rapids, MI			
+Kohl’s Corp.	Menomonee Falls, WI			
+Advance Auto Parts (Advance Holding)	Roanoke, VA			
+B J’s Wholesale Club	Natick, MA			
+Bed Bath & Beyond Inc.	Union, NJ			
+Big Lots	Columbus, OH			
+Blockbuster Inc.	Dallas, TX			
+Dillard’s Inc.	Little Rock, AR			
+Dollar General Corp.	Goodlettsville, TN			
+"Dollar Tree Stores, Inc."	Chesapeake, VA			
+Family Dollar Stores	Matthews, NC			
+Foot Locker	New York, NY			
+"Lowe’s Companies, Inc."	Mooresville, NC			
+"Pantry Inc., The"	Sanford, NC			
+PetSmart Inc.	Phoenix, AZ			
+Ross Stores	Pleasanton, CA			
+TravelCenters of America LLC	Westlake, OH			
+Time Warner Cable Inc.	New York, NY		95	
+T-Mobile USA Inc.	Bellevue, WA			
+Cablevision Systems Corp.	Bethpage, NY			
+DIRECTV	El Segundo, CA			
+DISH Network Corp.	Englewood, CO			
+Embarq Corp.	Overland Park, KS			
+Liberty Global Inc.	Englewood, CO			
+Telephone & Data Systems Inc. (U.S. Cellular)	Chicago, IL			
+Virgin Media Inc.	New York, NY			
+Altria Group Inc.	Richmond, VA			
+Philip Morris International Inc.	New York, NY			
+Brunswick Corp.	Lake Forest, IL			
+C. H. Robinson Worldwide	Eden Prairie, MN			
+Con-way Inc.	San Mateo, CA			
+"Expeditors International of Washington, Inc."	Seattle, WA			
+Harley-Davidson Inc.	Milwaukee, WI			
