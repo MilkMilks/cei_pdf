@@ -2,9 +2,11 @@ import os
 import tabula
 import re
 
+
 def extract_tables_from_pdf(pdf_path):
     # Read PDF and extract tables
-    tables = tabula.read_pdf(pdf_path, pages='all', multiple_tables=True, stream=True)
+    tables = tabula.read_pdf(pdf_path, pages='all',
+                             multiple_tables=True, stream=True)
 
     # Get the year from the PDF file name
     year = os.path.basename(pdf_path).split('.')[0]
@@ -17,7 +19,8 @@ def extract_tables_from_pdf(pdf_path):
     # Create the output TSV file
     tsv_path = os.path.join(output_folder, f"{year}_cei.tsv")
     with open(tsv_path, 'w', encoding='utf-8') as tsv_file:
-        tsv_file.write("company_name\tlocation\tcei_2016\tcei_2015\tforbes_1000\n")
+        tsv_file.write(
+            "company_name\tlocation\tcei_{0}\tcei_{1}\tforbes_1000\n".format(year, int(year)+1))
 
         # Iterate through each table and save as CSV
         for i, table in enumerate(tables, start=1):
@@ -33,15 +36,22 @@ def extract_tables_from_pdf(pdf_path):
             pattern = r'^(.*?),"([^"]+)",.*?,((?:\d+\.?\d*|),(?:\d+\.?\d*|),(?:\d+\.?\d*|),)'
             matches = re.findall(pattern, csv_contents, re.MULTILINE)
 
-            # Write extracted information to the output TSV file
-            for match in matches:
-                company_name = match[0].strip()
-                location = match[1].strip()
-                last_fields = match[2].rstrip(',').split(',')
-                cei_2016 = last_fields[0] if len(last_fields) >= 1 else ""
-                cei_2015 = last_fields[1] if len(last_fields) >= 2 else ""
-                forbes_rank = last_fields[2] if len(last_fields) >= 3 else ""
-                tsv_file.write(f"{company_name}\t{location}\t{cei_2016}\t{cei_2015}\t{forbes_rank}\n")
+            # If matches found, write extracted information to the output TSV file
+            if matches:
+                for match in matches:
+                    company_name = match[0].strip()
+                    location = match[1].strip()
+                    last_fields = match[2].rstrip(',').split(',')
+                    cei_2016 = last_fields[0] if len(last_fields) >= 1 else ""
+                    cei_2015 = last_fields[1] if len(last_fields) >= 2 else ""
+                    forbes_rank = last_fields[2] if len(
+                        last_fields) >= 3 else ""
+                    tsv_file.write(
+                        f"{company_name}\t{location}\t{cei_2016}\t{cei_2015}\t{forbes_rank}\n")
+            else:
+                # Write the entire table to the output TSV file
+                table.to_csv(tsv_file, sep='\t', index=False)
+                print(f"Entire table from {year} saved as {tsv_path}")
 
     print(f"Extracted information from {year} saved as {tsv_path}")
 

@@ -1,1 +1,584 @@
-company_name	location	cei_2016	cei_2015	forbes_1000
+company_name	location	cei_2002	cei_2003	forbes_1000
+__	Yes, we have a company wide policy
+__	Only in one or more subsidiaries or labor agreements
+__	We do not have such a policy, but are working toward this in the next one year
+__	We do not have such a policy
+2.	Does your firm have a written policy barring employment discrimination based on, and using the words, “gender
+	identity” or “gender expression?”
+__	Yes, we have a company wide policy
+__	Only in one or more subsidiaries or labor agreements
+__	We do not have such a policy, but are working toward this in the next one year
+__	We do not have such a policy
+3.	Does your company offer health insurance coverage to your employees’ domestic partners?
+__	We do not offer domestic partner health benefits and have no plans to offer them
+__	We do not offer domestic partner health benefits, but plan to offer them in the next one year
+__	Yes, to same-sex partners only
+__	Yes, to opposite-sex partners only
+Sexual orientation	___	___.1	___.2
+Gender identity	___	___	___
+Religion	___	___	___
+Race/ethnicity	___	___	___
+Gender	___	___	___
+Other	___	___	___
+Aetna Inc.	Hartford	CT	100
+AMR Corp./American Airlines10,11	Dallas-Fort Worth Airport	TX	100
+Apple Computer Inc.	Cupertino	CA	100
+Avaya Inc.	Basking Ridge	NJ	100
+Eastman Kodak Co.10	Rochester	NY	100
+Intel Corp.	Santa Clara	CA	100
+J.P. Morgan Chase & Co.	New York	NY	100
+Lucent Technologies Inc.	Murray Hill	NJ	100
+NCR Corp.	Dayton	OH	100
+Nike Inc.10	Beaverton	OR	100
+Replacements Ltd.	Greensboro	NC	100
+Worldspan L.P.	Atlanta	GA	100
+Xerox Corp.	Stamford	CT	100
+ABN AMRO	Chicago	IL	86
+Accenture	Chicago	IL	86
+Agilent Technologies Inc.10	Wilmington	DE	86
+American Express Co.	New York	NY	86
+AOL Time Warner Inc.	New York	NY	86
+AT&T12	New York	NY	86
+Bank of America Corp.	Charlotte	NC	86
+Bank One Corp.	Chicago	IL	86
+Bausch & Lomb Inc.	Rochester	NY	86
+BellSouth Corp.	Atlanta	GA	86
+Booz Allen Hamilton	McLean	VA	86
+BP (formerly BP Amoco) 10	Chicago	IL	86
+Capital One Financial Corp.10	Falls Church	VA	86
+ChevronTexaco Corp.	San Ramon	CA	86
+Chubb Corp.	Warren	NJ	86
+Cingular Wireless	Atlanta	GA	86
+Citigroup Inc.	New York	NY	86
+Compaq Computer Corp.	Houston	TX	86
+Coors Brewing Co.10, 13	Golden	CO	86
+Daimler Chrysler Corp.	Auburn Hills	MI	86
+Deloitte Touche Tohmatsu International	New York	NY	86
+E*TRADE Group Inc.	Menlo Park	CA	86
+FleetBoston Financial Corp.10	Boston	MA	86
+Ford Motor Co.	Dearborn	MI	86
+Gannett Co. Inc.	Arlington	VA	86
+General Mills Inc.10	Minneapolis	MN	86
+General Motors	Detroit	MI	86
+GlaxoSmithKline Inc.	Research Triangle Park	NC	86
+Goldman Sachs Investment Banking	New York	NY	86
+Harris Trust & Savings Bank	Chicago	IL	86
+Hartford Financial Services Co.	Hartford	CT	86
+Hewlett-Packard Co.10	Palo Alto	CA	86
+Honeywell International Inc.	Morristown	NJ	86
+IBM (International Business Machines Corp.)	Armonk	NY	86
+John Hancock Financial Services Inc.	Boston	MA	86
+Kaiser Permanente Foundation Health Plan Inc.	Oakland	CA	86
+KPMG, LLP	Montvale	NJ	86
+Levi Strauss & Co.	San Francisco	CA	86
+Lincoln National Corp.	Philadelphia	PA	86
+McKinsey & Co. Inc.	New York	NY	86
+Merck & Co. Inc.	Whitehouse Station	NJ	86
+Merrill Lynch & Co.	New York	NY	86
+Microsoft Corp.10	Redmond	WA	86
+Mitchell Gold Co.	Taylorsville	NC	86
+Motorola Inc.	Schaumburg	IL	86
+Northern Trust Corp.	Chicago	IL	86
+Pfizer	New York	NY	86
+PG&E Corp.	San Francisco	CA	86
+Polaroid Corp.	Cambridge	MA	86
+PricewaterhouseCoopers	New York	NY	86
+Prime Access Inc.	New York	NY	86
+Procter & Gamble	Cincinnati	OH	86
+Prudential Financial Inc.10	Newark	NJ	86
+Quark Inc.	Denver	CO	86
+Qwest Communications International Inc.	Englewood	CO	86
+Raytheon Co.	Lexington	MA	86
+SBC Communications Inc.	San Antonio	TX	86
+SC Johnson & Son Inc.	Racine	WI	86
+Scholastic Corp.	New York	NY	86
+SGI	Mountain View	CA	86
+Shell Oil Co.10	Houston	TX	86
+St. Paul Companies	St. Paul	MN	86
+Starbucks Corp.	Seattle	WA	86
+Subaru of America Inc.	Cherry Hill	NJ	86
+Sun Microsystems	Palo Alto	CA	86
+Target Corp.	Minneapolis	MN	86
+Texas Instruments Inc.	Dallas	TX	86
+The Charles Schwab Corp.10	San Francisco	CA	86
+The Gillette Co.	Boston	MA	86
+UAL/United Airlines Inc.	Elk Grove	IL	86
+UBS (Paine Webber)	New York	NY	86
+Unisys	Blue Bell	PA	86
+US Airways Group	Arlington	VA	86
+US Bancorp	Minneapolis	MN	86
+Verizon Communications	New York	NY	86
+Vivendi Universal	New York	NY	86
+Wachovia Corp.	Charlotte	NC	86
+Walgreens Co.	Deerfield	IL	86
+Walt Disney Co.	Burbank	CA	86
+USA Education Inc. (Sallie Mae)	Reston	VA	71
+Verio Inc.	Englewood	CO	71
+Viacom Inc.	New York	NY	71
+Vision Service Plan	Rancho Cordova	CA	71
+Wainwright Bank	Boston	MA	71
+Working Assets Funding Service	San Francisco	CA	71
+Agouron Pharmaceuticals	La Jolla	CA	57
+Allegheny Energy	Hagerstown	MD	57
+Arhaus	Columbus	OH	57
+Avon Products	New York	NY	57
+Barnes & Noble	New York	NY	57
+Baxter International	Deerfield	IL	57
+Cinergy Corp.	Cincinnati	OH	57
+Cisco Systems	San Jose	CA	57
+Colgate-Palmolive	New York	NY	57
+Compass Group North America	Charlotte	NC	57
+Continental Airlines	Houston	TX	57
+Digitaria Interactive Inc.	San Diego	CA	57
+Donna Karan	New York	NY	57
+DPR Construction	Redwood City	CA	57
+Du Pont (E. I. du Pont de Nemours)	Wilmington	DE	57
+Dun & Bradstreet	New York	NY	57
+Electronic Data Systems Corp.	Plano	TX	57
+Ernst and Young	New York	NY	57
+Estee Lauder Companies	New York	NY	57
+Federated Department Stores	Cincinnati	OH	57
+Gap Inc.	San Francisco	CA	57
+General Dynamics Corp.	Falls Church	VA	57
+Health Net	Woodland Hills	CA	57
+Home Depot	Atlanta	GA	57
+Kimberly-Clark	Dallas	TX	57
+Knight-Ridder Newspapers Inc.	San Jose	CA	57
+L.L. Bean Inc.	Freeport	ME	57
+Liz Claiborne Inc.	New York	NY	57
+Marimba Inc.	Mountain View	CA	57
+MassMutual Life Insurance	Springfield	MA	57
+Miller Brewing Co.	Milwaukee	WI	57
+Minnesota Mining and Manufacturing (3M)	St. Paul	MN	57
+Nextel Communications	Reston	VA	57
+Northrop Grumman Corp.	Los Angeles	CA	57
+Pharmacia Corp.	Peapack	NJ	57
+Philip Morris	New York	NY	57
+Pitney Bowes	Stamford	CT	57
+PPG Industries	Pittsburgh	PA	57
+Principal Financial Group	Des Moines	IA	57
+Quaker Oats Co.	Chicago	IL	57
+Reuters America Holdings Inc.	New York	NY	57
+Software House International	Somerset	NJ	57
+SunTrust Banks Inc.	Atlanta	GA	57
+Tech Data Corp.	Clearwater	FL	57
+The Gallup Organization	Princeton	NJ	57
+The Middleware Co.	Austin	TX	57
+The Progressive Corp.	Mayfield Village	OH	57
+Times Mirror Co.	Los Angeles	CA	57
+University Hospitals of Cleveland	Cleveland	OH	57
+Visa International	Foster City	CA	57
+Whole Foods Market Inc.	Austin	TX	57
+WPP Group USA	New York	NY	57
+Abercrombie & Fitch Co.	New Albany	OH	43
+American President Lines	Oakland	CA	43
+Amgen Inc.	Thousand Oaks	CA	43
+Anheuser-Busch	St. Louis	MO	43
+Anthem Insurance	Indianapolis	IN	43
+Avnet Inc.	Great Neck	NY	43
+Baltimore Gas & Electric Co.	Baltimore	MD	43
+Bridgestone/Firestone Inc.	Nashville	TN	43
+Cambridge Technology Group	Cambridge	MA	43
+Campbell Soup Co.	Camden	NJ	43
+Carlson Companies Inc.	Minneapolis	MN	43
+Celestial Seasonings	Boulder	CO	43
+Cendant Corp.	New York	NY	43
+Cigna	Philadelphia	PA	43
+Costco Wholesale	Issaquah	WA	43
+Dana Corp.	Toledo	OH	43
+Dow Jones	New York	NY	43
+EMC Corp.	Hopkinton	MA	43
+Gateway Inc.	North Sioux City	SD	43
+General Electric	Fairfield	CT	43
+Harvard Pilgrim Health Care Inc.	Quincy	MA	43
+Hilton Hotels	Beverly Hills	CA	43
+Howard & Howard Attorneys, PC	Bloomfield Hills	MI	43
+Humana Inc.	Louisville	KY	43
+Instinet Group Inc.	New York	NY	43
+True North Communications Inc.	Chicago	IL	43
+J.C. Penney Corp. Inc.	Plano	TX	43
+Johnson & Johnson	New Brunswick	NJ	43
+Kmart	Troy	MI	43
+Latrobe Brewing Co.	Latrobe	PA	43
+Lehman Brothers Holdings	New York	NY	43
+Lexmark International Inc.	Lexington	KY	43
+Marriott International	Bethesda	MD	43
+Marsh & McLennan	New York	NY	43
+Mattel Inc.	El Segundo	CA	43
+McDonald’s Corp.	Oakbrook	IL	43
+McGraw-Hill	New York	NY	43
+Mellon Financial Corp.	Pittsburgh	PA	43
+Morgan Stanley Dean Witter & Co.	New York	NY	43
+Ortho-Neutrogena	Los Angeles	CA	43
+Northern Telecom Inc.	Nashville	TN	43
+NW Ayer & Partners Inc.	New York	NY	43
+Office Depot	Delray Beach	FL	43
+Omnicom Group	New York	NY	43
+Owens Corning	Toledo	OH	43
+PacifiCare Health Systems	Santa Ana	CA	43
+Pacificorp	Portland	OR	43
+Pennzoil-Quaker State Co.	Houston	TX	43
+Rockwell Collins - Passenger Systems	Pomona	CA	43
+Safeway	Oakland	CA	43
+SAP America	Newton Square	PA	43
+Sara Lee Corp.	Chicago	IL	43
+Schering-Plough Corp.	Madison	NJ	43
+Scudder Kemper Investments	New York	NY	43
+Seagate Technology Inc.	Scotts Valley	CA	43
+Sears, Roebuck and Co.	Chicago	IL	43
+Southwest Airlines	Dallas	TX	43
+State Farm Group	Bloomington	IL	43
+The Williams Companies Inc.	Tulsa	OK	43
+Toys R Us	Framingham	MA	43
+UnumProvident Corp.14	Portland	ME	43
+Whirlpool Corp.	Benton Harbor	MI	43
+A.G. Edwards Inc.	St. Louis	MO	29
+Advanced Digital Information Corp.	Redmond	WA	29
+AIG (American International Group)	New York	NY	29
+Albertson’s Inc.	Boise	ID	29
+Applied Materials & Engineering Inc.	San Francisco	CA	29
+Archer Daniels Midland Co.	Decatur	IL	29
+Automatic Data Processing Inc.	Roseland	NJ	29
+Baldor Electric Co.	Fort Smith	AR	29
+Bank of New York Co.	New York	NY	29
+Bayer Corp.	Pittsburgh	PA	29
+Bethlehem Steel	Bethlehem	PA	29
+Circuit City Stores Inc.	Richmond	VA	29
+Coca-Cola Enterprises	Atlanta	GA	29
+Comark Inc.	Bloomingdale	IL	29
+Dole Food Co. Inc.	Westlake Village	CA	29
+Eli Lilly & Co.	Indianapolis	IN	29
+Franklin Templeton Investments	San Mateo	CA	29
+Genuine Parts Co.	Atlanta	GA	29
+H. E. Butt Grocery	San Antonio	TX	29
+H. J. Heinz Co.	Pittsburgh	PA	29
+Hallmark Cards	Kansas City	MO	29
+Hannaford Brothers	Scarborough	ME	29
+Hasbro Inc.	Pawtucket	RI	29
+Hormel Foods	Austin	MN	29
+Market Name	Employer Name	City	State	Rating
+Advertising and Marketing	Prime Access Inc.	New York	NY	86
+Advertising and Marketing	WPP Group USA	New York	NY	57
+Advertising and Marketing	True North Communications Inc.	Chicago	IL	43
+Advertising and Marketing	NW Ayer & Partners Inc.	New York	NY	43
+Advertising and Marketing	Omnicom Group	New York	NY	43
+Aerospace and Defense	Honeywell International Inc.	Morristown	NJ	86
+Aerospace and Defense	Raytheon Co.	Lexington	MA	86
+Aerospace and Defense	General Dynamics Corp.	Falls Church	VA	57
+Aerospace and Defense	Northrop Grumman Corp.	Los Angeles	CA	57
+Aerospace and Defense	Lockheed Martin Corp.	Bethesda	MD	0
+Airlines	AMR Corp./American Airlines	Dallas-Fort Worth Airport	TX	100
+Airlines	UAL/United Airlines Inc.	Elk Grove	IL	86
+Airlines	US Airways Group	Arlington	VA	86
+Airlines	Delta Airlines Inc.	Atlanta	GA	71
+Airlines	Northwest Airlines	Eagan	MN	71
+Airlines	Continental Airlines	Houston	TX	57
+Airlines	Southwest Airlines	Dallas	TX	43
+Apparel and Dept. Stores	Nike Inc.	Beaverton	OR	100
+Apparel and Dept. Stores	Levi Strauss & Co.	San Francisco	CA	86
+Apparel and Dept. Stores	Nordstrom	Seattle	WA	71
+Apparel and Dept. Stores	Reebok International	Stoughton	MA	71
+Apparel and Dept. Stores	The Limited Inc.	Columbus	OH	71
+Apparel and Dept. Stores	The Men’s Wearhouse Inc.	Houston	TX	71
+Apparel and Dept. Stores	Donna Karan	New York	NY	57
+Apparel and Dept. Stores	Federated Department Stores	Cincinnati	OH	57
+Apparel and Dept. Stores	Gap Inc.	San Francisco	CA	57
+Apparel and Dept. Stores	L.L. Bean Inc.	Freeport	ME	57
+Apparel and Dept. Stores	Liz Claiborne Inc.	New York	NY	57
+Apparel and Dept. Stores	Abercrombie & Fitch Co.	New Albany	OH	43
+Apparel and Dept. Stores	J.C. Penney Corp. Inc.	Plano	TX	43
+Apparel and Dept. Stores	The May Department Stores Co.	St. Louis	MO	29
+Automotive	Daimler Chrysler Corp.	Auburn Hills	MI	86
+Automotive	Ford Motor Co.	Dearborn	MI	86
+Automotive	General Motors	Detroit	MI	86
+Automotive	Subaru of America Inc.	Cherry Hill	NJ	86
+Automotive	Delphi Automotive	Troy	MI	71
+Automotive	Toyota North America Inc.	Erlanger	KY	71
+Automotive	Bridgestone/Firestone Inc.	Nashville	TN	43
+Automotive	Dana Corp.	Toledo	OH	43
+Automotive	Pennzoil-Quaker State Co.	Houston	TX	43
+Automotive	Genuine Parts Co.	Atlanta	GA	29
+Automotive	Lear Corp.	Southfield	MI	29
+Automotive	Volkswagen of America Inc.	Auburn Hills	MI	29
+Banking and Financial Services	J.P. Morgan Chase & Co.	New York	NY	100
+Banking and Financial Services	ABN AMRO	Chicago	IL	86
+Market Name	Employer Name	City	State	Rating
+Banking and Financial Services	American Express Co.	New York	NY	86
+Banking and Financial Services	Bank of America Corp.	Charlotte	NC	86
+Banking and Financial Services	Bank One Corp.	Chicago	IL	86
+Banking and Financial Services	Capital One Financial Corp.	Falls Church	VA	86
+Banking and Financial Services	Citigroup Inc.	New York	NY	86
+Banking and Financial Services	E*TRADE Group Inc.	Menlo Park	CA	86
+Banking and Financial Services	FleetBoston Financial Corp.	Boston	MA	86
+Banking and Financial Services	Goldman Sachs Investment Banking	New York	NY	86
+Banking and Financial Services	Harris Trust & Savings Bank	Chicago	IL	86
+Banking and Financial Services	Merrill Lynch & Co.	New York	NY	86
+Banking and Financial Services	Northern Trust Corp.	Chicago	IL	86
+Banking and Financial Services	Prudential Financial Inc.	Newark	NJ	86
+Banking and Financial Services	The Charles Schwab Corp.	San Francisco	CA	86
+Banking and Financial Services	UBS (Paine Webber)	New York	NY	86
+Banking and Financial Services	US Bancorp	Minneapolis	MN	86
+Banking and Financial Services	Wachovia Corp.	Charlotte	NC	86
+Banking and Financial Services	Washington Mutual Savings Bank	Seattle	WA	86
+Banking and Financial Services	Wells Fargo & Co.	San Francisco	CA	86
+Banking and Financial Services	Deluxe Corp.	Shoreview	MN	71
+Banking and Financial Services	Fannie Mae	Washington	DC	71
+Banking and Financial Services	Freddie Mac	McLean	VA	71
+Banking and Financial Services	Providian Financial Corp.	San Francisco	CA	71
+Banking and Financial Services	USA Education Inc. (Sallie Mae)	Reston	VA	71
+Banking and Financial Services	Wainwright Bank	Boston	MA	71
+Banking and Financial Services	Working Assets Funding Service	San Francisco	CA	71
+Banking and Financial Services	SunTrust Banks Inc.	Atlanta	GA	57
+Banking and Financial Services	Visa International	Foster City	CA	57
+Banking and Financial Services	Dow Jones	New York	NY	43
+Banking and Financial Services	General Electric	Fairfield	CT	43
+Banking and Financial Services	Instinet Group Inc.	New York	NY	43
+Banking and Financial Services	Lehman Brothers Holdings	New York	NY	43
+Banking and Financial Services	Marsh & McLennan	New York	NY	43
+Banking and Financial Services	Mellon Financial Corp.	Pittsburgh	PA	43
+Banking and Financial Services	Morgan Stanley Dean Witter & Co.	New York	NY	43
+Banking and Financial Services	Scudder Kemper Investments	New York	NY	43
+Banking and Financial Services	A.G. Edwards Inc.	St. Louis	MO	29
+Banking and Financial Services	Bank of New York Co.	New York	NY	29
+Banking and Financial Services	Franklin Templeton Investments	San Mateo	CA	29
+Banking and Financial Services	MBNA Corp.	Wilmington	DE	29
+Banking and Financial Services	Morningstar Inc.	Chicago	IL	29
+Chemicals and Biotechnology	Air Products & Chemicals Inc.	Allentown	PA	71
+Chemicals and Biotechnology	Dow Chemical Co.	Midland	MI	71
+Chemicals and Biotechnology	Du Pont (E. I. du Pont de Nemours)	Wilmington	DE	57
+Chemicals and Biotechnology	PPG Industries	Pittsburgh	PA	57
+Computer and Data Services	SGI	Mountain View	CA	86
+Computer and Data Services	Unisys	Blue Bell	PA	86
+Computer and Data Services	Arise Communications Inc.	Oakland	CA	71
+Computer and Data Services	Digitaria Interactive Inc.	San Diego	CA	57
+Market Name	Employer Name	City	State	Rating
+Computer and Data Services	Electronic Data Systems Corp.	Plano	TX	57
+Computer and Data Services	Automatic Data Processing Inc.	Roseland	NJ	29
+Computer and Data Services	Perot Systems Corp.	Dallas	TX	14
+Computer Software	Microsoft Corp.	Redmond	WA	86
+Computer Software	Quark Inc.	Denver	CO	86
+Computer Software	Adobe Systems	San Jose	CA	71
+Computer Software	Oracle Corp.	Redwood Shores	CA	71
+Computer Software	Marimba Inc.	Mountain View	CA	57
+Computer Software	The Middleware Co.	Austin	TX	57
+Computer Software	Cambridge Technology Group	Cambridge	MA	43
+Computer Software	SAP America	Newton Square	PA	43
+Computer Software	Advanced Digital Information Corp.	Redmond	WA	29
+Computers and Office Equipment	Apple Computer Inc.	Cupertino	CA	100
+Computers and Office Equipment	NCR Corp.	Dayton	OH	100
+Computers and Office Equipment	Xerox Corp.	Stamford	CT	100
+Computers and Office Equipment	Compaq Computer Corp.	Houston	TX	86
+Computers and Office Equipment	Hewlett-Packard Co.	Palo Alto	CA	86
+Computers and Office Equipment	International Business Machines Corp.	Armonk	NY	86
+Computers and Office Equipment	Sun Microsystems	Palo Alto	CA	86
+Computers and Office Equipment	Dell Computer Corp.	Austin	TX	71
+Computers and Office Equipment	Pitney Bowes	Stamford	CT	57
+Computers and Office Equipment	Software House International	Somerset	NJ	57
+Computers and Office Equipment	Tech Data Corp.	Clearwater	FL	57
+Computers and Office Equipment	Avnet Inc.	Great Neck	NY	43
+Computers and Office Equipment	EMC Corp.	Hopkinton	MA	43
+Computers and Office Equipment	Gateway Inc.	North Sioux City	SD	43
+Computers and Office Equipment	Lexmark International Inc.	Lexington	KY	43
+Computers and Office Equipment	Seagate Technology Inc.	Scotts Valley	CA	43
+Computers and Office Equipment	Comark Inc.	Bloomingdale	IL	29
+Computers and Office Equipment	Quantum	Milpitas	CA	29
+Computers and Office Equipment	Radioshack	Fort Worth	TX	29
+Consulting	Accenture	Chicago	IL	86
+Consulting	Booz Allen Hamilton	McLean	VA	86
+Consulting	Deloitte Touche Tohmatsu International	New York	NY	86
+Consulting	Hewitt Associates	Lincolnshire	IL	86
+Consulting	KPMG, LLP	Montvale	NJ	86
+Consulting	McKinsey & Co. Inc.	New York	NY	86
+Consulting	PricewaterhouseCoopers	New York	NY	86
+Consulting	Ernst and Young	New York	NY	57
+Consulting	The Gallup Organization	Princeton	NJ	57
+Engineering and Construction	DPR Construction	Redwood City	CA	57
+Engineering and Construction	The Williams Companies Inc.	Tulsa	OK	43
+Engineering and Construction	Applied Materials & Engineering Inc.	San Francisco	CA	29
+Engineering and Construction	Bethlehem Steel	Bethlehem	PA	29
+Engineering and Construction	Illinois Tool Works Inc.	Glenview	IL	29
+Entertainment and Publishing	AOL Time Warner Inc.	New York	NY	86
+Entertainment and Publishing	Gannett Co. Inc.	Arlington	VA	86
+Entertainment and Publishing	Scholastic Corp.	New York	NY	86
+Market Name	Employer Name	City	State	Index
+Entertainment and Publishing	Vivendi Universal	New York	NY	86
+Entertainment and Publishing	Walt Disney Co.	Burbank	CA	86
+Entertainment and Publishing	Blockbuster Inc.	Dallas	TX	71
+Entertainment and Publishing	New York Times Co.	New York	NY	71
+Entertainment and Publishing	Viacom Inc.	New York	NY	71
+Entertainment and Publishing	Dun & Bradstreet	New York	NY	57
+Entertainment and Publishing	Knight-Ridder Newspapers Inc.	San Jose	CA	57
+Entertainment and Publishing	Reuters America Holdings Inc.	New York	NY	57
+Entertainment and Publishing	Times Mirror Co.	Los Angeles	CA	57
+Entertainment and Publishing	McGraw-Hill	New York	NY	43
+Entertainment and Publishing	R.R. Donnelley & Sons	Chicago	IL	29
+Food, Beverages and Groceries	Coors Brewing Co.	Golden	CO	86
+Food, Beverages and Groceries	General Mills Inc.	Minneapolis	MN	86
+Food, Beverages and Groceries	Starbucks Corp.	Seattle	WA	86
+Food, Beverages and Groceries	Ben and Jerry's Homemade Inc.	South Burlington	VT	71
+Food, Beverages and Groceries	Darden Restaurants	Orlando	FL	71
+Food, Beverages and Groceries	Kellogg Co.	Battle Creek	MI	71
+Food, Beverages and Groceries	The Coca-Cola Co.	Atlanta	GA	71
+Food, Beverages and Groceries	Compass Group North America	Charlotte	NC	57
+Food, Beverages and Groceries	Miller Brewing Co.	Milwaukee	WI	57
+Food, Beverages and Groceries	Quaker Oats Co.	Chicago	IL	57
+Food, Beverages and Groceries	Whole Foods Market Inc.	Austin	TX	57
+Food, Beverages and Groceries	Anheuser-Busch	St. Louis	MO	43
+Food, Beverages and Groceries	Campbell Soup Co.	Camden	NJ	43
+Food, Beverages and Groceries	Celestial Seasonings	Boulder	CO	43
+Food, Beverages and Groceries	Costco Wholesale	Issaquah	WA	43
+Food, Beverages and Groceries	Latrobe Brewing Co.	Latrobe	PA	43
+Food, Beverages and Groceries	McDonald's Corp.	Oakbrook	IL	43
+Food, Beverages and Groceries	Safeway	Oakland	CA	43
+Food, Beverages and Groceries	Sara Lee Corp.	Chicago	IL	43
+Food, Beverages and Groceries	Albertson’s Inc.	Boise	ID	29
+Food, Beverages and Groceries	Archer Daniels Midland Co.	Decatur	IL	29
+Food, Beverages and Groceries	Coca-Cola Enterprises	Atlanta	GA	29
+Food, Beverages and Groceries	Dole Food Co. Inc.	Westlake Village	CA	29
+Food, Beverages and Groceries	H. E. Butt Grocery	San Antonio	TX	29
+Food, Beverages and Groceries	H. J. Heinz Co.	Pittsburgh	PA	29
+Food, Beverages and Groceries	Hannaford Brothers	Scarborough	ME	29
+Food, Beverages and Groceries	Hormel Foods	Austin	MN	29
+Food, Beverages and Groceries	Nestle Purina PetCare Co.	St. Louis	MO	29
+Food, Beverages and Groceries	PepsiCo Inc.	Purchase	NY	29
+Food, Beverages and Groceries	The Kroger Co.	Cincinnati	OH	29
+Food, Beverages and Groceries	Domino’s Inc.	Ann Arbor	MI	14
+Food, Beverages and Groceries	CBRL Group Inc. (Cracker Barrel restaurants)	Lebanon	TN	0
+Forest and Paper Products	Kimberly-Clark	Dallas	TX	57
+Forest and Paper Products	International Paper	Purchase	NY	29
+Forest and Paper Products	MeadWestvaco Corp.	Dayton	OH	14
+Health Care	Aetna Inc.	Hartford	CT	100
+Market Name	Employer Name	City	State	Rating
+Health Care	Kaiser Permanente Foundation Health Plan Inc.	Oakland	CA	86
+Health Care	Vision Service Plan	Rancho Cordova	CA	71
+Health Care	Health Net	Woodland Hills	CA	57
+Health Care	University Hospitals of Cleveland	Cleveland	OH	57
+Health Care	Cigna	Philadelphia	PA	43
+Health Care	Harvard Pilgrim Health Care Inc.	Quincy	MA	43
+Health Care	Humana Inc.	Louisville	KY	43
+Health Care	PacifiCare Health Systems	Santa Ana	CA	43
+High-Tech/Photo/Science Equip.	Avaya Inc.	Basking Ridge	NJ	100
+High-Tech/Photo/Science Equip.	Eastman Kodak Co.	Rochester	NY	100
+High-Tech/Photo/Science Equip.	Intel Corp.	Santa Clara	CA	100
+High-Tech/Photo/Science Equip.	Lucent Technologies Inc.	Murray Hill	NJ	100
+High-Tech/Photo/Science Equip.	Agilent Technologies Inc.	Wilmington	DE	86
+High-Tech/Photo/Science Equip.	Motorola Inc.	Schaumburg	IL	86
+High-Tech/Photo/Science Equip.	Polaroid Corp.	Cambridge	MA	86
+High-Tech/Photo/Science Equip.	Texas Instruments Inc.	Dallas	TX	86
+High-Tech/Photo/Science Equip.	Advanced Micro Devices	Sunnyvale	CA	71
+High-Tech/Photo/Science Equip.	Applied Materials	Santa Clara	CA	71
+High-Tech/Photo/Science Equip.	QualComm	San Diego	CA	71
+High-Tech/Photo/Science Equip.	Baxter International	Deerfield	IL	57
+High-Tech/Photo/Science Equip.	Cisco Systems	San Jose	CA	57
+High-Tech/Photo/Science Equip.	Rockwell Collins - Passenger Systems	Pomona	CA	43
+High-Tech/Photo/Science Equip.	Baldor Electric Co.	Fort Smith	AR	29
+High-Tech/Photo/Science Equip.	Emerson Electric Co.	St. Louis	MO	0
+Home Furnishing	Arhaus	Columbus	OH	57
+Home Furnishing	Shaw Industries Inc.	Dalton	GA	14
+Hotels, Resorts and Casinos	Hyatt Corp.	Chicago	IL	71
+Hotels, Resorts and Casinos	Starwood Hotels & Resorts Worldwide	White Plains	NY	71
+Hotels, Resorts and Casinos	Carlson Companies Inc	Minneapolis	MN	43
+Hotels, Resorts and Casinos	Hilton Hotels	Beverly Hills	CA	43
+Hotels, Resorts and Casinos	Marriott International	Bethesda	MD	43
+Insurance	Chubb Corp.	Warren	NJ	86
+Insurance	Hartford Financial Services Co.	Hartford	CT	86
+Insurance	John Hancock Financial Services Inc.	Boston	MA	86
+Insurance	Lincoln National Corp.	Philadelphia	PA	86
+Insurance	St. Paul Companies	St. Paul	MN	86
+Insurance	MetLife (Metropolitan Life Insurance)	New York	NY	71
+Insurance	Safeco	Seattle	WA	71
+Insurance	The Allstate Corporation	Northbrook	IL	71
+Insurance	MassMutual Life Insurance	Springfield	MA	57
+Insurance	Principal Financial Group	Des Moines	IA	57
+Insurance	The Progressive Corp.	Mayfield Village	OH	57
+Insurance	Anthem Insurance	Indianapolis	IN	43
+Insurance	State Farm Group	Bloomington	IL	43
+Insurance	UnumProvident Corp.	Portland	ME	43
+Insurance	AIG (American International Group)	New York	NY	29
+Insurance	New York Life Insurance Co.	New York	NY	29
+Insurance	TIAA-CREF	New York	NY	29
+Market Name	Employer Name	City	State	Rating
+Law Firms	Howard & Howard Attorneys, PC	Bloomfield Hills	MI	43
+Law Firms	Rohm & Haas	Philadelphia	PA	29
+Mail, Package and Freight Delivery	United Parcel Service (UPS)	Atlanta	GA	29
+Mail, Package and Freight Delivery	FedEx Corp.	Memphis	TN	14
+Manufacturing	Cummins Inc.	Columbus	IN	71
+Manufacturing	Owens Corning	Toledo	OH	43
+Miscellaneous	Minnesota Mining and Manufacturing (3M)	St. Paul	MN	57
+Miscellaneous	Cendant Corp.	New York	NY	43
+Oil and Gas	BP (formerly BP Amoco)	Chicago	IL	86
+Oil and Gas	ChevronTexaco Corp.	San Ramon	CA	86
+Oil and Gas	Shell Oil Co.	Houston	TX	86
+Oil and Gas	Exxon Mobil Corp.	Irving	TX	14
+Pharmaceuticals	Bausch & Lomb Inc.	Rochester	NY	86
+Pharmaceuticals	GlaxoSmithKline Inc.	Research Triangle Park	NC	86
+Pharmaceuticals	Merck & Co. Inc.	Whitehouse Station	NJ	86
+Pharmaceuticals	Pfizer	New York	NY	86
+Pharmaceuticals	Abbott Laboratories	Abbot Park	IL	71
+Pharmaceuticals	Aventis Pharmaceuticals Inc.	Bridgewater	NJ	71
+Pharmaceuticals	Bristol-Myers Squibb Co.	New York	NY	71
+Pharmaceuticals	Roche Group (Hoffman-La Roche)	Nutley	NJ	71
+Pharmaceuticals	Agouron Pharmaceuticals	La Jolla	CA	57
+Pharmaceuticals	Pharmacia Corp.	Peapack	NJ	57
+Pharmaceuticals	Amgen Inc.	Thousand Oaks	CA	43
+Pharmaceuticals	Johnson & Johnson	New Brunswick	NJ	43
+Pharmaceuticals	Ortho-Neutrogena	Los Angeles	CA	43
+Pharmaceuticals	Schering-Plough Corp.	Madison	NJ	43
+Pharmaceuticals	Bayer Corp.	Pittsburgh	PA	29
+Pharmaceuticals	Eli Lilly & Co.	Indianapolis	IN	29
+Pharmaceuticals	Wyeth (formerly American Home Products)	Madison	NJ	29
+Retail and Consumer Products	Replacements Ltd.	Greensboro	NC	100
+Retail and Consumer Products	Procter & Gamble	Cincinnati	OH	86
+Retail and Consumer Products	Mitchell Gold Co.	Taylorsville	NC	86
+Retail and Consumer Products	SC Johnson & Son Inc.	Racine	WI	86
+Retail and Consumer Products	Target Corp.	Minneapolis	MN	86
+Retail and Consumer Products	The Gillette Co.	Boston	MA	86
+Retail and Consumer Products	Walgreens Co.	Deerfield	IL	86
+Retail and Consumer Products	Clorox Co.	Oakland	CA	71
+Retail and Consumer Products	Lillian Vernon Corp.	New Rochelle	NY	71
+Retail and Consumer Products	Avon Products	New York	NY	57
+Retail and Consumer Products	Barnes & Noble	New York	NY	57
+Retail and Consumer Products	Colgate-Palmolive	New York	NY	57
+Retail and Consumer Products	Estee Lauder Companies	New York	NY	57
+Retail and Consumer Products	Home Depot	Atlanta	GA	57
+Retail and Consumer Products	Kmart	Troy	MI	43
+Retail and Consumer Products	Mattel Inc.	El Segundo	CA	43
+Retail and Consumer Products	Office Depot	Delray Beach	FL	43
+Retail and Consumer Products	Sears, Roebuck and Co.	Chicago	IL	43
+Retail and Consumer Products	Toys R Us	Framingham	MA	43
+Retail and Consumer Products	Whirlpool Corp.	Benton Harbor	MI	43
+Market Name	Employer Name	City	State	Rating
+Retail and Consumer Products	Circuit City Stores Inc.	Richmond	VA	29
+Retail and Consumer Products	Hallmark Cards	Kansas City	MO	29
+Retail and Consumer Products	Hasbro Inc.	Pawtucket	RI	29
+Retail and Consumer Products	Maytag Corp.	North Newton	IA	29
+Retail and Consumer Products	Newell Rubbermaid Inc.	Freeport	IL	29
+Retail and Consumer Products	Rite Aid Corp.	Camp Hill	PA	29
+Retail and Consumer Products	Staples Inc.	Westborough	MA	29
+Retail and Consumer Products	Meijer Inc.	Grand Rapids	MI	14
+Retail and Consumer Products	Wal-Mart Stores Inc.	Bentonville	AR	14
+Telecommunications	AT&T	New York	NY	86
+Telecommunications	BellSouth Corp.	Atlanta	GA	86
+Telecommunications	Cingular Wireless	Atlanta	GA	86
+Telecommunications	Qwest Communications International Inc.	Englewood	CO	86
+Telecommunications	SBC Communications Inc.	San Antonio	TX	86
+Telecommunications	Verizon Communications	New York	NY	86
+Telecommunications	Verio Inc.	Englewood	CO	71
+Telecommunications	Nextel Communications	Reston	VA	57
+Telecommunications	Northern Telecom Inc.	Nashville	TN	43
+Telecommunications	Sprint Corp.	Westwood	KS	29
+Telecommunications	WorldCom Inc.	Clinton	MS	29
+Tobacco	Philip Morris	New York	NY	57
+Transportation and Travel	Worldspan L.P.	Atlanta	GA	100
+Transportation and Travel	Ryder System Inc.	Miami	FL	71
+Transportation and Travel	The Boeing Co.	Seattle	WA	71
+Transportation and Travel	American President Lines	Oakland	CA	43
+Utilities	PG&E Corp.	San Francisco	CA	86
+Utilities	Consolidated Edison Co.	New York	NY	71
+Utilities	Edison International	Rosemead	CA	71
+Utilities	Northeast Utilities System	Berlin	CT	71
+Utilities	Sempra Energy	San Diego	CA	71
+Utilities	Allegheny Energy	Hagerstown	MD	57
+Utilities	Cinergy Corp.	Cincinnati	OH	57
+Utilities	Baltimore Gas & Electric Co.	Baltimore	MD	43
+Utilities	Pacificorp	Portland	OR	43
