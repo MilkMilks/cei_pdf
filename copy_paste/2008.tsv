@@ -1,363 +1,519 @@
-3M Co. St. Paul, MN	NaN	101.0	NaN	85.0	85.0	NaN	NaN	NaN	NaN
-A.G. Edwards Inc. St. Louis, MO	NaN	665.0	NaN	85.0	85.0	NaN	NaN	NaN	NaN
-AAA Northern California,	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
-Nevada and Utah San Francisco, CA	NaN	NaN	NaN	100.0	100.0	NaN	NaN	NaN	NaN
-Abbott Laboratories Abbott Park, IL	NaN	93.0	NaN	75.0	50.0	NaN	NaN	NaN	NaN
-Abercrombie & Fitch Co. New Albany, OH	NaN	639.0	NaN	100.0	100.0	NaN	NaN	NaN	NaN
-Accenture Ltd. New York, NY	NaN	NaN	NaN	100.0	95.0	NaN	NaN	NaN	NaN
-Adobe Systems Inc. San Jose, CA	NaN	817.0	NaN	100.0	100.0	NaN	NaN	NaN	NaN
-Advanced Micro Devices Inc. Sunnyvale, CA	NaN	367.0	NaN	80.0	80.0	NaN 2006 Fortune 1000	NaN	NaN
-AEGON Insurance Group Cedar Rapids, IA	NaN	NaN	NaN	40.0	35.0	NaN	NaN	NaN	NaN
-Aetna Inc. Hartford, CT	NaN	91.0	NaN	100.0	100.0	NaN	NaN	NaN	NaN
-Affiliated Computer Services Dallas, TX	NaN	471.0	NaN	80.0	75.0	NaN	2006 AmLaw 200	NaN	NaN
-Agilent Technologies Inc. Santa Clara , CA	NaN	319.0	NaN	100.0	100.0	NaN	NaN	NaN	NaN
-Air Products & Chemicals Inc. Allentown, PA	NaN	282.0	NaN	75.0	75.0	NaN	2008 CEI Rating	NaN	NaN
-Akin, Gump, Strauss, Hauer	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
-& Feld LLP Washington, DC	NaN	NaN	24.0	100.0	NaN	NaN	NaN	NaN	NaN
-Alaska Airlines Seattle, WA	NaN	621.0	NaN	95.0	NaN	NaN	NaN	NaN	NaN
-Alcatel-Lucent Murray Hill, NJ	NaN	255.0	NaN	100.0	100.0	NaN	NaN	NaN	NaN
-Allegheny Energy Greensburg, PA	NaN	572.0	NaN	30.0	50.0	NaN	1b	NaN	NaN
-Alliant Energy Corp. Madison, WI	NaN	549.0	NaN	80.0	60.0	NaN	NaN	NaN	NaN
-Alliant Techsystems Edina, MN	NaN	638.0	NaN	65.0	65.0	NaN	NaN	NaN	NaN
-Allianz Life Insurance Co.	NaN	NaN	NaN	NaN	NaN	NaN	2b	NaN	NaN
-of North America Minneapolis, MN	NaN	NaN	NaN	100.0	100.0	NaN	NaN	NaN	NaN
-Allstate Corp., The Northbrook, IL	NaN	58.0	NaN	100.0	85.0	NaN	NaN	NaN	NaN
-ALLTEL Corp. Little Rock, AR	NaN	251.0	NaN	80.0	30.0	NaN	3a	NaN	NaN
-Alston & Bird LLP Atlanta, GA	NaN	NaN	57.0	100.0	100.0	NaN	NaN	NaN	NaN
-Amazon.com Inc. Seattle, WA	NaN	272.0	NaN	80.0	65.0	NaN	NaN	NaN	NaN
-American Express Co. New York, NY	NaN	69.0	NaN	100.0	100.0	NaN	NaN	NaN	NaN
-American Family Insurance Group Madison, WI	NaN	323.0	NaN	90.0	75.0	NaN	4	NaN	NaN
-American International Group Inc. New York, NY	NaN	9.0	NaN	30.0	30.0	NaN	NaN	NaN	NaN
-rican Power Conversion Corp. West Kingston, RI	NaN	815.0	NaN	58.0	58.0	NaN	NaN	NaN	NaN
-Ameriprise Financial Inc. Minneapolis, MN	NaN	NaN	NaN	100.0	100.0	NaN	6	NaN	NaN
-Amgen Inc. Thousand Oaks, CA	NaN	181.0	NaN	85.0	85.0	NaN	NaN	NaN	NaN
-AMR Corp. (American Airlines) Fort Worth, TX	NaN	105.0	NaN	100.0	100.0	NaN	NaN	NaN	NaN
-AmTrust Bank Cleveland, OH	NaN	NaN	NaN	75.0	NaN	NaN	NaN	NaN	NaN
-Andrews & Kurth LLP Houston, TX	NaN	NaN	95.0	65.0	NaN	NaN	NaN	NaN	NaN
-Anheuser-Busch Companies Inc. St. Louis, MO	NaN	146.0	NaN	100.0	100.0	NaN	NaN	NaN	NaN
-Aon Corp. Chicago, IL	NaN	237.0	NaN	100.0	95.0	NaN	NaN	NaN	NaN
-Apple Inc. Cupertino, CA	NaN	159.0	NaN	100.0	100.0	NaN	NaN	NaN	NaN
-Applebee's International Inc. Overland Park, KS	NaN	NaN	NaN	80.0	80.0	NaN	NaN	NaN	NaN
-Applied Materials Inc. Santa Clara, CA	NaN	317.0	NaN	93.0	73.0	NaN	NaN	NaN	NaN
-Aquila Kansas City, MO	NaN	760.0	NaN	35.0	35.0	NaN	NaN	NaN	NaN
-Aramark Corp. Philadelphia, PA	NaN	215.0	NaN	80.0	80.0	NaN	NaN	NaN	NaN
-Archer Daniels Midland Co. Decatur, IL	NaN	56.0	NaN	15.0	15.0	NaN	NaN	NaN	NaN
-Arent, Fox, Kintner, Plotkin & Kahn Washington, DC	NaN	NaN	137.0	75.0	NaN	NaN	NaN	NaN	NaN
-Arnold & Porter LLP Washington, DC	NaN	NaN	46.0	100.0	100.0	NaN	NaN	NaN	NaN
-AstraZeneca PLC Wilmington, DE	NaN	NaN	NaN	NaN	85.0	NaN	NaN	NaN	NaN
-AT&T Inc. San Antonio, TX	NaN	39.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Austin Radiological Association Austin, TX	NaN	NaN	NaN	NaN	53.0	NaN	NaN	NaN	NaN
-Automatic Data Processing Inc. Roseland, NJ	NaN	271.0	NaN	NaN	95.0	30.0	NaN	NaN	NaN
-AutoZone Inc. Memphis, TN	NaN	378.0	NaN	NaN	25.0	25.0	NaN	NaN	NaN
-Avaya Inc. Basking Ridge, NJ	NaN	434.0	NaN	NaN	85.0	100.0	NaN	NaN	Headquarters
-Aventis Pharmaceuticals Inc. Bridgewater, NJ	NaN	NaN	NaN	NaN	80.0	80.0	NaN	NaN	NaN
-Avis Budget Group Inc. Parsippany, NJ	NaN	114.0	NaN	NaN	60.0	75.0	NaN	NaN	NaN
-Avnet Inc. Phoenix, AZ	NaN	212.0	NaN	NaN	30.0	30.0	NaN	NaN	NaN
-Avon Products Inc. New York, NY	NaN	281.0	NaN	NaN	60.0	30.0	NaN	NaN	2006 Fortune 1000
-Bain & Co. Inc. Boston, MA	NaN	NaN	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Baker & Botts Houston, TX	NaN	NaN	NaN	52.0	85.0	NaN	NaN	NaN	NaN
-Baker & Daniels Indianapolis, IN	NaN	NaN	NaN	176.0	95.0	NaN	NaN	NaN	2006 AmLaw 200
-Baldor Electric Co. Fort Smith, AR	NaN	NaN	NaN	NaN	25.0	15.0	NaN	NaN	NaN
-Ball Corp. Broomfield, CO	NaN	374.0	NaN	NaN	58.0	58.0	NaN	NaN	2008 CEI Rating
-Ballard, Spahr, Andrews	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
-& Ingersoll Philadelphia, PA	NaN	NaN	NaN	102.0	80.0	NaN	NaN	NaN	NaN
-Bank of America Corp. Charlotte, NC	NaN	12.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Bank of New York Co. New York, NY	NaN	278.0	NaN	NaN	85.0	85.0	NaN	NaN	1a
-Barclays Capital New York, NY	NaN	NaN	NaN	NaN	90.0	90.0	NaN	NaN	1b
-Barnes & Noble Inc. New York, NY	NaN	422.0	NaN	NaN	63.0	60.0	NaN	NaN	NaN
-BASF Corp. Florham Park, NJ	NaN	NaN	NaN	NaN	95.0	NaN	NaN	NaN	NaN
-Bausch & Lomb Inc. Rochester, NY	NaN	NaN	NaN	NaN	100.0	100.0	NaN	NaN	2b
-Baxter International Inc. Deerfield, IL	NaN	240.0	NaN	NaN	73.0	73.0	NaN	NaN	NaN
-Bayer Corp. Pittsburgh, PA	NaN	NaN	NaN	NaN	15.0	15.0	NaN	NaN	NaN
-BB&T Corp. Winston-Salem, NC	NaN	292.0	NaN	NaN	25.0	25.0	NaN	NaN	3a
-Bear Stearns Companies Inc., The New York, NY	NaN	202.0	NaN	NaN	100.0	NaN	NaN	NaN	3b
-Best Buy Co. Inc. Richfield, MN	NaN	76.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Bingham McCutchen Boston, MA	NaN	NaN	NaN	27.0	100.0	80.0	NaN	NaN	NaN
-kwell Sanders Peper Martin LLP Kansas City, MO	NaN	NaN	NaN	183.0	80.0	NaN	NaN	NaN	4
-BMC Software Inc. Houston, TX	NaN	984.0	NaN	NaN	70.0	NaN	NaN	NaN	NaN
-BNSF Railway Co. Fort Worth, TX	NaN	171.0	NaN	NaN	30.0	NaN	NaN	NaN	NaN
-Boehringer Ingelheim	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
-Pharmaceuticals Inc. Ridgefield, CT	NaN	NaN	NaN	NaN	100.0	NaN	NaN	NaN	NaN
-Boeing Co. Chicago, IL	NaN	26.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Booz Allen Hamilton Inc. McLean, VA	NaN	NaN	67.0	NaN	80.0	80.0	NaN	NaN	NaN
-Borders Group Inc. Ann Arbor, MI	NaN	490.0	NaN	NaN	100.0	95.0	NaN	NaN	NaN
-Boston Consulting Group Boston, MA	NaN	NaN	NaN	NaN	100.0	NaN	NaN	NaN	NaN
-BP America Inc. Warrenville, IL	NaN	NaN	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Bridgestone Americas Holding Inc. Nashville, TN	NaN	NaN	NaN	NaN	80.0	45.0	NaN	NaN	NaN
-Bright Horizons Family	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
-Solutions Inc. Watertown, MA	NaN	NaN	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Brinker International Inc. Dallas, TX	NaN	504.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Bristol-Myers Squibb Co. New York, NY	NaN	110.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Bryan Cave LLP St. Louis, MO	NaN	NaN	NaN	56.0	100.0	75.0	NaN	NaN	NaN
-C&S Wholesale Grocers Inc. Keene, NH	NaN	NaN	7.0	NaN	40.0	40.0	NaN	NaN	NaN
-Cadwalader, Wickersham & Taft	New York, NY	NaN	NaN	42.0	95.0	95.0	NaN	NaN	NaN
-Calpine Corp.	San Jose, CA	275.0	NaN	NaN	48.0	63.0	NaN	NaN	NaN
-Campbell Soup Co.	Camden, NJ	302.0	NaN	NaN	95.0	80.0	NaN	NaN	NaN
-Canadian Imperial Bank	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
-of Commerce	New York, NY	NaN	NaN	NaN	95.0	NaN	Location	NaN	NaN
-Capital One Financial Corp.	McLean, VA	187.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Cargill Inc.	Wayzata, MN	NaN	2.0	NaN	100.0	100.0	NaN	NaN	NaN
-Carlson Companies Inc.	Minnetonka, MN	NaN	44.0	NaN	100.0	100.0	NaN	NaN	NaN
-Caterpillar Inc.	Peoria, IL	55.0	NaN	NaN	45.0	35.0	NaN	NaN	NaN
-CBRL Group Inc.	Lebanon, TN	676.0	NaN	NaN	15.0	15.0	NaN	NaN	NaN
-Cerner Corp.	Kansas City, MO	NaN	NaN	NaN	65.0	45.0	NaN	NaN	NaN
-2006 AmLaw 200CH2M HILL Companies Ltd.	Englewood, CO	591.0	90.0	NaN	80.0	80.0	NaN	NaN	NaN
-Chadbourne & Parke	New York, NY	NaN	NaN	92.0	70.0	NaN	2006 AmLaw 200	NaN	NaN
-Chamberlin Edmonds	NaN	NaN	NaN	NaN	NaN	NaN	2008 CEI Rating	NaN	NaN
-& Associates Inc.	Atlanta, GA	NaN	NaN	NaN	68.0	68.0	2008 CEI Rating	NaN	NaN
-Charles Schwab Corp., The	San Francisco, CA	418.0	NaN	NaN	100.0	100.0	2006 CEI Rating	NaN	NaN
-Chevron Corp.	San Ramon, CA	4.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-ChoicePoint Inc.	Alpharetta, GA	NaN	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Chrysler LLC	Auburn Hills, MI	NaN	NaN	NaN	100.0	100.0	1b	NaN	NaN
-Chubb Corp.	Warren, NJ	156.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-CIGNA Corp.	Philadelphia, PA	130.0	NaN	NaN	85.0	100.0	NaN	NaN	NaN
-2bCircuit City Stores Inc.	Richmond, VA	226.0	NaN	NaN	55.0	55.0	NaN	NaN	NaN
-Cisco Systems Inc.	San Jose, CA	83.0	NaN	NaN	100.0	100.0	2c	NaN	NaN
-Citigroup Inc.	New York, NY	8.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Clear Channel Communications Inc.	San Antonio, TX	252.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Cleary, Gottlieb, Steen & Hamilton New York, NY	NaN	NaN	NaN	18.0	100.0	NaN	3b	NaN	NaN
-Clorox Co.	Oakland, CA	460.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-CMP Media LLC	Manhasset, NY	NaN	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-CNA Insurance	Chicago, IL	NaN	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Coca-Cola Co., The	Atlanta, GA	89.0	NaN	NaN	100.0	100.0	5	NaN	NaN
-Coca-Cola Enterprises	Atlanta, GA	120.0	NaN	NaN	70.0	65.0	NaN	NaN	NaN
-Colgate-Palmolive Co.	New York, NY	204.0	NaN	NaN	58.0	78.0	NaN	NaN	NaN
-Comcast Corp.	Philadelphia, PA	94.0	NaN	NaN	80.0	85.0	NaN	NaN	NaN
-Comerica Inc.	Detroit, MI	524.0	NaN	NaN	80.0	80.0	NaN	NaN	NaN
-Compass Group North America	Charlotte, NC	NaN	NaN	NaN	65.0	65.0	NaN	NaN	NaN
-ConocoPhillips	Houston, TX	6.0	NaN	NaN	63.0	78.0	NaN	NaN	NaN
-Consolidated Edison Co.	New York, NY	199.0	NaN	NaN	80.0	100.0	NaN	NaN	NaN
-Constellation Energy	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
-Group Inc.	Baltimore, MD	125.0	NaN	NaN	73.0	NaN	NaN	NaN	NaN
-Continental Airlines Inc.	Houston, TX	207.0	NaN	NaN	80.0	75.0	NaN	NaN	NaN
-Cooper Tire & Rubber	Findlay, OH	770.0	NaN	NaN	33.0	33.0	NaN	NaN	NaN
-Coors Brewing Co.	Denver, CO	373.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Corbis Corp.	Seattle, WA	NaN	NaN	NaN	80.0	65.0	NaN	NaN	NaN
-Corning Inc.	Corning, NY	456.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Costco Wholesale Corp.	Issaquah, WA	28.0	NaN	NaN	93.0	93.0	NaN	NaN	NaN
-Countrywide Financial Corp.	Calabasas, CA	122.0	NaN	100.0	80.0	NaN	NaN	NaN	NaN
-Covington & Burling	Washington, DC	NaN	63.0	80.0	NaN	NaN	NaN	NaN	NaN
-Cox Communications Inc.	Atlanta, GA	316.0	NaN	95.0	95.0	NaN	NaN	NaN	NaN
-Cravath, Swaine & Moore LLP	New York, NY	NaN	40.0	95.0	NaN	NaN	NaN	NaN	NaN
-Credit Suisse	New York, NY	NaN	NaN	100.0	100.0	NaN	NaN	NaN	NaN
-Crowell & Moring LLP	Washington, DC	NaN	112.0	100.0	NaN	Headquarters	NaN	NaN	NaN
-CSX Corp.	Jacksonville, FL	266.0	NaN	85.0	40.0	NaN	NaN	NaN	NaN
-Cummins Inc.	Columbus, IN	238.0	NaN	100.0	100.0	NaN	NaN	NaN	NaN
-CUNA Mutual Insurance Group	Madison, WI	644.0	NaN	65.0	65.0	NaN	NaN	NaN	NaN
-Dana Corp.	Toledo, OH	234.0	NaN	20.0	35.0	2006 Fortune 1000	NaN	NaN	NaN
-Darden Restaurants	Orlando, FL	409.0	NaN	80.0	80.0	NaN	NaN	NaN	NaN
-Dean Foods Co.	Dallas, TX	216.0	NaN	73.0	73.0	NaN	NaN	NaN	NaN
-Debevoise & Plimpton	New York, NY	NaN	37.0	90.0	NaN	2006 AmLaw 200	NaN	NaN	NaN
-Deere & Co.	Moline, IL	96.0	NaN	33.0	48.0	NaN	NaN	NaN	NaN
-Dell Inc.	Round Rock, TX	25.0	NaN	100.0	100.0	2008 CEI Rating	NaN	NaN	NaN
-Deloitte & Touche USA LLP	New York, NY	NaN	NaN	100.0	100.0	NaN	NaN	NaN	NaN
-Delphi Corp.	Troy, MI	77.0	NaN	45.0	60.0	2006 CEI Rating	NaN	NaN	NaN
-Delta Air Lines Inc.	Atlanta, GA	135.0	NaN	85.0	85.0	NaN	NaN	NaN	NaN
-Deutsche Bank	New York, NY	NaN	NaN	100.0	100.0	NaN	NaN	NaN	NaN
-Dewey Ballantine LLP	New York, NY	NaN	58.0	100.0	NaN	1b	NaN	NaN	NaN
-Diageo North America	Norwalk, CT	NaN	NaN	95.0	NaN	NaN	NaN	NaN	NaN
-Dickstein Shapiro LLP	Washington, DC	NaN	80.0	100.0	NaN	NaN	NaN	NaN	NaN
-Dole Food Co. Inc.	Westlake Village, CA	365.0	NaN	45.0	60.0	NaN	NaN	NaN	NaN
-Dominion Resources Inc.	Richmond, VA	123.0	NaN	95.0	95.0	2c	NaN	NaN	NaN
-Domino's Pizza Inc.	Ann Arbor, MI	966.0	NaN	60.0	45.0	NaN	NaN	NaN	NaN
-Dorsey & Whitney LLP	Minneapolis, MN	NaN	68.0	100.0	100.0	NaN	NaN	NaN	NaN
-Dow Chemical Co.	Midland, MI	36.0	NaN	100.0	100.0	3b	NaN	NaN	NaN
-Dow Jones & Co. Inc.	New York, NY	867.0	NaN	30.0	30.0	3c	NaN	NaN	NaN
-DPR Construction	Redwood City, CA	NaN	NaN	30.0	50.0	NaN	NaN	NaN	NaN
-Drinker Biddle & Reath LLP	Philadelphia, PA	NaN	96.0	95.0	NaN	NaN	NaN	NaN	NaN
-DTE Energy Co.	Detroit, MI	259.0	NaN	75.0	80.0	5	NaN	NaN	NaN
-Duane Morris	Philadelphia, PA	NaN	71.0	80.0	NaN	NaN	NaN	NaN	NaN
-Duke Energy Corp.	Charlotte, NC	117.0	NaN	60.0	65.0	NaN	NaN	NaN	NaN
-Dun & Bradstreet Corp., The	Short Hills, NJ	993.0	NaN	35.0	35.0	NaN	NaN	NaN	NaN
-DuPont (E.I. du Pont de Nemours)	Wilmington, DE	73.0	NaN	100.0	100.0	NaN	NaN	NaN	NaN
-Dykema Gossett	Detroit, MI	NaN	143.0	80.0	NaN	NaN	NaN	NaN	NaN
-E*TRADE Financial Corp.	New York, NY	679.0	NaN	93.0	73.0	NaN	NaN	NaN	NaN
-EarthLink Inc.	Atlanta, GA	NaN	NaN	88.0	63.0	NaN	NaN	NaN	NaN
-Eastman Kodak Co.	Rochester, NY	155.0	NaN	100.0	100.0	NaN	NaN	NaN	NaN
-Edison International	Rosemead, CA	194.0	NaN	35.0	35.0	NaN	NaN	NaN	NaN
-Edwards Angell Palmer	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
-& Dodge LLP	Boston, MA	NaN	74.0	90.0	NaN	NaN	NaN	NaN	NaN
-Electronic Arts Inc.	Redwood City, CA	594.0	NaN	100.0	88.0	NaN	NaN	NaN	NaN
-Electronic Data Systems Corp.	Plano, TX	108.0	NaN	90.0	70.0	NaN	NaN	NaN	NaN
-Eli Lilly & Co.	Indianapolis, IN	148.0	NaN	100.0	100.0	NaN	NaN	NaN	NaN
-EMC Corp.	Hopkinton, MA	249.0	NaN	NaN	45.0	45.0	NaN	NaN	NaN
-Emerson Electric Co.	St. Louis, MO	126.0	NaN	NaN	45.0	45.0	NaN	NaN	NaN
-Entergy Corp.	New Orleans, LA	218.0	NaN	NaN	88.0	13.0	NaN	NaN	NaN
-Enterprise Rent-A-Car Co.	St. Louis, MO	NaN	21.0	NaN	85.0	NaN	NaN	NaN	NaN
-Ernst & Young LLP	New York, NY	NaN	8.0	NaN	100.0	100.0	Location	NaN	NaN
-Estee Lauder Companies	New York, NY	340.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Esurance Inc.	San Francisco, CA	NaN	NaN	NaN	100.0	NaN	NaN	NaN	NaN
-Exelon Corp.	Chicago, IL	144.0	NaN	NaN	95.0	80.0	NaN	NaN	NaN
-Exxon Mobil Corp.	Irving, TX	1.0	NaN	NaN	0.0	0.0	NaN	NaN	NaN
-Faegre & Benson	Minneapolis, MN	NaN	NaN	93.0	100.0	100.0	2006 Forbes 200	NaN	NaN
-Fannie Mae	Washington, DC	NaN	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-FedEx Corp.	Memphis, TN	70.0	NaN	NaN	55.0	55.0	NaN	NaN	NaN
-Fenwick & West LLP	Mountain View, CA	NaN	NaN	132.0	90.0	NaN	2006 AmLaw 200	NaN	NaN
-Fifth Third Bancorp	Cincinnati, OH	308.0	NaN	NaN	60.0	65.0	2008 CEI Rating	NaN	NaN
-Finnegan, Henderson, Farabow,	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
-Garrett & Dunner	Washington, DC	NaN	NaN	88.0	40.0	NaN	2006 CEI Rating	NaN	NaN
-Fish & Richardson	Boston, MA	NaN	NaN	84.0	75.0	75.0	NaN	NaN	NaN
-Foley & Lardner LLP	Milwaukee, WI	NaN	NaN	25.0	100.0	95.0	NaN	NaN	NaN
-Foley Hoag LLP	Boston, MA	NaN	NaN	159.0	100.0	80.0	NaN	NaN	NaN
-Food Lion LLC	Salisbury, NC	NaN	NaN	NaN	80.0	75.0	2a	NaN	NaN
-Ford Motor Co.	Dearborn, MI	5.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Franklin Templeton Investments	San Mateo, CA	NaN	NaN	NaN	50.0	60.0	NaN	NaN	NaN
-Freddie Mac	McLean, VA	NaN	NaN	NaN	85.0	85.0	2c	NaN	NaN
-Freescale Semiconductor Inc.	Austin, TX	368.0	NaN	NaN	100.0	100.0	3a	NaN	NaN
-Fulbright & Jaworski LLP	Houston, TX	NaN	NaN	36.0	80.0	85.0	NaN	NaN	NaN
-GameStop Corp.	Grapevine, TX	601.0	NaN	NaN	100.0	63.0	NaN	NaN	NaN
-Gannett Co. Inc.	McLean, VA	296.0	NaN	NaN	65.0	80.0	3c	NaN	NaN
-Gap Inc.	San Francisco, CA	139.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Gateway Inc.	Irvine, CA	508.0	NaN	NaN	65.0	65.0	NaN	NaN	NaN
-5Genentech Inc.	South	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
-NaN	San Francisco, CA	NaN	NaN	NaN	100.0	80.0	NaN	NaN	NaN
-General Dynamics Corp.	Falls Church, VA	100.0	NaN	NaN	40.0	55.0	NaN	NaN	NaN
-General Electric Co.	Fairfield, CT	7.0	NaN	NaN	75.0	75.0	NaN	NaN	NaN
-General Mills Inc.	Minneapolis, MN	206.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-General Motors Corp.	Detroit, MI	3.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Giant Food LLC	Quincy, MA	NaN	NaN	NaN	78.0	78.0	NaN	NaN	NaN
-Gibson, Dunn & Crutcher LLP	Los Angeles, CA	NaN	NaN	19.0	80.0	NaN	NaN	NaN	NaN
-GlaxoSmithKline plc	Philadelphia, PA	NaN	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Global Hyatt Corp.	Chicago, IL	NaN	87.0	NaN	100.0	100.0	NaN	NaN	NaN
-Goldman Sachs Group Inc., The	New York, NY	41.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Google Inc.	Mountain View, CA	353.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Gordon & Rees	San Francisco, CA	NaN	NaN	177.0	85.0	NaN	NaN	NaN	NaN
-Guidant Corp.	Indianapolis, IN	535.0	NaN	NaN	80.0	80.0	NaN	NaN	NaN
-H.E. Butt Grocery Co.	San Antonio, TX	NaN	11.0	NaN	40.0	40.0	NaN	NaN	NaN
-H.J. Heinz Co.	Pittsburgh, PA	262.0	NaN	NaN	48.0	15.0	NaN	NaN	NaN
-Hain Celestial Group Inc. Melville, NY	NaN	NaN	NaN	NaN	30.0	30.0	NaN	NaN	NaN
-Hallmark Cards Inc. Kansas City, MO	NaN	NaN	56.0	NaN	90.0	75.0	NaN	NaN	NaN
-Hannaford Brothers Portland, ME	NaN	NaN	NaN	NaN	93.0	65.0	NaN	NaN	NaN
-Harrah's Entertainment Inc. Las Vegas, NV	NaN	309.0	NaN	NaN	100.0	95.0	NaN	NaN	NaN
-Harris Bankcorp Inc. Chicago, IL	NaN	NaN	NaN	NaN	95.0	75.0	NaN	NaN	NaN
-Harris Interactive Inc. Rochester, NY	NaN	NaN	NaN	NaN	93.0	NaN	NaN	NaN	Headquarters
-Harry & David Holdings Inc. Medford, OR	NaN	NaN	NaN	NaN	43.0	58.0	NaN	NaN	NaN
-Hartford Financial Services Co. Hartford, CT	NaN	78.0	NaN	NaN	100.0	75.0	NaN	NaN	NaN
-Harvard Pilgrim Health Care Inc. Wellesley, MA	NaN	NaN	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Hasbro Inc. Pawtucket, RI	NaN	602.0	NaN	NaN	50.0	65.0	NaN	NaN	2006 Fortune 1000
-Haynes and Boone Dallas, TX	NaN	NaN	NaN	101.0	75.0	NaN	NaN	NaN	NaN
-Health Net Inc. Woodland Hills, CA	NaN	191.0	NaN	NaN	93.0	93.0	NaN	NaN	NaN
-Heller Ehrman LLP San Francisco, CA	NaN	NaN	NaN	43.0	100.0	100.0	NaN	NaN	2006 AmLaw 200
-Herman Miller Inc. Zeeland, MI	NaN	964.0	NaN	NaN	100.0	NaN	NaN	NaN	NaN
-Hershey Co., The Hershey, PA	NaN	442.0	NaN	NaN	70.0	50.0	NaN	NaN	2008 CEI Rating
-Hewitt Associates Lincolnshire, IL	NaN	633.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Hewlett-Packard Co. Palo Alto, CA	NaN	11.0	NaN	NaN	100.0	100.0	NaN	NaN	2006 CEI Rating
-Hilton Hotels Corp. Beverly Hills, CA	NaN	464.0	NaN	NaN	95.0	95.0	NaN	NaN	NaN
-Hoffmann-La Roche Inc. Nutley, NJ	NaN	NaN	NaN	NaN	80.0	80.0	NaN	NaN	NaN
-Hogan & Hartson Washington, DC	NaN	NaN	NaN	21.0	80.0	NaN	NaN	NaN	1b
-Holland & Knight LLP New York, NY	NaN	NaN	NaN	28.0	100.0	75.0	NaN	NaN	NaN
-Home Depot Inc. Atlanta, GA	NaN	14.0	NaN	NaN	85.0	85.0	NaN	NaN	NaN
-Honeywell International Inc. Morristown, NJ	NaN	71.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Hospira Inc. Lake Forest, IL	NaN	660.0	NaN	NaN	100.0	100.0	NaN	NaN	2c
-Hotels.com LP Dallas, TX	NaN	NaN	NaN	NaN	85.0	85.0	NaN	NaN	NaN
-Howard & Howard Attorneys PC Kalamazoo, MI	NaN	NaN	NaN	NaN	48.0	48.0	NaN	NaN	NaN
-Howrey Simon Arnold & White LLP Washington, DC	NaN	NaN	NaN	61.0	85.0	NaN	NaN	NaN	3b
-HSBC USA Inc Prospect Heights, IL	NaN	NaN	NaN	NaN	100.0	95.0	NaN	NaN	3c
-Humana Inc. Louisville, KY	NaN	150.0	NaN	NaN	40.0	40.0	NaN	NaN	NaN
-Hunton & Williams Richmond, VA	NaN	NaN	NaN	44.0	75.0	NaN	NaN	NaN	NaN
-Illinois Tool Works Inc. Glenview, IL	NaN	173.0	NaN	NaN	68.0	53.0	NaN	NaN	5
-Imation Corp. Oakdale, MN	NaN	NaN	NaN	NaN	93.0	93.0	NaN	NaN	NaN
-IndyMac Bancorp Inc. Pasadena, CA	NaN	869.0	NaN	NaN	100.0	NaN	NaN	NaN	NaN
-ING North America Insurance Corp. Atlanta, GA	NaN	NaN	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Intel Corp. Santa Clara, CA	NaN	49.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-International Business Machines	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
-Corp. (IBM) Armonk, NY	NaN	10.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-International Paper Co. Stamford, CT	NaN	82.0	NaN	NaN	70.0	85.0	NaN	NaN	NaN
-Interpublic Group of Companies Inc. New York, NY	NaN	348.0	NaN	NaN	60.0	75.0	NaN	NaN	NaN
-Intuit Inc. Mountain View, CA	NaN	779.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-ITT Industries Inc. White Plains, NY	NaN	291.0	NaN	NaN	90.0	95.0	NaN	NaN	NaN
-J.C. Penney Co. Inc. Plano, TX	NaN	118.0	NaN	NaN	100.0	50.0	NaN	NaN	NaN
-J.P. Morgan Chase & Co. New York, NY	NaN	17.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Jenner & Block LLP Chicago, IL	NaN	NaN	NaN	72.0	100.0	100.0	NaN	NaN	NaN
-JetBlue Airways Corp. Forest Hills, NY	NaN	896.0	NaN	NaN	80.0	NaN	NaN	NaN	NaN
-John Hancock Financial Services Inc. Boston, MA	NaN	NaN	93.0	93.0	NaN	NaN	NaN	NaN	NaN
-Johnson & Johnson New Brunswick, NJ	32.0	NaN	100.0	100.0	NaN	NaN	NaN	NaN	NaN
-Kaiser Permanente Oakland, CA	NaN	NaN	100.0	100.0	NaN	NaN	NaN	NaN	NaN
-Katten Muchin Zavis Chicago, IL	NaN	60.0	85.0	NaN	NaN	NaN	NaN	NaN	NaN
-Kaye Scholer LLP New York, NY	NaN	62.0	80.0	NaN	NaN	NaN	Location	NaN	NaN
-KB Home Los Angeles, CA	254.0	NaN	75.0	15.0	NaN	NaN	NaN	NaN	NaN
-Keane Inc. Boston, MA	NaN	NaN	50.0	50.0	NaN	NaN	NaN	NaN	NaN
-Kelley Drye & Warren LLP New York, NY	NaN	122.0	85.0	NaN	NaN	NaN	NaN	NaN	NaN
-Kellogg Co. Battle Creek, MI	233.0	NaN	35.0	50.0	NaN	NaN	NaN	NaN	NaN
-KeyCorp Cleveland, OH	325.0	NaN	100.0	75.0	NaN	NaN	2006 Forbes 200	NaN	NaN
-Keyspan Corp Brooklyn, NY	295.0	NaN	100.0	100.0	NaN	NaN	NaN	NaN	NaN
-Kilpatrick Stockton LLP Atlanta, GA	NaN	82.0	90.0	63.0	NaN	NaN	NaN	NaN	NaN
-Kimberly-Clark Corp. Irving, TX	140.0	NaN	85.0	85.0	NaN	NaN	2006 AmLaw 200	NaN	NaN
-Kimpton Hotel & Restaurant	NaN	NaN	NaN	NaN	NaN	NaN	2008 CEI Rating	NaN	NaN
-Group Inc. San Francisco, CA	NaN	NaN	100.0	100.0	NaN	NaN	NaN	NaN	NaN
-King & Spalding Atlanta, GA	NaN	38.0	95.0	NaN	NaN	NaN	2006 CEI Rating	NaN	NaN
-Kirkland & Ellis Chicago, IL	NaN	9.0	100.0	NaN	NaN	NaN	NaN	NaN	NaN
-KLA-Tencor San Jose, CA	780.0	NaN	73.0	73.0	NaN	NaN	NaN	NaN	NaN
-KPMG LLP New York, NY	NaN	NaN	100.0	100.0	NaN	NaN	NaN	NaN	NaN
-Kraft Foods Inc. Northfield, IL	NaN	NaN	100.0	100.0	NaN	NaN	2a	NaN	NaN
-Kramer Levin Naftalis & Frankel LLP New York, NY	NaN	89.0	100.0	NaN	NaN	NaN	NaN	NaN	NaN
-Kroger Co., The Cincinnati, OH	21.0	NaN	75.0	35.0	NaN	NaN	NaN	NaN	NaN
-L.L. Bean Inc. Freeport, ME	NaN	NaN	73.0	73.0	NaN	NaN	2c	NaN	NaN
-Laclede Group Inc. St. Louis, MO	930.0	NaN	5.0	NaN	NaN	NaN	3a	NaN	NaN
-Land O'Lakes Arden Hills, MN	301.0	NaN	53.0	53.0	NaN	NaN	NaN	NaN	NaN
-LaSalle Bank Corp. Chicago, IL	NaN	NaN	95.0	65.0	NaN	NaN	NaN	NaN	NaN
-Latham & Watkins LLP New York, NY	NaN	2.0	100.0	NaN	NaN	NaN	3c	NaN	NaN
-Lear Corp. Southfield, MI	127.0	NaN	20.0	20.0	NaN	NaN	NaN	NaN	NaN
-LeBoeuf, Lamb, Greene & MacRae New York, NY	NaN	51.0	80.0	NaN	NaN	NaN	NaN	NaN	NaN
-5Lehman Brothers Holdings New York, NY	62.0	NaN	100.0	100.0	NaN	NaN	NaN	NaN	NaN
-Levi Strauss & Co. San Francisco, CA	484.0	53.0	100.0	100.0	NaN	NaN	6	NaN	NaN
-Lexmark International Inc. Lexington, KY	415.0	NaN	100.0	100.0	NaN	NaN	NaN	NaN	NaN
-Lillian Vernon Corp. White Plains, NY	NaN	NaN	55.0	55.0	NaN	NaN	NaN	NaN	NaN
-Lincoln National Corp. Philadelphia, PA	396.0	NaN	95.0	95.0	NaN	NaN	NaN	NaN	NaN
-Littler Mendelson PC San Francisco, CA	NaN	105.0	95.0	NaN	NaN	NaN	NaN	NaN	NaN
-Liz Claiborne Inc. New York, NY	440.0	NaN	100.0	100.0	NaN	NaN	NaN	NaN	NaN
-Lockheed Martin Corp. Bethesda, MD	52.0	NaN	85.0	80.0	NaN	NaN	NaN	NaN	NaN
-Lord, Bissell & Brook Chicago, IL	NaN	136.0	80.0	NaN	NaN	NaN	NaN	NaN	NaN
-Luce Forward Hamilton &	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
-Scripps LLP San Diego, CA	NaN	200.0	70.0	NaN	NaN	NaN	NaN	NaN	NaN
-Macy's Inc. Cincinnati, OH	87.0	NaN	100.0	80.0	NaN	NaN	NaN	NaN	NaN
-Manatt, Phelps & Phillips LLP Los Angeles, CA	NaN	106.0	93.0	NaN	NaN	NaN	NaN	NaN	NaN
-Marriott International Inc. Washington, DC	203.0	NaN	100.0	75.0	NaN	NaN	NaN	NaN	NaN
-Marsh & McLennan Companies Inc. New York, NY	186.0	NaN	78.0	30.0	NaN	NaN	NaN	NaN	NaN
-Massachusetts Mutual Life	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
-Insurance Co. Springfield, MA	92.0	NaN	100.0	93.0	NaN	NaN	NaN	NaN	NaN
-MasterCard Inc.	Purchase, NY	627.0	NaN	NaN	100.0	80.0	NaN	NaN	NaN
-Mattel Inc.	El Segundo, CA	416.0	NaN	NaN	88.0	88.0	NaN	NaN	NaN
-McAfee Inc.	Santa Clara, CA	NaN	NaN	NaN	53.0	NaN	NaN	NaN	NaN
-McCarter & English	Newark, NJ	NaN	NaN	126.0	90.0	NaN	NaN	NaN	NaN
-McDermott Will & Emery LLP	Chicago, IL	NaN	NaN	17.0	100.0	100.0	NaN	NaN	NaN
-McDonald's Corp.	Oak Brook, IL	109.0	NaN	NaN	85.0	85.0	NaN	NaN	Headquarters
-McGraw-Hill Companies Inc., The	New York, NY	359.0	NaN	NaN	80.0	75.0	NaN	NaN	NaN
-McKinsey & Co. Inc.	New York, MA	NaN	65.0	NaN	100.0	100.0	NaN	NaN	NaN
-MeadWestvaco Corp.	Glen Allen, VA	322.0	NaN	NaN	80.0	80.0	NaN	NaN	NaN
-Medtronic Inc.	Minneapolis, MN	235.0	NaN	NaN	85.0	75.0	NaN	NaN	2006 Fortune 1000
-Meijer	Grand Rapids, MI	NaN	10.0	NaN	0.0	0.0	NaN	NaN	NaN
-Mellon Financial Corp.	Pittsburgh, PA	377.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Merck & Co. Inc. Whitehouse Station, NJ	95.0	NaN	NaN	100.0	100.0	NaN	NaN	2006 AmLaw 200
-Merrill Lynch & Co.	New York, NY	34.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-MetLife Inc.	New York, NY	35.0	NaN	NaN	100.0	100.0	NaN	NaN	2008 CEI Rating
-MGM Mirage	Las Vegas, NV	334.0	NaN	NaN	85.0	85.0	NaN	NaN	NaN
-Microsoft Corp.	Redmond, WA	48.0	NaN	NaN	100.0	100.0	NaN	NaN	2006 CEI Rating
-Miller Brewing Co.	Milwaukee, WI	NaN	NaN	NaN	90.0	90.0	NaN	NaN	NaN
-Mintz, Levin, Cohn, Ferris, Glovsky	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
-& Popeo	Boston, MA	NaN	NaN	91.0	100.0	95.0	NaN	NaN	1b
-Mirant Corp.	Atlanta, GA	479.0	NaN	NaN	45.0	45.0	NaN	NaN	NaN
-Mitchell Gold + Bob Williams	Taylorsville, NC	NaN	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Morgan Stanley	New York, NY	30.0	NaN	NaN	100.0	100.0	NaN	NaN	2b
-Morningstar Inc.	Chicago, IL	NaN	NaN	NaN	65.0	40.0	NaN	NaN	NaN
-Morrison & Foerster LLP	San Francisco, CA	NaN	NaN	22.0	100.0	100.0	NaN	NaN	NaN
-Motorola Inc.	Schaumburg, IL	54.0	NaN	NaN	100.0	100.0	NaN	NaN	3a
-Mutual of Omaha Insurance	Omaha, NE	491.0	NaN	NaN	75.0	75.0	NaN	NaN	3b
-National City Corp.	Cleveland, OH	213.0	NaN	NaN	58.0	58.0	NaN	NaN	NaN
-National Grid USA	Westborough, MA	NaN	NaN	NaN	100.0	75.0	NaN	NaN	NaN
-Nationwide	Columbus, OH	98.0	NaN	NaN	100.0	100.0	NaN	NaN	4
-Navistar International Corp.	Warrenville, IL	201.0	NaN	NaN	30.0	30.0	NaN	NaN	NaN
-NCR Corp.	Dayton, OH	357.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Nestle Purina PetCare Co.	St. Louis, MO	NaN	NaN	NaN	15.0	15.0	NaN	NaN	NaN
-New York Life Insurance Co.	New York, NY	74.0	NaN	NaN	85.0	78.0	NaN	NaN	NaN
-New York Times Co.	New York, NY	557.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Newell Rubbermaid Inc.	Atlanta, GA	332.0	NaN	NaN	100.0	55.0	NaN	NaN	NaN
-Nielsen Co., The	Schaumburg, IL	NaN	NaN	NaN	85.0	50.0	NaN	NaN	NaN
-Nike Inc.	Beaverton, OR	163.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Nissan North America Inc.	Nashville, TN	NaN	NaN	NaN	50.0	15.0	NaN	NaN	NaN
-Nixon Peabody LLP	Rochester, NY	NaN	NaN	64.0	100.0	100.0	NaN	NaN	NaN
-Nokia	Irving, TX	NaN	NaN	NaN	50.0	50.0	NaN	NaN	NaN
-Nordstrom Inc.	Seattle, WA	293.0	NaN	NaN	100.0	100.0	NaN	NaN	NaN
-Nortel Networks Corp.	Richardson, TX	NaN	NaN	NaN	85.0	NaN	NaN	NaN	NaN
-Northeast Utilities System	Berlin, CT	304.0	NaN	NaN	80.0	80.0	NaN	NaN	NaN
-Northern Trust Corp.	Chicago, IL	533.0	NaN	NaN	100.0	95.0	NaN	NaN	NaN
+COMPANY	CITY	STATE	FORTUNE	FORBES	AMLAW	2008_CEI	2006_CEI
+3M Co.	St. Paul	MN	nan	101.0	nan	85.0	85.0
+A.G. Edwards Inc.	St. Louis	MO	nan	665.0	nan	85.0	85.0
+AAA Northern California, Nevada and Utah	San Francisco	CA	nan	nan	nan	100.0	100.0
+Abbott Laboratories	Abbott Park	IL	nan	93.0	nan	75.0	50.0
+Abercrombie & Fitch Co.	New Albany	OH	nan	639.0	nan	100.0	100.0
+Accenture Ltd.	New York	NY	nan	nan	nan	100.0	95.0
+Adobe Systems Inc.	San Jose	CA	nan	817.0	nan	100.0	100.0
+Advanced Micro Devices Inc.	Sunnyvale	CA	nan	367.0	nan	80.0	80.0
+AEGON Insurance	Group Cedar Rapids	IA	nan	nan	nan	40.0	35.0
+Aetna Inc.	Hartford	CT	nan	91.0	nan	100.0	100.0
+Affiliated Computer Services	Dallas	TX	nan	471.0	nan	80.0	75.0
+Agilent Technologies Inc.	Santa Clara	CA	nan	319.0	nan	100.0	100.0
+Air Products & Chemicals Inc.	Allentown	PA	nan	282.0	nan	75.0	75.0
+Akin, Gump, Strauss, Hauer & Feld LLP	Washington	DC	nan	nan	24.0	100.0	nan
+Alaska Airlines	Seattle	WA	621.0	nan	nan	95.0	nan
+Alcatel-Lucent	Murray Hill	NJ	nan	255.0	nan	100.0	100.0
+Allegheny Energy	Greensburg	PA	nan	572.0	nan	30.0	50.0
+Alliant Energy Corp.	Madison	WI	nan	549.0	nan	80.0	60.0
+Alliant Techsystems	Edina	MN	nan	638.0	nan	65.0	65.0
+Allianz Life Insurance Co. of North America	Minneapolis	MN	nan	nan	nan	100.0	100.0
+Allstate Corp., The	Northbrook	IL	nan	58.0	nan	100.0	85.0
+ALLTEL Corp.	Little Rock	AR	nan	251.0	nan	80.0	30.0
+Alston & Bird LLP	Atlanta	GA	nan	nan	57.0	100.0	100.0
+Amazon.com Inc.	Seattle	WA	nan	272.0	nan	80.0	65.0
+American Express Co.	New York	NY	nan	69.0	nan	100.0	100.0
+American Family Insurance Group	Madison	WI	nan	323.0	nan	90.0	75.0
+American International Group Inc.	New York	NY	nan	9.0	nan	30.0	30.0
+American Power Conversion Corp.	West Kingston	RI	nan	815.0	nan	58.0	58.0
+Ameriprise Financial Inc.	Minneapolis	MN	nan	nan	nan	100.0	100.0
+Amgen Inc.	Thousand Oaks	CA	nan	181.0	nan	85.0	85.0
+AMR Corp. (American Airlines)	Fort Worth	TX	nan	105.0	nan	100.0	100.0
+AmTrust Bank	Cleveland	OH	nan	nan	nan	75.0	nan
+Andrews & Kurth LLP	Houston	TX	nan	nan	95.0	65.0	nan
+Anheuser-Busch Companies Inc.	St. Louis	MO	nan	146.0	nan	100.0	100.0
+Aon Corp.	Chicago	IL	nan	237.0	nan	100.0	95.0
+Apple Inc.	Cupertino	CA	nan	159.0	nan	100.0	100.0
+Applebee's International Inc.	Overland Park	KS	nan	nan	nan	80.0	80.0
+Applied Materials Inc.	Santa Clara	CA	nan	317.0	nan	93.0	73.0
+Aquila	Kansas City	MO	nan	760.0	nan	35.0	35.0
+Aramark Corp.	Philadelphia	PA	nan	215.0	nan	80.0	80.0
+Archer Daniels Midland Co.	Decatur	IL	nan	56.0	nan	15.0	15.0
+Arent, Fox, Kintner, Plotkin & Kahn	Washington	DC	nan	nan	137.0	75.0	nan
+Arnold & Porter LLP	Washington	DC	nan	nan	46.0	100.0	100.0
+AstraZeneca PLC	Wilmington	DE	nan	nan	nan	85.0	nan
+AT&T Inc.	San Antonio	TX	39.0	nan	nan	100.0	100.0
+Austin Radiological Association	Austin	TX	nan	nan	nan	53.0	nan
+Automatic Data Processing Inc.	Roseland	NJ	271.0	nan	nan	95.0	30.0
+AutoZone Inc.	Memphis	TN	378.0	nan	nan	25.0	25.0
+Avaya Inc.	Basking Ridge	NJ	434.0	nan	nan	85.0	100.0
+Aventis Pharmaceuticals Inc. 	Bridgewater	NJ	nan	nan	nan	80.0	80.0
+Avis Budget Group Inc.	Parsippany	NJ	114.0	nan	nan	60.0	75.0
+Avnet Inc.	Phoenix	AZ	212.0	nan	nan	30.0	30.0
+Avon Products Inc.	New York	NY	281.0	nan	nan	60.0	30.0
+Bain & Co. Inc.	Boston	MA	nan	nan	nan	100.0	100.0
+Baker & Botts	Houston	TX	nan	nan	nan	52.0	85.0
+Baker & Daniels	Indianapolis	IN	nan	nan	nan	176.0	95.0
+Baldor Electric Co.	Fort Smith	AR	nan	nan	nan	25.0	15.0
+Ball Corp.	Broomfield	CO	nan	374.0	nan	nan	58.0
+Ballard, Spahr, Andrews & Ingersoll	Philadelphia	PA	nan	nan	nan	102.0	80.0
+Bank of America Corp.	Charlotte	NC	nan	12.0	nan	nan	100.0
+Bank of New York Co.	New York	NY	nan	278.0	nan	nan	85.0
+Barclays Capital	New York	NY	nan	nan	nan	nan	90.0
+Barnes & Noble Inc.	New York	NY	nan	422.0	nan	nan	63.0
+BASF Corp.	Florham Park	NJ	nan	nan	nan	nan	95.0
+Bausch & Lomb Inc.	Rochester	NY	nan	nan	nan	nan	100.0
+Baxter International Inc. 	Deerfield	IL	nan	240.0	nan	nan	73.0
+Bayer Corp.	Pittsburgh	PA	nan	nan	nan	nan	15.0
+BB&T Corp.	Winston-Salem	NC	nan	292.0	nan	nan	25.0
+Bear Stearns Companies Inc., The	New York	NY	202.0	nan	nan	100.0	nan
+Best Buy Co. Inc.	Richfield	MN	nan	76.0	nan	nan	100.0
+Bingham McCutchen	Boston	MA	nan	nan	nan	27.0	100.0	80.0
+Blackwell Sanders Peper Martin LLP	Kansas City	MO	nan	nan	nan	183.0	80.0
+BMC Software Inc.	Houston	TX	nan	984.0	nan	nan	70.0
+BNSF Railway Co.	Fort Worth	TX	nan	171.0	nan	nan	30.0
+Boehringer Ingelheim	Pharmaceuticals Inc. Ridgefield	CT	nan	nan	nan	nan	100.0
+Boeing Co.	Chicago	IL	nan	26.0	nan	nan	100.0
+Booz Allen Hamilton Inc.	McLean	VA	nan	nan	67.0	nan	80.0
+Borders Group Inc.	Ann Arbor	MI	nan	490.0	nan	nan	100.0
+Boston Consulting Group	Boston	MA	nan	nan	nan	nan	100.0
+BP America Inc. 	Warrenville	IL	nan	nan	nan	nan	100.0
+Bridgestone Americas Holding Inc. 	Nashville	TN	nan	nan	nan	nan	80.0
+Bright Horizons Family	Solutions Inc. Watertown	MA	nan	nan	nan	nan	100.0
+Brinker International Inc.	Dallas	TX	nan	504.0	nan	nan	100.0
+Bristol-Myers Squibb Co.	New York	NY	nan	110.0	nan	nan	100.0
+Bryan Cave LLP	St. Louis	MO	nan	nan	nan	56.0	100.0
+C&S Wholesale Grocers Inc. 	Keene	NH	nan	nan	7.0	nan	40.0
+Cadwalader, Wickersham & Taft	New York	NY	nan	nan	42.0	95.0	95.0
+Calpine Corp.	San Jose	CA	275.0	nan	nan	48.0	63.0
+Campbell Soup Co.	Camden	NJ	302.0	nan	nan	95.0	80.0
+Canadian Imperial Bank of Commerce	New York	NY	nan	nan	nan	95.0	nan
+Capital One Financial Corp.	McLean	VA	187.0	nan	nan	100.0	100.0
+Cargill Inc.	Wayzata	MN	nan	2.0	nan	100.0	100.0
+Carlson Companies Inc.	Minnetonka	MN	nan	44.0	nan	100.0	100.0
+Caterpillar Inc.	Peoria	IL	55.0	nan	nan	45.0	35.0
+CBRL Group Inc.	Lebanon	TN	676.0	nan	nan	15.0	15.0
+Cerner Corp.	Kansas City	MO	nan	nan	nan	65.0	45.0
+CH2M HILL Companies Ltd.	Englewood	CO	591.0	90.0	nan	80.0	80.0
+Chadbourne & Parke	New York	NY	nan	nan	92.0	70.0	nan
+Chamberlin Edmonds & Associates Inc.	Atlanta	GA	nan	nan	nan	68.0	68.0
+Charles Schwab Corp., The	San Francisco	CA	418.0	nan	nan	100.0	100.0
+Chevron Corp.	San Ramon	CA	4.0	nan	nan	100.0	100.0
+ChoicePoint Inc.	Alpharetta	GA	nan	nan	nan	100.0	100.0
+Chrysler LLC	Auburn Hills	MI	nan	nan	nan	100.0	100.0
+Chubb Corp.	Warren	NJ	156.0	nan	nan	100.0	100.0
+CIGNA Corp.	Philadelphia	PA	130.0	nan	nan	85.0	100.0
+2bCircuit City Stores Inc.	Richmond	VA	226.0	nan	nan	55.0	55.0
+Cisco Systems Inc.	San Jose	CA	83.0	nan	nan	100.0	100.0
+Citigroup Inc.	New York	NY	8.0	nan	nan	100.0	100.0
+Clear Channel Communications Inc.	San Antonio	TX	252.0	nan	nan	100.0	100.0
+Cleary, Gottlieb, Steen & Hamilton	New York	NY	nan	nan	nan	18.0	100.0
+Clorox Co.	Oakland	CA	460.0	nan	nan	100.0	100.0
+CMP Media LLC	Manhasset	NY	nan	nan	nan	100.0	100.0
+CNA Insurance	Chicago	IL	nan	nan	nan	100.0	100.0
+Coca-Cola Co., The	Atlanta	GA	89.0	nan	nan	100.0	100.0
+Coca-Cola Enterprises	Atlanta	GA	120.0	nan	nan	70.0	65.0
+Colgate-Palmolive Co.	New York	NY	204.0	nan	nan	58.0	78.0
+Comcast Corp.	Philadelphia	PA	94.0	nan	nan	80.0	85.0
+Comerica Inc.	Detroit	MI	524.0	nan	nan	80.0	80.0
+Compass Group North America	Charlotte	NC	nan	nan	nan	65.0	65.0
+ConocoPhillips	Houston	TX	6.0	nan	nan	63.0	78.0
+Consolidated Edison Co.	New York	NY	199.0	nan	nan	80.0	100.0
+Constellation Energy Group Inc.	Baltimore	MD	125.0	nan	nan	73.0	nan
+Continental Airlines Inc.	Houston	TX	207.0	nan	nan	80.0	75.0
+Cooper Tire & Rubber	Findlay	OH	770.0	nan	nan	33.0	33.0
+Coors Brewing Co.	Denver	CO	373.0	nan	nan	100.0	100.0
+Corbis Corp.	Seattle	WA	nan	nan	nan	80.0	65.0
+Corning Inc.	Corning	NY	456.0	nan	nan	100.0	100.0
+Costco Wholesale Corp.	Issaquah	WA	28.0	nan	nan	93.0	93.0
+Countrywide Financial Corp.	Calabasas	CA	122.0	nan	100.0	80.0	nan
+Covington & Burling	Washington	DC	nan	63.0	80.0	nan	nan
+Cox Communications Inc.	Atlanta	GA	316.0	nan	95.0	95.0	nan
+Cravath, Swaine & Moore LLP	New York	NY	nan	40.0	95.0	nan	nan
+Credit Suisse	New York	NY	nan	nan	100.0	100.0	nan
+Crowell & Moring LLP	Washington	DC	nan	112.0	100.0	nan	nan
+CSX Corp.	Jacksonville	FL	266.0	nan	85.0	40.0	nan
+Cummins Inc.	Columbus	IN	238.0	nan	100.0	100.0	nan
+CUNA Mutual Insurance Group	Madison	WI	644.0	nan	65.0	65.0	nan
+Dana Corp.	Toledo	OH	234.0	nan	20.0	35.0	nan
+Darden Restaurants	Orlando	FL	409.0	nan	80.0	80.0	nan
+Dean Foods Co.	Dallas	TX	216.0	nan	73.0	73.0	nan
+Debevoise & Plimpton	New York	NY	nan	37.0	90.0	nan	nan
+Deere & Co.	Moline	IL	96.0	nan	33.0	48.0	nan
+Dell Inc.	Round Rock	TX	25.0	nan	100.0	100.0	nan
+Deloitte & Touche USA LLP	New York	NY	nan	nan	100.0	100.0	nan
+Delphi Corp.	Troy	MI	77.0	nan	45.0	60.0	nan
+Delta Air Lines Inc.	Atlanta	GA	135.0	nan	85.0	85.0	nan
+Deutsche Bank	New York	NY	nan	nan	100.0	100.0	nan
+Dewey Ballantine LLP	New York	NY	nan	58.0	100.0	nan	nan
+Diageo North America	Norwalk	CT	nan	nan	95.0	nan	nan
+Dickstein Shapiro LLP	Washington	DC	nan	80.0	100.0	nan	nan
+Dole Food Co. Inc.	Westlake Village	CA	365.0	nan	45.0	60.0	nan
+Dominion Resources Inc.	Richmond	VA	123.0	nan	95.0	95.0	nan
+Domino's Pizza Inc.	Ann Arbor	MI	966.0	nan	60.0	45.0	nan
+Dorsey & Whitney LLP	Minneapolis	MN	nan	68.0	100.0	100.0	nan
+Dow Chemical Co.	Midland	MI	36.0	nan	100.0	100.0	nan
+Dow Jones & Co. Inc.	New York	NY	867.0	nan	30.0	30.0	nan
+DPR Construction	Redwood City	CA	nan	nan	30.0	50.0	nan
+Drinker Biddle & Reath LLP	Philadelphia	PA	nan	96.0	95.0	nan	nan
+DTE Energy Co.	Detroit	MI	259.0	nan	75.0	80.0	nan
+Duane Morris	Philadelphia	PA	nan	71.0	80.0	nan	nan
+Duke Energy Corp.	Charlotte	NC	117.0	nan	60.0	65.0	nan
+Dun & Bradstreet Corp., The	Short Hills	NJ	993.0	nan	35.0	35.0	nan
+DuPont (E.I. du Pont de Nemours)	Wilmington	DE	73.0	nan	100.0	100.0	nan
+Dykema Gossett	Detroit	MI	nan	143.0	80.0	nan	nan
+E*TRADE Financial Corp.	New York	NY	679.0	nan	93.0	73.0	nan
+EarthLink Inc.	Atlanta	GA	nan	nan	88.0	63.0	nan
+Eastman Kodak Co.	Rochester	NY	155.0	nan	100.0	100.0	nan
+Edison International	Rosemead	CA	194.0	nan	35.0	35.0	nan
+Edwards Angell Palmer & Dodge LLP	Boston	MA	nan	74.0	90.0	nan	nan
+Electronic Arts Inc.	Redwood City	CA	594.0	nan	100.0	88.0	nan
+Electronic Data Systems Corp.	Plano	TX	108.0	nan	90.0	70.0	nan
+Eli Lilly & Co.	Indianapolis	IN	148.0	nan	100.0	100.0	nan
+EMC Corp.	Hopkinton	MA	249.0	nan	nan	45.0	45.0
+Emerson Electric Co.	St. Louis	MO	126.0	nan	nan	45.0	45.0
+Entergy Corp.	New Orleans	LA	218.0	nan	nan	88.0	13.0
+Enterprise Rent-A-Car Co.	St. Louis	MO	nan	21.0	nan	85.0	nan
+Ernst & Young LLP	New York	NY	nan	8.0	nan	100.0	100.0
+Estee Lauder Companies	New York	NY	340.0	nan	nan	100.0	100.0
+Esurance Inc.	San Francisco	CA	nan	nan	nan	100.0	nan
+Exelon Corp.	Chicago	IL	144.0	nan	nan	95.0	80.0
+Exxon Mobil Corp.	Irving	TX	1.0	nan	nan	0.0	0.0
+Faegre & Benson	Minneapolis	MN	nan	nan	93.0	100.0	100.0
+Fannie Mae	Washington	DC	nan	nan	nan	100.0	100.0
+FedEx Corp.	Memphis	TN	70.0	nan	nan	55.0	55.0
+Fenwick & West LLP	Mountain View	CA	nan	nan	132.0	90.0	nan
+Fifth Third Bancorp	Cincinnati	OH	308.0	nan	nan	60.0	65.0
+Finnegan, Henderson, Farabow, Garrett & Dunner	Washington	DC	nan	nan	88.0	40.0	nan
+Fish & Richardson	Boston	MA	nan	nan	84.0	75.0	75.0
+Foley & Lardner LLP	Milwaukee	WI	nan	nan	25.0	100.0	95.0
+Foley Hoag LLP	Boston	MA	nan	nan	159.0	100.0	80.0
+Food Lion LLC	Salisbury	NC	nan	nan	nan	80.0	75.0
+Ford Motor Co.	Dearborn	MI	5.0	nan	nan	100.0	100.0
+Franklin Templeton Investments	San Mateo	CA	nan	nan	nan	50.0	60.0
+Freddie Mac	McLean	VA	nan	nan	nan	85.0	85.0
+Freescale Semiconductor Inc.	Austin	TX	368.0	nan	nan	100.0	100.0
+Fulbright & Jaworski LLP	Houston	TX	nan	nan	36.0	80.0	85.0
+GameStop Corp.	Grapevine	TX	601.0	nan	nan	100.0	63.0
+Gannett Co. Inc.	McLean	VA	296.0	nan	nan	65.0	80.0
+Gap Inc.	San Francisco	CA	139.0	nan	nan	100.0	100.0
+Gateway Inc.	Irvine	CA	508.0	nan	nan	65.0	65.0
+Genentech Inc.	South	 San Francisco	CA	nan	nan	nan	100.0
+General Dynamics Corp.	Falls Church	VA	100.0	nan	nan	40.0	55.0
+General Electric Co.	Fairfield	CT	7.0	nan	nan	75.0	75.0
+General Mills Inc.	Minneapolis	MN	206.0	nan	nan	100.0	100.0
+General Motors Corp.	Detroit	MI	3.0	nan	nan	100.0	100.0
+Giant Food LLC	Quincy	MA	nan	nan	nan	78.0	78.0
+Gibson, Dunn & Crutcher LLP	Los Angeles	CA	nan	nan	19.0	80.0	nan
+GlaxoSmithKline plc	Philadelphia	PA	nan	nan	nan	100.0	100.0
+Global Hyatt Corp.	Chicago	IL	nan	87.0	nan	100.0	100.0
+Goldman Sachs Group Inc., The	New York	NY	41.0	nan	nan	100.0	100.0
+Google Inc.	Mountain View	CA	353.0	nan	nan	100.0	100.0
+Gordon & Rees	San Francisco	CA	nan	nan	177.0	85.0	nan
+Guidant Corp.	Indianapolis	IN	535.0	nan	nan	80.0	80.0
+H.E. Butt Grocery Co.	San Antonio	TX	nan	11.0	nan	40.0	40.0
+H.J. Heinz Co.	Pittsburgh	PA	262.0	nan	nan	48.0	15.0
+Hain Celestial Group Inc. Melville	NY	nan	nan	nan	nan	30.0	30.0
+Hallmark Cards Inc.	Kansas City	MO	nan	nan	56.0	nan	90.0
+Hannaford Brothers	Portland	ME	nan	nan	nan	nan	93.0
+Harrah's Entertainment Inc.	Las Vegas	NV	nan	309.0	nan	nan	100.0
+Harris Bankcorp Inc.	Chicago	IL	nan	nan	nan	nan	95.0
+Harris Interactive Inc.	Rochester	NY	nan	nan	nan	nan	93.0
+Harry & David Holdings Inc.	Medford	OR	nan	nan	nan	nan	43.0
+Hartford Financial Services Co.	Hartford	CT	nan	78.0	nan	nan	100.0
+Harvard Pilgrim Health Care Inc.	Wellesley	MA	nan	nan	nan	nan	100.0
+Hasbro Inc.	Pawtucket	RI	nan	602.0	nan	nan	50.0
+Haynes and Boone	Dallas	TX	nan	nan	nan	101.0	75.0
+Health Net Inc.	Woodland Hills	CA	nan	191.0	nan	nan	93.0
+Heller Ehrman LLP	San Francisco	CA	nan	nan	nan	43.0	100.0
+Herman Miller Inc.	Zeeland	MI	nan	964.0	nan	nan	100.0
+Hershey Co., The	Hershey	PA	nan	442.0	nan	nan	70.0
+Hewitt Associates	Lincolnshire	IL	nan	633.0	nan	nan	100.0
+Hewlett-Packard Co.	Palo Alto	CA	nan	11.0	nan	nan	100.0
+Hilton Hotels Corp.	Beverly Hills	CA	nan	464.0	nan	nan	95.0
+Hoffmann-La Roche Inc.	Nutley	NJ	nan	nan	nan	nan	80.0
+Hogan & Hartson	Washington	DC	nan	nan	nan	21.0	80.0
+Holland & Knight LLP	New York	NY	nan	nan	nan	28.0	100.0
+Home Depot Inc.	Atlanta	GA	nan	14.0	nan	nan	85.0
+Honeywell International Inc. Morristown	NJ	nan	71.0	nan	nan	100.0	100.0
+Hospira Inc. Lake Forest	IL	nan	660.0	nan	nan	100.0	100.0
+Hotels.com LP	Dallas	TX	nan	nan	nan	nan	85.0
+Howard & Howard Attorneys PC Kalamazoo	MI	nan	nan	nan	nan	48.0	48.0
+Howrey Simon Arnold & White LLP	Washington	DC	nan	nan	nan	61.0	85.0
+HSBC USA Inc Prospect Heights	IL	nan	nan	nan	nan	100.0	95.0
+Humana Inc.	Louisville	KY	150.0	nan	nan	40.0	40.0
+Hunton & Williams	Richmond	VA	nan	nan	nan	44.0	75.0
+Illinois Tool Works Inc. Glenview	IL	nan	173.0	nan	nan	68.0	53.0
+Imation Corp.	Oakdale	MN	nan	nan	nan	93.0	93.0
+IndyMac Bancorp Inc.	Pasadena	CA	869.0	nan	nan	100.0	nan
+ING North America Insurance Corp.	Atlanta	GA	nan	nan	nan	nan	100.0
+Intel Corp.	Santa Clara	CA	nan	49.0	nan	nan	100.0
+International Business Machines	Corp. (IBM) Armonk	NY	nan	10.0	nan	nan	100.0
+International Paper Co.	Stamford	CT	nan	82.0	nan	nan	70.0
+Interpublic Group of Companies Inc.	New York	NY	nan	348.0	nan	nan	60.0
+Intuit Inc.	Mountain View	CA	nan	779.0	nan	nan	100.0
+ITT Industries Inc. White Plains	NY	nan	291.0	nan	nan	90.0	95.0
+J.C. Penney Co. Inc.	Plano	TX	118.0	nan	nan	100.0	50.0
+J.P. Morgan Chase & Co.	New York	NY	nan	17.0	nan	nan	100.0
+Jenner & Block LLP	Chicago	IL	nan	nan	nan	72.0	100.0
+JetBlue Airways Corp. Forest Hills	NY	nan	896.0	nan	nan	80.0	nan
+John Hancock Financial Services Inc.	Boston	MA	nan	nan	93.0	93.0	nan
+Johnson & Johnson New Brunswick	NJ	32.0	nan	100.0	100.0	nan	nan
+Kaiser Permanente	Oakland	CA	nan	nan	nan	100.0	100.0
+Katten Muchin Zavis	Chicago	IL	nan	60.0	85.0	nan	nan
+Kaye Scholer LLP	New York	NY	nan	62.0	80.0	nan	nan
+KB Home	Los Angeles	CA	254.0	nan	75.0	15.0	nan
+Keane Inc.	Boston	MA	nan	nan	50.0	50.0	nan
+Kelley Drye & Warren LLP	New York	NY	nan	122.0	85.0	nan	nan
+Kellogg Co. Battle Creek	MI	233.0	nan	35.0	50.0	nan	nan
+KeyCorp	Cleveland	OH	325.0	nan	nan	100.0	75.0
+Keyspan Corp Brooklyn	NY	295.0	nan	100.0	100.0	nan	nan
+Kilpatrick Stockton LLP	Atlanta	GA	nan	nan	82.0	90.0	63.0
+Kimberly-Clark Corp. 	Irving	TX	140.0	nan	nan	85.0	85.0
+Kimpton Hotel & Restaurant	nan	nan	nan	nan	nan	
+Group Inc.	 San Francisco	CA	nan	nan	100.0	100.0	nan
+King & Spalding	Atlanta	GA	nan	38.0	95.0	nan	nan
+Kirkland & Ellis	Chicago	IL	nan	9.0	100.0	nan	nan
+KLA-Tencor	San Jose	CA	780.0	nan	73.0	73.0	nan
+KPMG LLP	New York	NY	nan	nan	100.0	100.0	nan
+Kraft Foods Inc. Northfield	IL	nan	nan	100.0	100.0	nan	2a
+Kramer Levin Naftalis & Frankel LLP	New York	NY	nan	89.0	100.0	nan	nan
+Kroger Co., The	Cincinnati	OH	21.0	nan	75.0	35.0	nan
+L.L. Bean Inc.	Freeport	ME	nan	nan	nan	73.0	73.0
+Laclede Group Inc.	St. Louis	MO	930.0	nan	5.0	nan	nan
+Land O'Lakes	Arden Hills	MN	301.0	nan	nan	53.0	53.0
+LaSalle Bank Corp.	Chicago	IL	nan	nan	95.0	65.0	nan
+Latham & Watkins LLP	New York	NY	nan	2.0	100.0	nan	nan
+Lear Corp. 	Southfield	MI	127.0	nan	20.0	20.0	nan
+LeBoeuf, Lamb, Greene & MacRae	New York	NY	nan	51.0	80.0	nan	nan
+5Lehman Brothers Holdings	New York	NY	62.0	nan	100.0	100.0	nan
+Levi Strauss & Co.	 San Francisco	CA	484.0	53.0	100.0	100.0	nan
+Lexmark International Inc. 	Lexington	KY	415.0	nan	nan	100.0	100.0
+Lillian Vernon Corp. 	White Plains	NY	nan	nan	55.0	55.0	nan
+Lincoln National Corp.	Philadelphia	PA	396.0	nan	95.0	95.0	nan
+Littler Mendelson PC	 San Francisco	CA	nan	105.0	95.0	nan	nan
+Liz Claiborne Inc.	New York	NY	440.0	nan	100.0	100.0	nan
+Lockheed Martin Corp.	Bethesda	MD	52.0	nan	85.0	80.0	nan
+Lord, Bissell & Brook	Chicago	IL	nan	136.0	80.0	nan	nan
+Luce Forward Hamilton & Scripps LLP	San Diego	CA	nan	200.0	70.0	nan	nan
+Macy's Inc.	Cincinnati	OH	87.0	nan	100.0	80.0	nan
+Manatt, Phelps & Phillips LLP	Los Angeles	CA	nan	106.0	93.0	nan	nan
+Marriott International Inc.	Washington	DC	203.0	nan	100.0	75.0	nan
+Marsh & McLennan Companies Inc.	New York	NY	186.0	nan	78.0	30.0	nan
+Massachusetts Mutual Life Insurance Co.	Springfield	MA	92.0	nan	100.0	93.0	nan
+MasterCard Inc.	Purchase	NY	627.0	nan	nan	100.0	80.0
+Mattel Inc.	El Segundo	CA	416.0	nan	nan	88.0	88.0
+McAfee Inc.	Santa Clara	CA	nan	nan	nan	53.0	nan
+McCarter & English	Newark	NJ	nan	nan	126.0	90.0	nan
+McDermott Will & Emery LLP	Chicago	IL	nan	nan	17.0	100.0	100.0
+McDonald's Corp.	Oak Brook	IL	109.0	nan	nan	85.0	85.0
+McGraw-Hill Companies Inc., The	New York	NY	359.0	nan	nan	80.0	75.0
+McKinsey & Co. Inc.	New York	MA	nan	65.0	nan	100.0	100.0
+MeadWestvaco Corp.	Glen Allen	VA	322.0	nan	nan	80.0	80.0
+Medtronic Inc.	Minneapolis	MN	235.0	nan	nan	85.0	75.0
+Meijer	Grand Rapids	MI	nan	10.0	nan	0.0	0.0
+Mellon Financial Corp.	Pittsburgh	PA	377.0	nan	nan	100.0	100.0
+Merck & Co. Inc.	Whitehouse Station	NJ	95.0	nan	nan	100.0	100.0
+Merrill Lynch & Co.	New York	NY	34.0	nan	nan	100.0	100.0
+MetLife Inc.	New York	NY	35.0	nan	nan	100.0	100.0
+MGM Mirage	Las Vegas	NV	334.0	nan	nan	85.0	85.0
+Microsoft Corp.	Redmond	WA	48.0	nan	nan	100.0	100.0
+Miller Brewing Co.	Milwaukee	WI	nan	nan	nan	90.0	90.0
+Mintz, Levin, Cohn, Ferris, Glovsky & Popeo	Boston	MA	nan	nan	91.0	100.0	95.0
+Mirant Corp.	Atlanta	GA	479.0	nan	nan	45.0	45.0
+Mitchell Gold + Bob Williams	Taylorsville	NC	nan	nan	nan	100.0	100.0
+Morgan Stanley	New York	NY	30.0	nan	nan	100.0	100.0
+Morningstar Inc.	Chicago	IL	nan	nan	nan	65.0	40.0
+Morrison & Foerster LLP	San Francisco	CA	nan	nan	22.0	100.0	100.0
+Motorola Inc.	Schaumburg	IL	54.0	nan	nan	100.0	100.0
+Mutual of Omaha Insurance	Omaha	NE	491.0	nan	nan	75.0	75.0
+National City Corp.	Cleveland	OH	213.0	nan	nan	58.0	58.0
+National Grid USA	Westborough	MA	nan	nan	nan	100.0	75.0
+Nationwide	Columbus	OH	98.0	nan	nan	100.0	100.0
+Navistar International Corp.	Warrenville	IL	201.0	nan	nan	30.0	30.0
+NCR Corp.	Dayton	OH	357.0	nan	nan	100.0	100.0
+Nestle Purina PetCare Co.	St. Louis	MO	nan	nan	nan	15.0	15.0
+New York Life Insurance Co.	New York	NY	74.0	nan	nan	85.0	78.0
+New York Times Co.	New York	NY	557.0	nan	nan	100.0	100.0
+Newell Rubbermaid Inc.	Atlanta	GA	332.0	nan	nan	100.0	55.0
+Nielsen Co., The	Schaumburg	IL	nan	nan	nan	85.0	50.0
+Nike Inc.	Beaverton	OR	163.0	nan	nan	100.0	100.0
+Nissan North America Inc.	Nashville	TN	nan	nan	nan	50.0	15.0
+Nixon Peabody LLP	Rochester	NY	nan	nan	64.0	100.0	100.0
+Nokia	Irving	TX	nan	nan	nan	50.0	50.0
+Nordstrom Inc.	Seattle	WA	293.0	nan	nan	100.0	100.0
+Nortel Networks Corp.	Richardson	TX	nan	nan	nan	85.0	nan
+Northeast Utilities System	Berlin	CT	304.0	nan	nan	80.0	80.0
+Northern Trust Corp.	Chicago	IL	533.0	nan	nan	100.0	95.0
+Northrop Grumman Corp.	Los Angeles	CA	67.0	nan	100.0	100.0	nan
+Northwest Airlines Corp.	Eagan	MN	182.0	nan	85.0	65.0	nan
+Novartis Pharmaceutical Corp.	East Hanover	NJ	nan	nan	95.0	95.0	nan
+Office Depot Inc.	Delray Beach	FL	154.0	nan	60.0	60.0	nan
+OfficeMax Inc.	Naperville	IL	258.0	nan	75.0	nan	nan
+Olivia Companies LLC, The	San Francisco	CA	nan	nan	95.0	100.0	nan
+O'Melveny & Myers LLP	Los Angeles	CA	nan	15.0	100.0	nan	nan
+Omnicom Group	New York	NY	225.0	nan	30.0	30.0	nan
+Oracle Corp.	Redwood Shores	CA	196.0	nan	100.0	80.0	nan
+Orrick, Herrington & Sutcliffe	San Francisco	CA	nan	35.0	100.0	100.0	nan
+Owens & Minor	Mechanicsville	VA	443.0	nan	85.0	70.0	nan
+Owens Corning	Toledo	OH	341.0	nan	95.0	100.0	nan
+PacifiCare Health Systems	Cypress	CA	nan	nan	68.0	68.0	nan
+PacifiCorp	Portland	OR	nan	nan	85.0	85.0	nan
+Palm Management Corp.	Washington	DC	nan	nan	40.0	nan	nan
+Pathmark Stores Inc.	Carteret	NJ	497.0	nan	53.0	53.0	nan
+Paul, Hastings, Janofsky & Walker LLP	Los Angeles	CA	nan	23.0	100.0	75.0	nan
+Pepsi Bottling Group Inc., The	Somers	NY	192.0	nan	80.0	nan	nan
+PepsiAmericas Inc.	Schaumburg	IL	520.0	nan	80.0	nan	nan
+PepsiCo Inc.	Purchase	NY	61.0	nan	100.0	100.0	nan
+Perkins & Will	Chicago	IL	nan	nan	55.0	70.0	nan
+Perkins Coie	Seattle	WA	nan	69.0	85.0	nan	nan
+Perot Systems Corp.	Plano	TX	807.0	nan	0.0	0.0	nan
+Pfizer Inc.	New York	NY	31.0	nan	100.0	100.0	nan
+PG&E Corp.	San Francisco	CA	200.0	nan	100.0	100.0	nan
+PillsburyWinthrop ShawPittman LLP	San Francisco	CA	nan	30.0	100.0	100.0	nan
+Pitney Bowes Inc.	Stamford	CT	394.0	nan	85.0	93.0	nan
+PNC Financial Services Group Inc.	Pittsburgh	PA	290.0	nan	80.0	73.0	nan
+5PNM Resources Inc.	Albuquerque	NM	785.0	nan	43.0	43.0	nan
+Polaroid Corp.	Waltham	MA	nan	nan	60.0	60.0	nan
+Powell Goldstein LLP	Atlanta	GA	nan	171.0	100.0	100.0	nan
+PPG Industries	Pittsburgh	PA	232.0	nan	60.0	60.0	nan
+PPL Corp.	Allentown	PA	350.0	nan	60.0	55.0	nan
+Praxair Inc.	Danbury	CT	297.0	nan	25.0	25.0	nan
+PricewaterhouseCoopers LLP	New York	NY	nan	3.0	100.0	100.0	nan
+Principal Financial Group	Des Moines	IA	261.0	nan	100.0	85.0	nan
+Procter & Gamble Co.	Cincinnati	OH	24.0	nan	85.0	65.0	nan
+Progress Energy Inc.	Raleigh	NC	222.0	nan	68.0	53.0	nan
+Progressive Corp., The	Mayfield Village	OH	153.0	nan	65.0	50.0	nan
+Proskauer Rose LLP	New York	NY	nan	47.0	85.0	nan	nan
+Prudential Financial Inc.	Newark	NJ	64.0	nan	100.0	100.0	nan
+QUALCOMM Inc.	San Diego	CA	381.0	nan	95.0	95.0	nan
+Quarles & Brady	Milwaukee	WI	nan	116.0	80.0	nan	nan
+Quest Diagnostics Inc.	Lyndhurst	NJ	392.0	nan	80.0	80.0	nan
+Qwest Communications	International Inc. Denver	CO	nan	160.0	nan	nan	55.0
+R.R. Donnelley & Sons Co.	Chicago	IL	nan	265.0	nan	nan	20.0
+RadioShack Corp.	Fort Worth	TX	nan	423.0	nan	nan	40.0
+Raytheon Co.	Waltham	MA	nan	97.0	nan	nan	100.0
+Recreational Equipment Inc. 	Kent	WA	nan	nan	nan	nan	100.0
+Reebok International 	Canton	MA	nan	nan	nan	68.0	68.0
+Reliant Energy Inc.	Houston	TX	nan	220.0	nan	nan	50.0
+Replacements Ltd.	McLeansville	NC	nan	nan	nan	nan	100.0
+Reuters America Holdings Inc.	New York	NY	nan	nan	nan	nan	80.0
+Reynolds American Inc.	Winston-Salem	NC	nan	280.0	nan	nan	80.0
+Rite Aid Corp.	Camp Hill	PA	nan	129.0	nan	nan	85.0
+Robins, Kaplan, Miller & Ciresi	Minneapolis	MN	nan	nan	nan	120.0	93.0
+Rockwell Collins Inc.	Cedar Rapids	IA	nan	550.0	nan	nan	73.0
+Rohm and Haas Co.	Philadelphia	PA	nan	286.0	nan	nan	60.0
+Royal Caribbean Cruises Ltd	Miami	FL	nan	nan	nan	nan	55.0
+Ryder System Inc.	Miami	FL	nan	375.0	nan	nan	93.0
+Ryland Group 	Calabasas	CA	nan	444.0	nan	nan	30.0
+S.C. Johnson & Son Inc.	Racine	WI	nan	nan	29.0	nan	100.0
+SAFECO Corp.	Seattle	WA	nan	339.0	nan	nan	75.0
+Safeway Inc.	Pleasanton	CA	nan	50.0	nan	nan	75.0
+SAP America Inc. 	Newton Square	PA	nan	nan	nan	nan	90.0
+Sara Lee Corp.	Chicago	IL	nan	111.0	nan	nan	70.0
+Schering-Plough Corp. 	Kenilworth	NJ	nan	250.0	nan	nan	100.0
+Scholastic Corp.	New York	NY	nan	782.0	nan	nan	50.0
+Schulte, Roth & Zabel LLP	New York	NY	nan	nan	nan	67.0	80.0
+Seagate Technology Inc. 	Scotts Valley	CA	nan	nan	nan	nan	75.0
+Sears Holdings Corp. 	Hoffman Estates	IL	nan	33.0	nan	nan	100.0
+Sempra Energy	San Diego	CA	nan	197.0	nan	nan	80.0
+Severn Trent Services Inc.	Fort Washington	PA	nan	nan	nan	nan	65.0
+Seyfarth Shaw LLP	Chicago	IL	nan	nan	nan	66.0	95.0
+Shell Oil Co.	Houston	TX	nan	nan	nan	nan	85.0
+Sheppard Mullin Richter & Hampton	Los Angeles	CA	nan	nan	nan	77.0	75.0
+Shook, Hardy & Bacon LLP	Kansas City	MO	nan	nan	nan	85.0	85.0
+Sidley Austin LLP	Chicago	IL	nan	nan	nan	5.0	100.0
+Sierra Health Services Inc.	Las Vegas	NV	nan	nan	nan	nan	88.0
+Silicon Graphics Inc.	Mountain View	CA	nan	nan	nan	nan	50.0
+Sirius Satellite Radio Inc.	New York	NY	nan	nan	nan	nan	58.0
+Skadden, Arps, Slate, Meagher & Flom LLP	New York	NY	nan	nan	nan	1.0	95.0
+SLM Corp. (Sallie Mae)	Reston	VA	nan	331.0	nan	nan	60.0
+Sodexho Inc.	Gaithersburg	MD	nan	nan	nan	nan	100.0
+Software House International	Somerset	NJ	nan	nan	167.0	nan	40.0
+Sonnenschein, Nath & Rosenthal	Chicago	IL	nan	nan	nan	48.0	100.0
+Southern California Edison Co.	Rosemead	CA	nan	nan	nan	nan	95.0
+Southern Co.	Atlanta	GA	165.0	nan	48.0	nan	nan
+Southwest Airlines Co.	Dallas	TX	300.0	nan	90.0	83.0	nan
+Sprint Nextel Corp	Reston	VA	59.0	nan	100.0	100.0	nan
+SRA International Inc.	Fairfax	VA	nan	nan	75.0	75.0	nan
+Staples Inc.	Framingham	MA	137.0	nan	93.0	93.0	nan
+Starbucks Corp.	Seattle	WA	338.0	nan	100.0	85.0	nan
+Starcom MediaVest Group	Chicago	IL	nan	nan	100.0	100.0	nan
+Starwood Hotels & Resorts Worldwide	White Plains	NY	360.0	nan	100.0	100.0	nan
+State Farm Group	Bloomington	IL	22.0	nan	65.0	60.0	nan
+State Street Corp.	Boston	MA	307.0	nan	100.0	100.0	nan
+Steptoe & Johnson	Washington	DC	nan	78.0	85.0	85.0	nan
+Stinson Morrison Hecker	Kansas City	MO	nan	174.0	80.0	nan	nan
+Stoel Rives LLP	Portland	OR	nan	128.0	95.0	nan	nan
+Subaru of America Inc.	Cherry Hill	NJ	nan	nan	100.0	85.0	nan
+Sullivan & Cromwell LLP	New York	NY	nan	11.0	90.0	nan	nan
+Sun Microsystems Inc.	Santa Clara	CA	211.0	nan	100.0	100.0	nan
+SunTrust Banks Inc.	Atlanta	GA	217.0	nan	100.0	100.0	nan
+Supervalu Inc.	Eden Prairie	MN	113.0	nan	100.0	85.0	nan
+Sutherland Asbill & Brennan LLP	Atlanta	GA	nan	98.0	85.0	nan	nan
+Symantec Corp.	Cupertino	CA	672.0	nan	85.0	nan	nan
+Target Corp.	Minneapolis	MN	29.0	nan	80.0	80.0	nan
+Tech Data Corp.	Clearwater	FL	107.0	nan	100.0	100.0	nan
+Texas Instruments Inc.	Dallas	TX	167.0	nan	75.0	80.0	nan
+Thelen Reid Brown Raysman & Steiner LLP	San Francisco	CA	nan	75.0	70.0	nan	nan
+Thompson Coburn	St. Louis	MO	nan	172.0	85.0	nan	nan
+Thomson West	Eagan	MN	nan	nan	95.0	nan	nan
+Tiffany & Co.	New York	NY	727.0	nan	73.0	nan	nan
+Time Warner Inc.	New York	NY	40.0	nan	100.0	85.0	nan
+T-Mobile USA Inc.	Bellevue	WA	nan	nan	50.0	nan	nan
+Toyota Motor Sales USA Inc.	Torrance	CA	nan	nan	100.0	90.0	nan
+Toys 'R' Us Inc.	Wayne	NJ	208.0	13.0	45.0	45.0	nan
+Travelers Companies Inc., The	St. Paul	MN	85.0	nan	50.0	65.0	nan
+Travelport Inc.	Parsippany	NJ	nan	133.0	100.0	95.0	nan
+Troutman Sanders LLP	Atlanta	GA	nan	83.0	90.0	nan	nan
+U.S. Bancorp	Minneapolis	MN	131.0	nan	100.0	85.0	nan
+U.S. Foodservice Inc.	Columbia	MD	nan	nan	50.0	50.0	nan
+UAL Corp. (United Airlines)	Elk Grove Township	IL 124	nan	nan	88.0	73.0	nan
+UBS AG	Stamford	CT	nan	nan	100.0	95.0	nan
+Unilever	Englewood Cliffs	NJ	nan	nan	85.0	nan	nan
+Unisys Corp.	Blue Bell	PA	372.0	nan	70.0	90.0	nan
+United Parcel Service Inc. (UPS)	Atlanta	GA	44.0	nan	100.0	80.0	nan
+United Technologies Corp.	Hartford	CT	43.0	nan	40.0	40.0	nan
+Unum Group	Chattanooga	TN	229.0	nan	73.0	78.0	nan
+US Airways Group Inc.	Tempe	AZ	424.0	nan	nan	100.0	100.0
+Verizon Communications Inc.	New York	NY	18.0	nan	nan	85.0	85.0
+Vertis Inc.	Baltimore	MD	926.0	nan	nan	30.0	35.0
+Viacom Inc.	New York	NY	241.0	nan	nan	100.0	100.0
+Vinson & Elkins LLP	Houston	TX	nan	nan	39.0	80.0	73.0
+Visa	Foster City	CA	nan	nan	nan	100.0	100.0
+Vision Service Plan 	Rancho Cordova	CA	nan	nan	nan	65.0	80.0
+Visteon Corp. Van Buren Township, MI128	nan	nan	nan	95.0	95.0	nan	nan
+Vivendi	New York	NY	nan	nan	nan	35.0	50.0
+Volkswagen of America Inc.	Auburn Hills	MI	nan	nan	nan	100.0	100.0
+Wachovia Corp.	Charlotte	NC	57.0	nan	nan	100.0	100.0
+Wachtell, Lipton, Rosen & Katz	New York	NY	nan	nan	49.0	75.0	nan
+Walgreens Co. Deerfield	IL	45.0	nan	nan	100.0	100.0	nan
+Wal-Mart Stores Inc.	Bentonville	AR	2.0	nan	nan	40.0	65.0
+Walt Disney Co.	Burbank	CA	63.0	nan	nan	100.0	100.0
+Washington Mutual Inc.	Seattle	WA	99.0	nan	nan	100.0	90.0
+Waste Management Inc.	Houston	TX	170.0	nan	nan	100.0	85.0
+Weil, Gotshal & Manges	New York	NY	nan	nan	7.0	95.0	nan
+WellPoint Inc.	Indianapolis	IN	38.0	nan	nan	85.0	80.0
+Wells Fargo & Co. 	San Francisco	CA	46.0	nan	nan	100.0	100.0
+Weyerhaeuser Co. 	Federal Way	WA	90.0	nan	nan	75.0	60.0
+Whirlpool Corp. 	Benton Harbor	MI	152.0	nan	nan	100.0	100.0
+White & Case LLP	New York	NY	nan	nan	6.0	80.0	nan
+Whole Foods Market Inc.	Austin	TX	449.0	nan	nan	90.0	95.0
+Wildman Harrold Allen & Dixon	Chicago	IL	nan	nan	193.0	80.0	nan
+Williams Companies Inc.	Tulsa	OK	180.0	nan	nan	55.0	65.0
+Willkie Farr & Gallagher	New York	NY	nan	nan	50.0	85.0	85.0
+Wilson, Sonsini, Goodrich & Rosati	Palo Alto	CA	nan	nan	54.0	85.0	nan
+Winston & Strawn	Chicago	IL	nan	nan	31.0	85.0	nan
+Wisconsin Energy Corp.	Milwaukee	WI	510.0	nan	nan	55.0	55.0
+Womble Carlyle Sandridge & Rice	Winston-Salem	NC	nan	nan	87.0	65.0	nan
+Worldspan Technologies Inc.	Atlanta	GA	nan	nan	nan	90.0	90.0
+WPP Group USA	New York	NY	nan	nan	nan	93.0	78.0
+Wyeth Madison	NJ	119.0	nan	nan	80.0	65.0	nan
+Wyndham Worldwide Corp.	Parsippany	NJ	nan	nan	nan	100.0	90.0
+Xcel Energy	Minneapolis	MN	247.0	nan	nan	60.0	75.0
+Xerox Corp.	Stamford	CT	142.0	nan	nan	100.0	100.0
+XM Satellite Radio Holdings Inc.	Washington	DC	nan	nan	nan	88.0	88.0
+Yahoo! Inc.	Sunnyvale	CA	412.0	nan	nan	100.0	90.0
+YRC Worldwide Inc.	Overland Park	KS	263.0	nan	nan	30.0	nan
+Zurich North America	Schaumburg	IL	nan	nan	nan	50.0	50.0
